@@ -1,0 +1,611 @@
+ROCO_81834		T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_81840		T109	Organic Chemical	T074	Medical Device	T033	Finding	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid
+ROCO_81862		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_81876		T170	Intellectual Product
+ROCO_81888		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity	T201	Clinical Attribute
+ROCO_81890	
+ROCO_81894		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T127	Vitamin	T073	Manufactured Object	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_81902		T047	Disease or Syndrome	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_81922		T109	Organic Chemical	T121	Pharmacologic Substance	T170	Intellectual Product	T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_81937		T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T033	Finding	T109	Organic Chemical
+ROCO_81942		T074	Medical Device	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure
+ROCO_81948		T031	Body Substance	T074	Medical Device	T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_81952		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_81961		T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T059	Laboratory Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_81979		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_81984		T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_81993		T046	Pathologic Function	T047	Disease or Syndrome	T059	Laboratory Procedure
+ROCO_82014		T184	Sign or Symptom	T033	Finding	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82019		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_82038		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82048		T047	Disease or Syndrome
+ROCO_82051		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T059	Laboratory Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82061		T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T059	Laboratory Procedure	T191	Neoplastic Process	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_82091		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T125	Hormone	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_82115		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T195	Antibiotic	T191	Neoplastic Process	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82124		T170	Intellectual Product
+ROCO_82131		T170	Intellectual Product	T121	Pharmacologic Substance	T033	Finding	T034	Laboratory or Test Result	T109	Organic Chemical	T029	Body Location or Region	T023	Body Part, Organ, or Organ Component
+ROCO_82145		T074	Medical Device	T047	Disease or Syndrome	T029	Body Location or Region
+ROCO_82167		T031	Body Substance	T074	Medical Device
+ROCO_82181		T121	Pharmacologic Substance	T127	Vitamin
+ROCO_82196		T060	Diagnostic Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82204		T033	Finding	T170	Intellectual Product	T029	Body Location or Region
+ROCO_82209		T074	Medical Device	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T059	Laboratory Procedure	T058	Health Care Activity
+ROCO_82238		T061	Therapeutic or Preventive Procedure	T074	Medical Device	T121	Pharmacologic Substance	T195	Antibiotic	T058	Health Care Activity	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_82244		T201	Clinical Attribute	T074	Medical Device	T061	Therapeutic or Preventive Procedure	T047	Disease or Syndrome	T170	Intellectual Product
+ROCO_82247		T121	Pharmacologic Substance	T058	Health Care Activity
+ROCO_82255		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T059	Laboratory Procedure	T033	Finding	T047	Disease or Syndrome	T039	Physiologic Function
+ROCO_82271		T046	Pathologic Function	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T109	Organic Chemical	T170	Intellectual Product	T201	Clinical Attribute
+ROCO_82280	
+ROCO_82292		T074	Medical Device	T170	Intellectual Product	T058	Health Care Activity
+ROCO_82295		T074	Medical Device	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_82309		T060	Diagnostic Procedure
+ROCO_82314		T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T033	Finding	T109	Organic Chemical
+ROCO_82315		T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_82319		T121	Pharmacologic Substance	T041	Mental Process
+ROCO_82323		T170	Intellectual Product
+ROCO_82324		T170	Intellectual Product
+ROCO_82326		T074	Medical Device
+ROCO_82328		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_82347		T074	Medical Device	T023	Body Part, Organ, or Organ Component
+ROCO_82352		T061	Therapeutic or Preventive Procedure	T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_82365		T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_82379		T170	Intellectual Product
+ROCO_82381	
+ROCO_82385		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82392		T170	Intellectual Product
+ROCO_82401		T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_82420		T109	Organic Chemical	T033	Finding	T047	Disease or Syndrome	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_82433		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_82434		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82435		T201	Clinical Attribute	T074	Medical Device	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_82440		T074	Medical Device	T033	Finding	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_82442		T046	Pathologic Function	T170	Intellectual Product	T041	Mental Process	T123	Biologically Active Substance	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T122	Biomedical or Dental Material	T109	Organic Chemical	T197	Inorganic Chemical
+ROCO_82447		T039	Physiologic Function	T170	Intellectual Product	T033	Finding	T040	Organism Function	T060	Diagnostic Procedure
+ROCO_82449		T123	Biologically Active Substance	T121	Pharmacologic Substance	T059	Laboratory Procedure	T130	Indicator, Reagent, or Diagnostic Aid	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T200	Clinical Drug
+ROCO_82455		T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_82458		T191	Neoplastic Process
+ROCO_82467		T061	Therapeutic or Preventive Procedure	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T058	Health Care Activity	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82483		T046	Pathologic Function	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T184	Sign or Symptom	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_82484		T170	Intellectual Product	T121	Pharmacologic Substance	T059	Laboratory Procedure	T033	Finding	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_82485		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_82492		T023	Body Part, Organ, or Organ Component	T059	Laboratory Procedure
+ROCO_82493		T116	Amino Acid, Peptide, or Protein	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T031	Body Substance	T023	Body Part, Organ, or Organ Component
+ROCO_82494		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T191	Neoplastic Process	T029	Body Location or Region
+ROCO_82501		T170	Intellectual Product	T040	Organism Function	T029	Body Location or Region
+ROCO_82514		T033	Finding	T191	Neoplastic Process	T170	Intellectual Product	T029	Body Location or Region
+ROCO_82515		T031	Body Substance	T123	Biologically Active Substance	T121	Pharmacologic Substance	T170	Intellectual Product
+ROCO_82520	
+ROCO_82524		T184	Sign or Symptom	T033	Finding	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_82557	
+ROCO_82578		T039	Physiologic Function	T191	Neoplastic Process	T170	Intellectual Product	T058	Health Care Activity
+ROCO_82607		T059	Laboratory Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_82612		T040	Organism Function	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T034	Laboratory or Test Result	T037	Injury or Poisoning	T109	Organic Chemical	T170	Intellectual Product
+ROCO_82614		T170	Intellectual Product
+ROCO_82615		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T033	Finding	T023	Body Part, Organ, or Organ Component	T200	Clinical Drug	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_82619		T170	Intellectual Product	T121	Pharmacologic Substance	T126	Enzyme	T191	Neoplastic Process	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_82637		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82638		T116	Amino Acid, Peptide, or Protein	T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T125	Hormone
+ROCO_82644		T060	Diagnostic Procedure	T170	Intellectual Product	T074	Medical Device	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82649		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T058	Health Care Activity	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_82654		T109	Organic Chemical	T033	Finding	T047	Disease or Syndrome	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_82655		T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure
+ROCO_82656		T129	Immunologic Factor	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T123	Biologically Active Substance	T122	Biomedical or Dental Material	T121	Pharmacologic Substance	T195	Antibiotic	T059	Laboratory Procedure	T116	Amino Acid, Peptide, or Protein	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82660		T109	Organic Chemical	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_82668		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T184	Sign or Symptom	T059	Laboratory Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_82669	
+ROCO_82670		T023	Body Part, Organ, or Organ Component
+ROCO_82677		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_82684		T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance	T191	Neoplastic Process
+ROCO_82694		T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_82703		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82720		T047	Disease or Syndrome	T170	Intellectual Product	T184	Sign or Symptom	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_82737		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_82750		T046	Pathologic Function	T047	Disease or Syndrome	T029	Body Location or Region
+ROCO_82756		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T201	Clinical Attribute
+ROCO_82757		T121	Pharmacologic Substance	T170	Intellectual Product
+ROCO_82759		T047	Disease or Syndrome	T041	Mental Process
+ROCO_82774		T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82782		T130	Indicator, Reagent, or Diagnostic Aid	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_82789		T046	Pathologic Function	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_82794		T023	Body Part, Organ, or Organ Component	T184	Sign or Symptom
+ROCO_82795		T170	Intellectual Product	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_82801		T061	Therapeutic or Preventive Procedure	T040	Organism Function	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T058	Health Care Activity	T033	Finding	T034	Laboratory or Test Result	T197	Inorganic Chemical	T170	Intellectual Product	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_82806		T031	Body Substance	T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_82808		T061	Therapeutic or Preventive Procedure	T048	Mental or Behavioral Dysfunction
+ROCO_82835		T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82842		T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82843		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T109	Organic Chemical	T029	Body Location or Region
+ROCO_82848		T047	Disease or Syndrome	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T031	Body Substance	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82863		T046	Pathologic Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_82877		T046	Pathologic Function	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82880		T074	Medical Device	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_82892		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_82913		T201	Clinical Attribute	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_82924		T060	Diagnostic Procedure	T191	Neoplastic Process	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_82940		T023	Body Part, Organ, or Organ Component
+ROCO_82958		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T127	Vitamin	T031	Body Substance	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_82971		T170	Intellectual Product
+ROCO_83008		T074	Medical Device
+ROCO_83021	
+ROCO_83033		T033	Finding	T047	Disease or Syndrome
+ROCO_83037		T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83038		T033	Finding	T047	Disease or Syndrome	T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_83039		T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_83053		T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83065		T046	Pathologic Function	T041	Mental Process	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T191	Neoplastic Process	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_83066		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_83074		T023	Body Part, Organ, or Organ Component
+ROCO_83109		T023	Body Part, Organ, or Organ Component
+ROCO_83118		T170	Intellectual Product
+ROCO_83140		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_83148		T197	Inorganic Chemical	T033	Finding	T170	Intellectual Product	T121	Pharmacologic Substance	T059	Laboratory Procedure
+ROCO_83164		T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_83185		T109	Organic Chemical	T170	Intellectual Product	T033	Finding	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_83189	
+ROCO_83205		T039	Physiologic Function	T060	Diagnostic Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83206		T060	Diagnostic Procedure	T047	Disease or Syndrome	T040	Organism Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T170	Intellectual Product
+ROCO_83220		T047	Disease or Syndrome	T170	Intellectual Product	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83221		T033	Finding	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_83223		T023	Body Part, Organ, or Organ Component
+ROCO_83237		T060	Diagnostic Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T109	Organic Chemical	T029	Body Location or Region
+ROCO_83242		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T058	Health Care Activity	T116	Amino Acid, Peptide, or Protein	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_83252		T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_83264		T060	Diagnostic Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T184	Sign or Symptom	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_83272	
+ROCO_83288		T170	Intellectual Product
+ROCO_83291		T061	Therapeutic or Preventive Procedure
+ROCO_83305		T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83315		T109	Organic Chemical	T195	Antibiotic
+ROCO_83317		T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_83332		T047	Disease or Syndrome	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_83348		T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_83352		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_83355		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T109	Organic Chemical
+ROCO_83358		T031	Body Substance	T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance
+ROCO_83361	
+ROCO_83381		T116	Amino Acid, Peptide, or Protein	T041	Mental Process	T121	Pharmacologic Substance	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_83383		T033	Finding	T170	Intellectual Product	T029	Body Location or Region
+ROCO_83410		T129	Immunologic Factor	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T059	Laboratory Procedure	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function
+ROCO_83418		T170	Intellectual Product	T201	Clinical Attribute	T048	Mental or Behavioral Dysfunction	T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_83422		T074	Medical Device	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_83424		T061	Therapeutic or Preventive Procedure	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_83436		T074	Medical Device
+ROCO_83442		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance
+ROCO_83454		T060	Diagnostic Procedure	T170	Intellectual Product	T123	Biologically Active Substance	T121	Pharmacologic Substance	T129	Immunologic Factor	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T109	Organic Chemical	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_83463		T041	Mental Process	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83528	
+ROCO_83539		T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure
+ROCO_83544		T170	Intellectual Product	T061	Therapeutic or Preventive Procedure	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity
+ROCO_83562		T047	Disease or Syndrome
+ROCO_83626		T039	Physiologic Function	T109	Organic Chemical	T033	Finding	T170	Intellectual Product	T121	Pharmacologic Substance
+ROCO_83628		T033	Finding	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_83649		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_83654		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T059	Laboratory Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_83660		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T029	Body Location or Region
+ROCO_83668		T031	Body Substance	T074	Medical Device
+ROCO_83680		T046	Pathologic Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_83686	
+ROCO_83693		T074	Medical Device	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_83701		T039	Physiologic Function	T074	Medical Device	T033	Finding	T170	Intellectual Product	T040	Organism Function
+ROCO_83705		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T129	Immunologic Factor	T201	Clinical Attribute
+ROCO_83723		T031	Body Substance	T074	Medical Device	T033	Finding	T058	Health Care Activity
+ROCO_83724		T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_83727		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_83728		T039	Physiologic Function	T074	Medical Device	T060	Diagnostic Procedure	T058	Health Care Activity
+ROCO_83729		T031	Body Substance	T047	Disease or Syndrome
+ROCO_83733		T170	Intellectual Product
+ROCO_83734		T033	Finding	T170	Intellectual Product	T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_83737		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_83745		T047	Disease or Syndrome	T074	Medical Device	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83753		T047	Disease or Syndrome	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T127	Vitamin	T059	Laboratory Procedure	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical	T170	Intellectual Product
+ROCO_83756		T074	Medical Device	T029	Body Location or Region
+ROCO_83785		T074	Medical Device	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure
+ROCO_83797		T074	Medical Device	T060	Diagnostic Procedure
+ROCO_83805		T170	Intellectual Product
+ROCO_83828		T074	Medical Device	T023	Body Part, Organ, or Organ Component
+ROCO_83839		T170	Intellectual Product	T121	Pharmacologic Substance	T073	Manufactured Object	T116	Amino Acid, Peptide, or Protein	T059	Laboratory Procedure	T125	Hormone	T023	Body Part, Organ, or Organ Component
+ROCO_83840		T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_83865		T170	Intellectual Product
+ROCO_83867		T074	Medical Device	T170	Intellectual Product	T184	Sign or Symptom	T191	Neoplastic Process
+ROCO_83871		T130	Indicator, Reagent, or Diagnostic Aid	T046	Pathologic Function	T170	Intellectual Product	T121	Pharmacologic Substance	T059	Laboratory Procedure
+ROCO_83873		T023	Body Part, Organ, or Organ Component
+ROCO_83904	
+ROCO_83913		T041	Mental Process
+ROCO_83914		T046	Pathologic Function	T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_83922	
+ROCO_83930		T023	Body Part, Organ, or Organ Component
+ROCO_83943		T033	Finding
+ROCO_83956		T191	Neoplastic Process
+ROCO_83961		T061	Therapeutic or Preventive Procedure	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical	T170	Intellectual Product	T029	Body Location or Region
+ROCO_83976		T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_83991		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_83992		T061	Therapeutic or Preventive Procedure	T040	Organism Function	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T109	Organic Chemical	T170	Intellectual Product	T191	Neoplastic Process
+ROCO_84016		T109	Organic Chemical	T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure	T059	Laboratory Procedure
+ROCO_84029		T170	Intellectual Product	T121	Pharmacologic Substance	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_84039		T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_84040		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T184	Sign or Symptom	T191	Neoplastic Process	T061	Therapeutic or Preventive Procedure
+ROCO_84048		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T033	Finding	T037	Injury or Poisoning	T029	Body Location or Region
+ROCO_84057		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T023	Body Part, Organ, or Organ Component
+ROCO_84063		T031	Body Substance	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_84066		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_84072	
+ROCO_84115		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T058	Health Care Activity
+ROCO_84193		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T116	Amino Acid, Peptide, or Protein	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_84195		T033	Finding	T061	Therapeutic or Preventive Procedure	T037	Injury or Poisoning
+ROCO_84207		T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_84228	
+ROCO_84238		T047	Disease or Syndrome	T170	Intellectual Product	T058	Health Care Activity	T033	Finding	T061	Therapeutic or Preventive Procedure	T040	Organism Function
+ROCO_84242		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T058	Health Care Activity	T033	Finding	T109	Organic Chemical	T029	Body Location or Region
+ROCO_84247	
+ROCO_84248		T031	Body Substance	T074	Medical Device	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84254		T170	Intellectual Product
+ROCO_84292		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T127	Vitamin	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_84293		T047	Disease or Syndrome	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T039	Physiologic Function	T170	Intellectual Product	T029	Body Location or Region
+ROCO_84297		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T033	Finding
+ROCO_84298		T047	Disease or Syndrome
+ROCO_84301		T074	Medical Device	T046	Pathologic Function	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84319		T061	Therapeutic or Preventive Procedure	T121	Pharmacologic Substance	T125	Hormone	T116	Amino Acid, Peptide, or Protein	T059	Laboratory Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84326		T046	Pathologic Function	T047	Disease or Syndrome	T040	Organism Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T060	Diagnostic Procedure	T109	Organic Chemical	T061	Therapeutic or Preventive Procedure	T127	Vitamin	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T170	Intellectual Product
+ROCO_84327		T046	Pathologic Function	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_84329	
+ROCO_84336		T033	Finding	T170	Intellectual Product	T041	Mental Process	T029	Body Location or Region
+ROCO_84341		T023	Body Part, Organ, or Organ Component
+ROCO_84356		T074	Medical Device	T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_84374		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T058	Health Care Activity	T031	Body Substance	T109	Organic Chemical	T197	Inorganic Chemical	T039	Physiologic Function	T029	Body Location or Region
+ROCO_84396		T046	Pathologic Function	T033	Finding	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component
+ROCO_84428		T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_84429		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T047	Disease or Syndrome	T037	Injury or Poisoning	T197	Inorganic Chemical
+ROCO_84443		T033	Finding	T170	Intellectual Product	T073	Manufactured Object
+ROCO_84447		T046	Pathologic Function	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_84453		T109	Organic Chemical	T060	Diagnostic Procedure	T121	Pharmacologic Substance
+ROCO_84456		T063	Molecular Biology Research Technique	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T116	Amino Acid, Peptide, or Protein	T109	Organic Chemical	T170	Intellectual Product
+ROCO_84467		T033	Finding	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84470		T046	Pathologic Function	T047	Disease or Syndrome	T060	Diagnostic Procedure	T037	Injury or Poisoning	T058	Health Care Activity
+ROCO_84484		T074	Medical Device	T060	Diagnostic Procedure	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component
+ROCO_84492		T046	Pathologic Function	T029	Body Location or Region
+ROCO_84505		T033	Finding
+ROCO_84531		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_84535		T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance
+ROCO_84537		T047	Disease or Syndrome	T041	Mental Process
+ROCO_84539		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T125	Hormone	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_84558		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T023	Body Part, Organ, or Organ Component
+ROCO_84574		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84578	
+ROCO_84585		T121	Pharmacologic Substance	T047	Disease or Syndrome	T129	Immunologic Factor
+ROCO_84595		T033	Finding	T047	Disease or Syndrome	T170	Intellectual Product	T060	Diagnostic Procedure	T058	Health Care Activity
+ROCO_84596	
+ROCO_84597	
+ROCO_84616		T129	Immunologic Factor	T170	Intellectual Product	T121	Pharmacologic Substance	T125	Hormone	T116	Amino Acid, Peptide, or Protein	T059	Laboratory Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_84621		T121	Pharmacologic Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T041	Mental Process
+ROCO_84638		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84639		T019	Congenital Abnormality	T047	Disease or Syndrome	T033	Finding
+ROCO_84643		T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_84648		T033	Finding
+ROCO_84651		T074	Medical Device	T060	Diagnostic Procedure	T170	Intellectual Product
+ROCO_84652		T129	Immunologic Factor	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_84676		T114	Nucleic Acid, Nucleoside, or Nucleotide	T170	Intellectual Product	T121	Pharmacologic Substance	T073	Manufactured Object
+ROCO_84678		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T058	Health Care Activity	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_84679		T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84683		T060	Diagnostic Procedure	T170	Intellectual Product	T074	Medical Device	T031	Body Substance	T033	Finding	T029	Body Location or Region
+ROCO_84686		T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance
+ROCO_84691		T060	Diagnostic Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T184	Sign or Symptom
+ROCO_84726		T074	Medical Device	T033	Finding	T170	Intellectual Product
+ROCO_84731		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T109	Organic Chemical
+ROCO_84739		T033	Finding	T047	Disease or Syndrome	T170	Intellectual Product
+ROCO_84755		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance
+ROCO_84778	
+ROCO_84808		T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84815		T060	Diagnostic Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T059	Laboratory Procedure	T033	Finding	T109	Organic Chemical	T029	Body Location or Region
+ROCO_84838	
+ROCO_84843		T074	Medical Device	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_84850		T074	Medical Device	T170	Intellectual Product
+ROCO_84853		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84875		T061	Therapeutic or Preventive Procedure
+ROCO_84902		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_84919		T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84921		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T074	Medical Device	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component	T122	Biomedical or Dental Material	T109	Organic Chemical
+ROCO_84925		T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T048	Mental or Behavioral Dysfunction	T170	Intellectual Product
+ROCO_84936		T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_84937		T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_84940		T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_84983		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_84988		T060	Diagnostic Procedure	T040	Organism Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T191	Neoplastic Process	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T170	Intellectual Product
+ROCO_84998		T046	Pathologic Function	T047	Disease or Syndrome	T074	Medical Device	T060	Diagnostic Procedure	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_85014		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_85022		T109	Organic Chemical	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T041	Mental Process	T029	Body Location or Region
+ROCO_85025		T060	Diagnostic Procedure	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T126	Enzyme	T191	Neoplastic Process	T116	Amino Acid, Peptide, or Protein	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_85036		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T037	Injury or Poisoning
+ROCO_85044		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T059	Laboratory Procedure
+ROCO_85059		T109	Organic Chemical	T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance
+ROCO_85079		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T029	Body Location or Region
+ROCO_85081		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_85083	
+ROCO_85087	
+ROCO_85090		T074	Medical Device	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_85091		T170	Intellectual Product	T121	Pharmacologic Substance	T073	Manufactured Object	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_85104		T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_85123		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T195	Antibiotic	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T039	Physiologic Function	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_85125		T170	Intellectual Product	T033	Finding	T047	Disease or Syndrome	T048	Mental or Behavioral Dysfunction	T041	Mental Process
+ROCO_85137		T061	Therapeutic or Preventive Procedure	T040	Organism Function	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T126	Enzyme	T059	Laboratory Procedure	T058	Health Care Activity	T116	Amino Acid, Peptide, or Protein	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T170	Intellectual Product	T191	Neoplastic Process
+ROCO_85150		T033	Finding	T046	Pathologic Function	T029	Body Location or Region
+ROCO_85162		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T048	Mental or Behavioral Dysfunction	T033	Finding	T023	Body Part, Organ, or Organ Component	T170	Intellectual Product
+ROCO_85187		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85188		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T184	Sign or Symptom	T125	Hormone	T191	Neoplastic Process	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_85191		T081	Quantitative Concept	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_85210		T109	Organic Chemical	T121	Pharmacologic Substance	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_85213		T033	Finding	T170	Intellectual Product
+ROCO_85217		T033	Finding	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_85230		T023	Body Part, Organ, or Organ Component
+ROCO_85232		T074	Medical Device
+ROCO_85234		T039	Physiologic Function	T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T029	Body Location or Region
+ROCO_85261		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_85263		T031	Body Substance	T039	Physiologic Function	T047	Disease or Syndrome	T074	Medical Device
+ROCO_85270		T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_85275		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T033	Finding	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_85297		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_85311	
+ROCO_85327		T170	Intellectual Product
+ROCO_85329		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T201	Clinical Attribute
+ROCO_85334		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T059	Laboratory Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_85344		T074	Medical Device	T170	Intellectual Product
+ROCO_85377		T031	Body Substance	T059	Laboratory Procedure	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_85378		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_85385		T060	Diagnostic Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_85386		T060	Diagnostic Procedure	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85403		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_85418		T033	Finding	T184	Sign or Symptom
+ROCO_85437		T170	Intellectual Product
+ROCO_85445		T129	Immunologic Factor	T047	Disease or Syndrome	T040	Organism Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T195	Antibiotic	T125	Hormone	T058	Health Care Activity	T116	Amino Acid, Peptide, or Protein	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85449		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T058	Health Care Activity	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85452		T109	Organic Chemical	T121	Pharmacologic Substance	T170	Intellectual Product	T029	Body Location or Region
+ROCO_85458		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T197	Inorganic Chemical	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T058	Health Care Activity	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_85470		T033	Finding	T047	Disease or Syndrome	T170	Intellectual Product	T058	Health Care Activity
+ROCO_85476		T060	Diagnostic Procedure
+ROCO_85477		T074	Medical Device	T060	Diagnostic Procedure	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T061	Therapeutic or Preventive Procedure
+ROCO_85485		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein
+ROCO_85487		T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_85490		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_85495		T109	Organic Chemical	T074	Medical Device	T033	Finding	T121	Pharmacologic Substance	T060	Diagnostic Procedure
+ROCO_85509		T129	Immunologic Factor	T074	Medical Device	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_85510		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_85512		T047	Disease or Syndrome	T170	Intellectual Product
+ROCO_85520		T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance
+ROCO_85525		T170	Intellectual Product	T040	Organism Function	T041	Mental Process	T058	Health Care Activity
+ROCO_85534		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T059	Laboratory Procedure
+ROCO_85570		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T201	Clinical Attribute
+ROCO_85597		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T121	Pharmacologic Substance	T058	Health Care Activity	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T197	Inorganic Chemical	T039	Physiologic Function	T029	Body Location or Region
+ROCO_85599		T170	Intellectual Product
+ROCO_85608		T033	Finding	T059	Laboratory Procedure
+ROCO_85618		T074	Medical Device	T170	Intellectual Product
+ROCO_85622		T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function
+ROCO_85628	
+ROCO_85644		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T196	Element, Ion, or Isotope	T121	Pharmacologic Substance	T195	Antibiotic	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_85668		T033	Finding	T170	Intellectual Product	T059	Laboratory Procedure	T037	Injury or Poisoning
+ROCO_85692		T074	Medical Device	T195	Antibiotic	T048	Mental or Behavioral Dysfunction	T059	Laboratory Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_85693		T074	Medical Device	T170	Intellectual Product
+ROCO_85715		T047	Disease or Syndrome	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_85730		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T046	Pathologic Function	T029	Body Location or Region
+ROCO_85738		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T041	Mental Process
+ROCO_85739		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T123	Biologically Active Substance	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T196	Element, Ion, or Isotope	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85743		T201	Clinical Attribute	T047	Disease or Syndrome
+ROCO_85747		T047	Disease or Syndrome
+ROCO_85749	
+ROCO_85768		T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_85784		T109	Organic Chemical	T121	Pharmacologic Substance	T047	Disease or Syndrome
+ROCO_85786		T033	Finding	T170	Intellectual Product	T037	Injury or Poisoning	T029	Body Location or Region
+ROCO_85795		T023	Body Part, Organ, or Organ Component
+ROCO_85800		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T048	Mental or Behavioral Dysfunction	T023	Body Part, Organ, or Organ Component
+ROCO_85822		T129	Immunologic Factor	T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85839		T109	Organic Chemical	T195	Antibiotic	T059	Laboratory Procedure
+ROCO_85872		T074	Medical Device	T029	Body Location or Region
+ROCO_85875		T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85902		T170	Intellectual Product
+ROCO_85910		T060	Diagnostic Procedure	T170	Intellectual Product	T123	Biologically Active Substance	T122	Biomedical or Dental Material	T121	Pharmacologic Substance	T196	Element, Ion, or Isotope	T023	Body Part, Organ, or Organ Component	T197	Inorganic Chemical
+ROCO_85917	
+ROCO_85924		T046	Pathologic Function	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_85941		T109	Organic Chemical	T061	Therapeutic or Preventive Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance
+ROCO_85986		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T059	Laboratory Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_85987		T170	Intellectual Product	T033	Finding	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_86014		T031	Body Substance	T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_86033	
+ROCO_86035		T061	Therapeutic or Preventive Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T058	Health Care Activity
+ROCO_86044		T123	Biologically Active Substance	T121	Pharmacologic Substance	T059	Laboratory Procedure	T116	Amino Acid, Peptide, or Protein	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_86048		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T060	Diagnostic Procedure	T200	Clinical Drug
+ROCO_86084		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T029	Body Location or Region
+ROCO_86088		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_86099		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T058	Health Care Activity	T031	Body Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_86103		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process
+ROCO_86115		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T184	Sign or Symptom	T033	Finding	T023	Body Part, Organ, or Organ Component	T197	Inorganic Chemical
+ROCO_86116		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_86117		T023	Body Part, Organ, or Organ Component
+ROCO_86144		T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_86155		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_86168		T170	Intellectual Product
+ROCO_86171		T074	Medical Device	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_86215		T023	Body Part, Organ, or Organ Component	T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_86235		T060	Diagnostic Procedure	T047	Disease or Syndrome	T048	Mental or Behavioral Dysfunction	T023	Body Part, Organ, or Organ Component	T061	Therapeutic or Preventive Procedure
+ROCO_86239		T109	Organic Chemical	T033	Finding	T121	Pharmacologic Substance	T046	Pathologic Function	T029	Body Location or Region
+ROCO_86242		T109	Organic Chemical	T074	Medical Device	T060	Diagnostic Procedure	T121	Pharmacologic Substance
+ROCO_86249		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T058	Health Care Activity
+ROCO_86252		T074	Medical Device
+ROCO_86256		T060	Diagnostic Procedure	T170	Intellectual Product
+ROCO_86261	
+ROCO_86263		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T170	Intellectual Product
+ROCO_86282		T033	Finding	T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_86285		T074	Medical Device
+ROCO_86288		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T170	Intellectual Product
+ROCO_86291		T046	Pathologic Function
+ROCO_86296		T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T031	Body Substance	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_86297		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86326		T046	Pathologic Function	T047	Disease or Syndrome	T040	Organism Function	T074	Medical Device	T191	Neoplastic Process	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T170	Intellectual Product	T029	Body Location or Region
+ROCO_86348		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T060	Diagnostic Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86359	
+ROCO_86364		T033	Finding
+ROCO_86367		T031	Body Substance	T074	Medical Device
+ROCO_86385		T033	Finding
+ROCO_86386		T116	Amino Acid, Peptide, or Protein	T121	Pharmacologic Substance	T126	Enzyme
+ROCO_86391		T060	Diagnostic Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86392		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T058	Health Care Activity	T031	Body Substance	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T029	Body Location or Region
+ROCO_86398		T116	Amino Acid, Peptide, or Protein	T046	Pathologic Function	T121	Pharmacologic Substance	T059	Laboratory Procedure	T031	Body Substance	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86408		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product
+ROCO_86431		T046	Pathologic Function	T047	Disease or Syndrome	T040	Organism Function	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T170	Intellectual Product	T029	Body Location or Region
+ROCO_86433		T033	Finding	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_86439		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T060	Diagnostic Procedure	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component
+ROCO_86441		T033	Finding	T061	Therapeutic or Preventive Procedure
+ROCO_86445		T061	Therapeutic or Preventive Procedure
+ROCO_86448		T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_86452		T074	Medical Device
+ROCO_86478		T031	Body Substance	T059	Laboratory Procedure	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_86512		T061	Therapeutic or Preventive Procedure
+ROCO_86521		T109	Organic Chemical	T060	Diagnostic Procedure	T170	Intellectual Product	T121	Pharmacologic Substance
+ROCO_86533		T109	Organic Chemical	T170	Intellectual Product	T033	Finding	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_86547		T058	Health Care Activity	T029	Body Location or Region
+ROCO_86553		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_86573		T170	Intellectual Product
+ROCO_86605		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_86619		T074	Medical Device	T170	Intellectual Product
+ROCO_86622		T059	Laboratory Procedure
+ROCO_86645		T109	Organic Chemical	T170	Intellectual Product	T033	Finding	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_86646		T074	Medical Device	T170	Intellectual Product
+ROCO_86659	
+ROCO_86661		T074	Medical Device	T170	Intellectual Product
+ROCO_86681		T047	Disease or Syndrome	T037	Injury or Poisoning
+ROCO_86693		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86726	
+ROCO_86733		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_86735		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T195	Antibiotic	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_86736		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T029	Body Location or Region
+ROCO_86739		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T191	Neoplastic Process	T031	Body Substance	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_86745		T074	Medical Device	T170	Intellectual Product	T037	Injury or Poisoning
+ROCO_86765		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T196	Element, Ion, or Isotope	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T029	Body Location or Region
+ROCO_86783		T170	Intellectual Product	T058	Health Care Activity
+ROCO_86791		T048	Mental or Behavioral Dysfunction
+ROCO_86796		T074	Medical Device	T060	Diagnostic Procedure	T121	Pharmacologic Substance	T197	Inorganic Chemical
+ROCO_86797		T121	Pharmacologic Substance	T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process
+ROCO_86798		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T195	Antibiotic	T191	Neoplastic Process	T031	Body Substance	T033	Finding	T061	Therapeutic or Preventive Procedure
+ROCO_86799		T130	Indicator, Reagent, or Diagnostic Aid	T060	Diagnostic Procedure	T201	Clinical Attribute	T170	Intellectual Product
+ROCO_86809		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_86811		T046	Pathologic Function	T047	Disease or Syndrome	T040	Organism Function	T041	Mental Process	T123	Biologically Active Substance	T121	Pharmacologic Substance	T125	Hormone	T059	Laboratory Procedure	T116	Amino Acid, Peptide, or Protein	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T170	Intellectual Product
+ROCO_86814		T109	Organic Chemical	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T041	Mental Process	T029	Body Location or Region
+ROCO_86822		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86824		T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_86831		T060	Diagnostic Procedure	T047	Disease or Syndrome	T040	Organism Function	T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T170	Intellectual Product	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_86850		T074	Medical Device	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component
+ROCO_86867		T109	Organic Chemical	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_86873		T201	Clinical Attribute	T048	Mental or Behavioral Dysfunction	T023	Body Part, Organ, or Organ Component
+ROCO_86885		T033	Finding
+ROCO_86894		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_86896		T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_86898	
+ROCO_86903		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_86913		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T129	Immunologic Factor	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_86953		T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T059	Laboratory Procedure	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_86962		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T033	Finding	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_86963		T033	Finding	T201	Clinical Attribute	T041	Mental Process
+ROCO_86964	
+ROCO_86997		T116	Amino Acid, Peptide, or Protein	T129	Immunologic Factor	T047	Disease or Syndrome	T123	Biologically Active Substance	T121	Pharmacologic Substance	T031	Body Substance	T130	Indicator, Reagent, or Diagnostic Aid
+ROCO_86998		T033	Finding
+ROCO_87004		T074	Medical Device	T060	Diagnostic Procedure	T170	Intellectual Product
+ROCO_87017		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T184	Sign or Symptom	T033	Finding	T109	Organic Chemical	T201	Clinical Attribute
+ROCO_87022		T170	Intellectual Product	T121	Pharmacologic Substance	T195	Antibiotic	T059	Laboratory Procedure	T109	Organic Chemical	T040	Organism Function
+ROCO_87039		T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87050		T047	Disease or Syndrome	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T109	Organic Chemical	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function	T029	Body Location or Region
+ROCO_87058		T116	Amino Acid, Peptide, or Protein	T033	Finding	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_87064		T074	Medical Device	T061	Therapeutic or Preventive Procedure
+ROCO_87069		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_87079		T047	Disease or Syndrome	T170	Intellectual Product	T058	Health Care Activity	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87105		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87130	
+ROCO_87137		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T073	Manufactured Object	T058	Health Care Activity
+ROCO_87153		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T109	Organic Chemical	T033	Finding	T039	Physiologic Function	T170	Intellectual Product
+ROCO_87156		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T046	Pathologic Function	T029	Body Location or Region
+ROCO_87160		T040	Organism Function	T041	Mental Process	T123	Biologically Active Substance	T121	Pharmacologic Substance	T196	Element, Ion, or Isotope	T033	Finding	T023	Body Part, Organ, or Organ Component	T170	Intellectual Product	T029	Body Location or Region
+ROCO_87163		T033	Finding	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_87169		T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87178		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_87182		T074	Medical Device	T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function
+ROCO_87213		T061	Therapeutic or Preventive Procedure
+ROCO_87217		T074	Medical Device
+ROCO_87222		T109	Organic Chemical	T121	Pharmacologic Substance	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component
+ROCO_87228		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T073	Manufactured Object
+ROCO_87240		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_87241		T061	Therapeutic or Preventive Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_87242		T040	Organism Function	T123	Biologically Active Substance	T121	Pharmacologic Substance	T125	Hormone	T059	Laboratory Procedure	T109	Organic Chemical	T170	Intellectual Product
+ROCO_87248		T061	Therapeutic or Preventive Procedure	T058	Health Care Activity	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87295		T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_87310		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T040	Organism Function
+ROCO_87314		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T109	Organic Chemical	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function
+ROCO_87316	
+ROCO_87318		T061	Therapeutic or Preventive Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T058	Health Care Activity	T109	Organic Chemical	T033	Finding	T023	Body Part, Organ, or Organ Component	T039	Physiologic Function
+ROCO_87320		T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_87331		T170	Intellectual Product	T040	Organism Function
+ROCO_87344		T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component
+ROCO_87349		T109	Organic Chemical	T121	Pharmacologic Substance	T170	Intellectual Product
+ROCO_87350	
+ROCO_87357		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T058	Health Care Activity	T031	Body Substance	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_87378		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T040	Organism Function	T041	Mental Process	T074	Medical Device	T121	Pharmacologic Substance	T059	Laboratory Procedure	T109	Organic Chemical	T170	Intellectual Product
+ROCO_87381		T109	Organic Chemical	T121	Pharmacologic Substance	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_87383		T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T059	Laboratory Procedure
+ROCO_87397		T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T058	Health Care Activity
+ROCO_87398		T048	Mental or Behavioral Dysfunction	T033	Finding	T047	Disease or Syndrome	T040	Organism Function	T060	Diagnostic Procedure
+ROCO_87399		T060	Diagnostic Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87422	
+ROCO_87424		T109	Organic Chemical	T121	Pharmacologic Substance
+ROCO_87431		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T058	Health Care Activity
+ROCO_87444	
+ROCO_87459		T197	Inorganic Chemical	T033	Finding	T170	Intellectual Product	T121	Pharmacologic Substance	T059	Laboratory Procedure
+ROCO_87480		T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_87489		T074	Medical Device	T033	Finding	T061	Therapeutic or Preventive Procedure	T060	Diagnostic Procedure
+ROCO_87490		T046	Pathologic Function	T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_87493		T047	Disease or Syndrome	T048	Mental or Behavioral Dysfunction	T058	Health Care Activity	T033	Finding	T061	Therapeutic or Preventive Procedure	T201	Clinical Attribute
+ROCO_87504		T060	Diagnostic Procedure	T047	Disease or Syndrome	T170	Intellectual Product	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T029	Body Location or Region
+ROCO_87505		T023	Body Part, Organ, or Organ Component
+ROCO_87508		T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T116	Amino Acid, Peptide, or Protein	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87516		T109	Organic Chemical	T074	Medical Device	T195	Antibiotic	T170	Intellectual Product
+ROCO_87519		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T130	Indicator, Reagent, or Diagnostic Aid	T201	Clinical Attribute	T058	Health Care Activity	T023	Body Part, Organ, or Organ Component	T191	Neoplastic Process
+ROCO_87523		T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87530		T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T060	Diagnostic Procedure	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T201	Clinical Attribute	T029	Body Location or Region
+ROCO_87534		T046	Pathologic Function	T170	Intellectual Product	T121	Pharmacologic Substance	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87540		T033	Finding	T048	Mental or Behavioral Dysfunction
+ROCO_87553		T061	Therapeutic or Preventive Procedure	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_87593		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance	T023	Body Part, Organ, or Organ Component
+ROCO_87600		T170	Intellectual Product	T033	Finding	T061	Therapeutic or Preventive Procedure	T060	Diagnostic Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_87601		T170	Intellectual Product	T121	Pharmacologic Substance	T191	Neoplastic Process	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87610		T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T048	Mental or Behavioral Dysfunction	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87637		T109	Organic Chemical	T121	Pharmacologic Substance
+ROCO_87651		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T074	Medical Device	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87652		T074	Medical Device
+ROCO_87659		T059	Laboratory Procedure	T029	Body Location or Region
+ROCO_87665		T130	Indicator, Reagent, or Diagnostic Aid	T061	Therapeutic or Preventive Procedure	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87674		T031	Body Substance	T074	Medical Device
+ROCO_87683		T074	Medical Device
+ROCO_87686		T060	Diagnostic Procedure	T170	Intellectual Product	T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T029	Body Location or Region
+ROCO_87690		T047	Disease or Syndrome	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T073	Manufactured Object	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T197	Inorganic Chemical	T029	Body Location or Region
+ROCO_87692		T109	Organic Chemical	T121	Pharmacologic Substance
+ROCO_87713		T074	Medical Device	T047	Disease or Syndrome	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_87716		T074	Medical Device
+ROCO_87726		T109	Organic Chemical	T074	Medical Device	T121	Pharmacologic Substance
+ROCO_87728		T023	Body Part, Organ, or Organ Component
+ROCO_87731		T033	Finding	T047	Disease or Syndrome	T170	Intellectual Product
+ROCO_87734		T037	Injury or Poisoning
+ROCO_87736		T047	Disease or Syndrome	T170	Intellectual Product	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical	T191	Neoplastic Process	T029	Body Location or Region
+ROCO_87757		T109	Organic Chemical	T060	Diagnostic Procedure	T170	Intellectual Product	T121	Pharmacologic Substance
+ROCO_87761		T074	Medical Device	T029	Body Location or Region
+ROCO_87772		T041	Mental Process	T130	Indicator, Reagent, or Diagnostic Aid	T121	Pharmacologic Substance	T125	Hormone	T033	Finding	T109	Organic Chemical
+ROCO_87799		T060	Diagnostic Procedure	T037	Injury or Poisoning
+ROCO_87810		T060	Diagnostic Procedure	T074	Medical Device	T121	Pharmacologic Substance	T046	Pathologic Function	T033	Finding	T109	Organic Chemical
+ROCO_87821		T023	Body Part, Organ, or Organ Component
+ROCO_87823		T074	Medical Device	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_87829		T033	Finding
+ROCO_87851		T074	Medical Device
+ROCO_87855		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T059	Laboratory Procedure	T047	Disease or Syndrome	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_87861		T170	Intellectual Product
+ROCO_87862		T074	Medical Device	T046	Pathologic Function	T023	Body Part, Organ, or Organ Component
+ROCO_87863		T033	Finding	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_87886		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T041	Mental Process	T121	Pharmacologic Substance	T033	Finding	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_87894		T031	Body Substance	T170	Intellectual Product	T059	Laboratory Procedure
+ROCO_87904		T033	Finding	T029	Body Location or Region
+ROCO_87918		T074	Medical Device	T041	Mental Process	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component	T029	Body Location or Region
+ROCO_87936		T033	Finding	T060	Diagnostic Procedure
+ROCO_87952		T074	Medical Device	T170	Intellectual Product	T029	Body Location or Region

@@ -1,0 +1,612 @@
+ROCO_81827		demineralized	slurrygroup	enamel	pumouse	prophylaxi	electron	microscopy	magnification	original
+ROCO_81835		heavy	cj	pathol	fibrosi	liver	peculiarly	schistosoma	granulomatou	pipestem	bacteriol	endresult	mansoni	tract	schistosomiasi	portal	symmer	egg	thelarger	claypipe
+ROCO_81851		preoperative	right	peripheral	visible	tomography	outer	spontaneou	absence	inner	oct	junction	coherence	retinal	uninvolved	fundu	detachment	imaging	line	segment	macula	strand	case	attachmentabbreviation	optical	subretinal
+ROCO_81853		incubation	skin	glycerol	allograft
+ROCO_81857		jacobaeu	highlight	christian	han	figure
+ROCO_81859		resection	resected	opaque	surface	anatomy	depth	mri	model	subject	transparent	ct
+ROCO_81867		extension	colonoscopy	biopsy	tumor	adenocarcinoma	circumferential	rectosigmoid	type
+ROCO_81884		photograph	right	superolateral	suprapatellar	aspiration	bursa	knee	injection	approach
+ROCO_81889		point	vertebral	needle	insertion	level
+ROCO_81906		case	absces	dense	adhesion
+ROCO_81908		blue	rugae	arrow	annular	sample	cast	wavy	green	chevron	unification	red
+ROCO_81926		dentin	desired	autologou	particle	size
+ROCO_81929		ball	milling	alsicn	composite	particle	carbon	highenergy	micrograph	tem
+ROCO_81933		rupture	descemet
+ROCO_81935		image	encouraging	flexibility	paper	laboratory	quality	information	use	participant	personal	electronic	research	los	cue	experiment	template	contrast	form	frustrate	wrong	notebook	user	great	study	experience	element	record	amount	scientist	consistency
+ROCO_81938		oocyte	adherent	ovarian	right	follicle	cyst	omentum	viable
+ROCO_81950		asymmetric	nipple	appearance
+ROCO_81954		impression	rvg	addition	sensor	silicone	xcp	rinn	holder
+ROCO_81960		image	wire	guide	knotting	intensifier
+ROCO_81967		engraving	plate	patient	third	show	wellcome	distal	deformity	library	courtesy	charle	london	nose	septum	carpue	first
+ROCO_81989		photograph	mutant	stretcher	trait	eg	apparent	freezing	phenotypethestretcher	stretching	clinical	examination	hind	limb	behavioural	mouse	intervention
+ROCO_81999		vr	willi	dolichoectasia	aneurysm	cta	reconstruction	basilar	artery	circle
+ROCO_82009		murine	vc	arrowhead	projection	intensity	color	veinsmaximum	image	coding	fenestra	microct	correspond	vein	draining	liver	hepatic	mip	injection	minute	renal
+ROCO_82010		cystoid	patient	edema	detachment	rpe	macular
+ROCO_82015		implantation	lag
+ROCO_82032		surgery	mass	first
+ROCO_82036		aortic	alternation	collagen	cf	tp	aspect	neighborhood	mouse	special	telopode	plenteou	arrowhead	telocyte	distinctive	feature	long	black	convoluted	image	body	podom	adventitia	variou	podomer	vesicle	macroaxi	arch	bar	consist	region	tc	length	thin	time	display	moniliform
+ROCO_82043		bulb	olfactory	present
+ROCO_82044		seminal	house	image	vesicle	example	toccata	sagittal	prostate	contour	software
+ROCO_82050		wound	suture	situ	view
+ROCO_82065		anterior	picture	technique	nucleu	capsular	plane	posterior	len	priya	chamber	courtesy	narang	rent	intraocular	front	acrylic	dr	hydrophobic
+ROCO_82066		mas	vulvar	image	giant	intraoperative	cystic
+ROCO_82077		pigmentation	sclerodermatou	change	trunk
+ROCO_82088		comparison	mm	tube	rigid	endotracheal	flexible	suction	cannula
+ROCO_82089		pixel	runthe	corresponding	signal	graph	average	group	brain	individual	run	image	slouse	central	response	region	example
+ROCO_82100		opacity	verticillata	severe	slit	corneal	lamp	examination
+ROCO_82102		anglia	zuckerman	university	vulnerability	ofeast	szoemu21122	archive
+ROCO_82108		achille	giovanni
+ROCO_82109		speciman	swab	medicinali	exploration	hirudo	intestinal	cotton
+ROCO_82113		map	probability	point	brighter	position	pixel	road	higher
+ROCO_82125		figure	disc	resultswere	llc	llb	analogue	clockwisefrom	lla	s8	top	subsp	evaluation	plate	antagonismbetween	mixture	aliquot	hp	lacti	cremori	agar	paper	mauthentic	similar
+ROCO_82137		scrotal	perineal	mesh	wound	graft
+ROCO_82152		clip	site	ovarian	tumor	red	view
+ROCO_82157		purulent	william	incision	mastoid	cavity	technique	retroauricular	otorhinolaryngology	surgical	wood	wilde	secretion	baltimore	treatise
+ROCO_82162		torsion	gallbladder	neck
+ROCO_82166		device	milling
+ROCO_82189		anterior	excision	subacute	thigh	image	appearance	due	effect	haematoma	axial	week	sarcoma	typical	paramagnetic	methaemoglobin	hyperintensity
+ROCO_82191		lateral	retinaculum	medial
+ROCO_82198		basal	model	threedimensional	fe	view
+ROCO_82202		body	mandibular	intrabony	parasymphysi	region	due	tumor	destruction
+ROCO_82219		body	study	number	point
+ROCO_82230		case	urethroscopic	initial	appearance
+ROCO_82231		contrastenhanced	unenhanced	concept	delineation	organ	calculation	image	virtual	dose	critical	schematic	target	original	ct
+ROCO_82233		nerve	biceps	popliteal	permission	short	lateral	tibial	head	lh	gastrocnemiu	tunnel	sh	long	schematic	sciatic	peroneal	fossa	gm	muscle	ref	drawing
+ROCO_82256		alveolar	body	lower	longitudinal	mental	point	mandible	crest	lateral	medial	transverse	menti	posterior	upper	relation	foraman	ramu	margin	symphysi	axi	border
+ROCO_82281		fistula	female	rectovestibular
+ROCO_82282		ix	squamou	fluorescence	protoporphyrin	cell	carcinoma
+ROCO_82303		patient	hippocampal	implantation	postoperative	coronal	amira	reconstruction	view	electrode	software
+ROCO_82317		occipitocervical	median	incision	standard
+ROCO_82332		medium	capsulatum	obverse	floccose	colony	sabouraud	dextrose	velvety	histoplasma	buff
+ROCO_82353		plant	host	dacuslongistylu	calotropisprocera
+ROCO_82377		medium	valve	transesophageal	sinu	enlarged	coronary	echocardiogram	right	identification	arrow	small	pulmonary	white	vegetation
+ROCO_82382		control	fb1	acinetobacter	johnsonii	isolate	cv026	cros	ahl	negative	production	pnp22	crg3	positive	violaceum	biosensor	violacein	nonahlproducing	carotovora	gs101
+ROCO_82384		layer	hydroxyapatite	fieldemission	range	thicknes	observed	titanium	electron	thin	substrate	ha
+ROCO_82387		distance	glenoid	ratio	greater	index	ai	lateral	plane	humeral	aspect	acromion	tubercle
+ROCO_82393		protuberance	face	interantennal	detail	calesmotterni
+ROCO_82407		aorta	wall	region	radiation	dose	tumor	tissue	adjacent	distribution	highdose
+ROCO_82431		reference	imu	attachment	sensor	method	subject
+ROCO_82438		prototype	pump	optimization	centrifugal	result
+ROCO_82452		limb	presentation
+ROCO_82470		repair	organ	pelvic	system	nazcatc	prolapse
+ROCO_82473		end	nasotracheal	cm	distal	study	exchanger	demonstration	tube
+ROCO_82486		soft	artefact	right	surrounding	image	dolphin	thicknes	spinal	tissue	ga	kidney	ct	millimetre	death	field	window	black	animal	ultrasound	white	ringdown	cord	greater	slouse	transverse	ifaw10069dd	reconstruction	renal	algorithm	level	h	depth	common	hyperechogenicity	renule	margin	adjacent	intestinal	loop	left
+ROCO_82491		angiography	right	aortic	blockage	coronary	ostial	spread	artery	root	contrast
+ROCO_82505		thyroid	glandsthe	identifiable	light	spot	gland	rat	identification	parathyroid	xenon	fluorescent	red
+ROCO_82507		trocar	gastrectomy	placement	laparoscopic
+ROCO_82522		glutathione	capacity	expiratory	fvc	fev1	mechanism	volume	vital	action	gsh
+ROCO_82527		diameter	head	mm	simonnorman	fundu	ideal	version	heyman	uteri	catheter	arrangement
+ROCO_82543		university	sigeristcourtesy	medicine	henry	department	bern	archive	history
+ROCO_82553		mediali	localizer	image	sol	medial	gastrocnemiu	volume	depicted	part	interest	position	gm	muscle	soleu
+ROCO_82555		diagram	ear	external
+ROCO_82566		inflammatory	multiple	scarring	cornea	hair	tarantula	associated	infiltrate
+ROCO_82568		iwqi	main	window
+ROCO_82582		transnasal	catheter	pas	nostril	dilation
+ROCO_82583		image
+ROCO_82595		homoserine	f811t	ahl	culture	bacterial	halomona	indicator	salina	pacifica	production	f96t	lactone	plate	assay	volume	diffusion	strain	agar	tumefacien	nacyl	pzlr4	variabili	mean
+ROCO_82598		anterior	right	wall	image	yellow	tissue	superior	abdominal	lateral	anatomical	internal	subperitoneal	iliac	computerized	umbilicu	line	third	spine	island	adipose	round	accumulation	left
+ROCO_82626		pellicle	sticking	medium	hct	bottom	wall	glas	tube	laying	thuringiensi	biofilm	culture	bacillu	separation	ring	hold
+ROCO_82639		blue	olyset	show	light	colour	due	tanzania	mission	mvumi	village	home	hole	net	change
+ROCO_82640		fiber	aortic	nadir	trace	light	image	grey	bundle	leaflet	right	upward
+ROCO_82648		week	undisturbed	theatre
+ROCO_82657		major	figure	imagethi	situdilated	shape	enhancement	dilation	pattern	top	endoscopy	magnification	narrowband	caliber	morphological	variation	carcinoma	conjunction	capillary	change	third	irregular	characteristic	ipcl	ipclv1	intrapapillary	loop
+ROCO_82686		square	atlanticsample	colony	sampling	sample	trichodesmium	cruise	concentration	protein	different	location	m3	circle	diamond	north	symbol	feast6	mg	average	annual	seawif	d326	mean
+ROCO_82692		upper	scan	limit	airway	sagittal	anatomic	ct
+ROCO_82707		coracoacromial	normal	rudez	image	permission	enthesophyte	parasagittal	attachment	arrow	resonance	et	white	al50	magnetic	ligament
+ROCO_82713		ball	aerobic	culture	incubation	fungal	blood	bottle	bactalert	demonstration
+ROCO_82717		anterior	hip	iliopsoa	reflection	oblique	joint	sartoriu	aspect	abdominal	muscle
+ROCO_82725		case	index	third	global	overall	detorsion	percentage	torsion
+ROCO_82730		gray	right	matter	lobe	frontal	region	putamenglobu	pallidu	brain	threedimensional	decrease	adhd	signal
+ROCO_82734		pattern	image	kind	study	blurred
+ROCO_82738		len	week	clear	injection	drug
+ROCO_82739		ambiguou	right	directgaze	avertedgaze	stimulus	activation	correspond	analysis	minu	cue	pbiased	bluegreen	amygdalae	threat	mbiased	p0001	fear	map	clear	left
+ROCO_82742		population	ecospace	antigen	creation	module	system	tielike	conserved	immunobiography	waddington	element	ie	event	landscape	specific	different	variety	personal	adultlate	socioeconomical	immune	heterogeneity	life	ball	molecule	statu	early	environmental	proces	fan	path	lifelong	response	condition	exposure	antigenic	level	signal	single	bow	large	act	impinge	responsivenes	whole	history
+ROCO_82745		appliance	thurow
+ROCO_82765		superior	laryngeal	block
+ROCO_82768		nerve	nervea	myelin	cytoplasm	neurofilament	lamella	axon	medium	sheath	ax	little	group	damage	neurotubulu	microscopic	low	trauma	nt	sham	mgkg	fiber	degree	normal	notable	asterisk	myelinated	electron	extent	sciatic	structure	car	mitochondria	large	vacuolization	place	view
+ROCO_82777		bougie	indigenou	coiled	wire	spring
+ROCO_82787		positioning	patient	port
+ROCO_82792		vertical	repair	biceps	thigh	incision	exposed	femori	cat	surgical	suture	skin	operation	muscle
+ROCO_82810		stone	arrow	fragment	red	key	minor
+ROCO_82832		case	upper	linear	forearm	pattern	lateral	sp	icg	medial	diffuse	mixed	splash	wrist	finding	region	lymphography	arm	dp
+ROCO_82834		urinary	zephyr	single	artificial	surgical	sphincter	implant	piece	zsi
+ROCO_82846		technique	scheme	cerclage	triple
+ROCO_82854		polymorphism	lane	dna	genotype	chain	show	fragment	product	polyacrylamide	iv	ii	polymerase	length	bp	i405v	reactionrestriction	marker	pcrrflp	gellane	size
+ROCO_82856		lysine	differential	selective	testosteroni	deoxycholate	colony	agar	growth	red	gut	medium	pathogen
+ROCO_82862		terminal	tlc	view
+ROCO_82884		body	residual	foreign	chest	breast	deformation
+ROCO_82896		wire	lateral	bracket	guide	view
+ROCO_82901		patient	scan	dexa	normal
+ROCO_82916		wheel	camber	angle	system	mucbased	result	vehicle	frontright
+ROCO_82920		dodziuk	structure	berlin	printed	porou	printshow	bone
+ROCO_82927		thoracotomy	cannula	approach	working
+ROCO_82946		msel	nutrition	socioeconomic	weightforage	brain	growth	result	motor	measure	fine	physical	statu	scale	hiv	quality	expressive	score	anaemia	heightforage	development	mullen	malaria	composite	effect	early	visual	infectiou	nurtureneglect	micronutrient	present	exposure	cognitive	language	receptive	disease	reception	model	study	se
+ROCO_82956		osteochondriti	inferocentral	lesion	condyle	lateral	femoral	state	dissecan	portion	stable	finding	arthroscopic
+ROCO_82969		hip	leg	alternate	supine	neutral	plinth	position	knee	flexed	arm	exercise
+ROCO_82975		echocardiography	threedimensional	aortic	valve
+ROCO_82976		hnf4dna	crystal	complex	typical
+ROCO_82979		city	square	triangle	hyphessobrycon	astyanax	upper	neighboring	sp	eque	paran	collection	paulo	map	state	capital	basin	river	circle
+ROCO_82986		barbicide
+ROCO_83023		blue	false	bold	region	yellow	response	item	rate	contouractivation	interest	significant	univariate	contour	red	discovery
+ROCO_83030		collecting	inflammatory	eyelid	gland	proximal	infiltration	hemorrhage	note	scale	section	damage	cell	black	main	ghanensi	exudation	asterisk	part	invasion	mite	tubule	eosin	bar	cow	meibomian	dilatation	haematoxylin	arrow	demodex
+ROCO_83045		irradiation	reference	image	graphical	surface	height	rat	motor	line	width	radiation	anatomical	xray	field	black	white	rotation	direction	vertical	centre	microbeam	beam	user	offset	interface	horizontal	bregma	case	distance	z	central	target	skull	grey	correspond	motion	arrow	position	axi
+ROCO_83047		image	nobel	imperial	petrovich	branch	medicine	northwest	pavlov	permission	academy	desk	russian	physiology	prize	institute	science	medical	st	ivan	military	petersburg	experimental
+ROCO_83056		pattern	haz	diffraction	cr7c3	tem
+ROCO_83057		anterior	areevident	ahmed	valve	eye	multiple	tube	glaucoma	len	case	deposit	intraocular	iridectomy	pupillary	border	surgery
+ROCO_83058		embedded	needleknife	mucosa	hook	sphincterotome	submucosa	segment
+ROCO_83060		view	macroscopic	reverse	rubrum
+ROCO_83061		box	right	inoculated	contralateral	apparent	chikv	mild	pb	dpia	red	significant	swelling	foot	mouse	hyperemia	inoculation	irf	sham
+ROCO_83063		case	steroid	serou	resolution	image	coherence	retinal	fluid	collection	lefteye	detachment	tomography	optical	oral	discontinuation
+ROCO_83068		touch	point	visible	screen	scan	usguided	system	hifu	mark	fa	cone	hyperechoic	radial	interface	sonication	unit	treatment
+ROCO_83069		comparison	cube	reflector	cm	solid	image	environment	credit	engineering	lunar	currie	corner	model	apollo
+ROCO_83071		blue	proliferation	epicardial	coronary	alcian	right	mp	arrow	artery	stain	male	untreated	myointimal
+ROCO_83084		photograph	orthopaedic	academy	mumford	progres	american	surgeon	year	permission	dr	bishop
+ROCO_83087		placement	occlusion	perforation	device	duodenal	intestinal
+ROCO_83096		extremity	lower	right	angiogram
+ROCO_83098		position	image	port
+ROCO_83121		taping	muscle	lumborum	quadratu
+ROCO_83127		arrowhead	arrow	irregular	adjacent	ossication	capsular	image	proton	thickening	posterior	base	labrum	fatsuppressed	posterosuperior
+ROCO_83152		opg
+ROCO_83154		patient	relationship	visible	structure	lateral	middle	location	perforation	sagittal	exact	bone	view
+ROCO_83225		anterior	image	general	rat	aspect	screw	ridge	lateral	customdesigned	narrowing	schematic	fixation	transverse	posterior	device	cervical	photograph	outline	spine	vertebra	mass	mricompatible	view
+ROCO_83238		mini	fit	cornea	illustration	corneal	ideal	inlay	len	schematic	scleral	segmental
+ROCO_83247		picture	layer	hyaff	silicone	hyalomatrix	back	dermal	front	side	substitute
+ROCO_83248		fullthicknes	laceration	bladder	needleknife
+ROCO_83269		anterior	eye	disease	diagram	posterior	potential	crosssectional	segment
+ROCO_83270		angiography	arteriosu	projection	aorta	patent	image	ao	magnetic	pa	ductu	resonance	cardiac	artery	pulmonary	lateral	pda
+ROCO_83289		pain	lesion	mapping
+ROCO_83320		abbott	vascular	clara	vessel	perclose	device	predeployment	rewiring
+ROCO_83323		lower	examiner	vertical	point	jaw	calculated	tool	radiograph	length	computer	measurement	implant	dimension	software
+ROCO_83338		intraoperative	nerve	exposure
+ROCO_83390		speculum	endoillumination	cable	source	light	probe	nasal	standard	pipe	instrument	bipolar	intubation	dilator	forcep	artery	endodiathermy	punctal	procedure	black
+ROCO_83395		tie	tongue
+ROCO_83397		punctate	cornea	slit	lamp	examination	epithelial	stain	erosion	fluorescein
+ROCO_83439		scheme	dmek
+ROCO_83441		feeding	tube	double	image	representative	pyloru	endoscopical	ring
+ROCO_83444		interface	image	toothrestoration
+ROCO_83455		sheet	folding	silver	slouse
+ROCO_83456		box	trainer	image	camera	video	stationary	example
+ROCO_83479		molar	pr	group	light	image	xray	sample	measurement	reviewer	white	film
+ROCO_83481		purulent	nature	bite	wound	celluliti	draining	necrotic	small	camrsaspider
+ROCO_83483		stockard	choroid	dd	developmenta	salmon	capsule	chinook	egg	embryonic	stage
+ROCO_83484		perimeter	zone	tissue	direct	value	forehead	contact	highest	soft	red
+ROCO_83509		apex	lophocampa	griseidorsata
+ROCO_83526		cystoscopic	orifice	mas	right	picture	polypoidal	ureteric
+ROCO_83540		prescription	dosimetry	tru	image	gy	dose	intraoperative	plan	coverage	line	prostate	rectum	urethra	treatment
+ROCO_83560		anterior	reaction	photograph	keratopathy	area	initial	defect	slit	corneal	transplant	chamber	lamp	epithelial	keratic	precipitate	ulcer	crystalline	presentation	size	oneweek
+ROCO_83568		anterior	mitral	transesophageal	assessment	echocardiographic	valve	segment	prolapse	p2	posterior	threedimensional	arrow	pml	lefleat	image
+ROCO_83572		angle	taper	crown	zirconia	blank	milled	secondary
+ROCO_83580		fetu	right	embedded	intraamniotic	pregnancy	cornual
+ROCO_83585		site	puncture
+ROCO_83591		map	celestial
+ROCO_83592		carabiner	patient	waist	weight	harnes	buttock	rope	barbell	loop
+ROCO_83629		technology	needle	percutaneou	puncture
+ROCO_83636		korea	port	glove	seoul
+ROCO_83658		position	model	open	sf	system
+ROCO_83673		aftercleaning	colony	microbiological	petri	dish	shaping
+ROCO_83675		function	shortened	powerful	freeze	ligament	thick	coracoid	coracohumeral	intertubercular	humeru	checkrein	firm	anatomy	proces	external	become	rotation	structure	shoulder	sulcu	topographic	frozen	position
+ROCO_83682		aa	simplification	geometrical	corridor	ventral	optimal	implant	simulation	bone	view
+ROCO_83687		tendon	mobilization	impingement	intrasubstance	joint	causing	popliteu
+ROCO_83692		postoperative	ostium	size	month
+ROCO_83698		large	right	sagittal	vastu	hematoma	view	intermediu	mri	arrow	small	muscle	structure	thigh
+ROCO_83708		image	tissue	capillary	system	skin
+ROCO_83714		weaker	ei	image	datum	gaussian	intensity	mapthe	concentration	blue	slow	coalign	area	detail	source	openfield	place	plasma	map	composite	ecliptic	coronal	solar	line	mosaic	raster	unsharp	region	larger	mask	filter	plane	green	aia	wind
+ROCO_83718		adrenal	dissection	right	vein
+ROCO_83720		csaii	desorption	tree	atom	ap	bombardment	saii	maldi	electrospray	cold	esii	sonic	blue	maiv	mai	inlet	bottom	top	state	fast	hot	matrixassisted	vacuum	branch	maii	method	esi	analysi	dmaii	phi	multiple	energetic	acronym	lsii	thermospray	ionization	ion	spray	base	ssi	desi	laserspray	compound	fab	laser	condition	atmospheric	reflection	pressure	solid	desorptionionization	m	solution	nonvolatile	light
+ROCO_83740		embryo	classic	dynamic	prediction	son	high	conductance	blastopore	chin	result	organizer	density	current	embryogenesi	cue	persist	john	field	wiley	electric	morphogenesi	earlier	serve	early	courtesy	borgen	steady	source	shi
+ROCO_83743		case	hypoplastic	preoperative	patient	shunt	scan	chest	black	fig	tomography	artery	pulmonary	diffuse	triangle	palliative
+ROCO_83752		rpe	weight	computation
+ROCO_83754		bowel	endometrioma	surface	peritoneal	small	mesenteric
+ROCO_83758		thyroid	image	transform	figure
+ROCO_83773		ab	intervertebral	image	width	onmidsagittal	disk
+ROCO_83779		superior	right	computed	acetabulum	neck	pubic	femur	bicolumnar	rami	fracture	tomography	inferior	ct
+ROCO_83780		motocros	patient	neck	leatt	arrow	brace	rider
+ROCO_83790		effusion	ultrasound	lung	ultrasonography	gestational	syndrome	pleural	section	cesarean	finding	neonate	week	aline	disappearance	consolidation	delivery	meconium	birth	line	abnormality	ma	age	air	bronchogram	aspiration
+ROCO_83808		port	illustration	site
+ROCO_83810		helicopter	align	configuration	gear
+ROCO_83813		occurrence	mexico	wall	indy	colony	al	canary	zoothamnium	bright	debris	sea	japan	et	ocean	corsica	caribbean	gulf	personal	west	original	france	wood	mangrove	niveum	red	map	debeliu	description	mediterranean	peat	french	symbiosi	adriatic	atlantic	key	fall	known	leaf	whale	wirtz	cay	laurent	observation	world	tokyo	island	gras	florida	twin	bay	ciliate	lanzarote	rock	guadeloupe	accumulation	bone
+ROCO_83834		anterior	angle	image	coherence	optical	tomography	segment	visante
+ROCO_83836		grasper	hard	laparoscopic	intussusception	reduction	unsuccessful
+ROCO_83848		thermography	facial	region	trial	design	interest
+ROCO_83851		sample	loading	point	universal	machine	fracture
+ROCO_83860		anterior	angiography	right	rca	lad	admission	coronary	mm	tomography	artery	day	dilation	ct
+ROCO_83947		site	obstruction	lower	bronchosopy	airway
+ROCO_83950		map	heat	run
+ROCO_83952		tunnel	university	mar	tohoku	mwt
+ROCO_83970		composite	image	tem	cntcdse
+ROCO_84003		right	microgrid	arrangement	radiograph	location	electrode	drawing	left
+ROCO_84006		incision	adult	cutaneou
+ROCO_84007		assembly	monitor	figure	pressure	philip	lock	braun	epidural	kit	connector	mp20	gauge	transducer	luer	catheter	anesthesia
+ROCO_84008		coronal	slouse
+ROCO_84014		hip	male	patient	bilateral	show	region	neck	number	prosthesi	asymptomatic	arrow	year	history	uptake	left
+ROCO_84015		blue	venography	varice	thigh	communication	arrow	pelvic	vein
+ROCO_84020		body	phantom	attenuation	density	colonic	polyp	transaxial	air	water	slice	intraluminal	thin
+ROCO_84021		photograph	abnormality	patient	obviou	symmetry	year	side
+ROCO_84022		scan	verify	intraluminal	colonoscopy	finding	view	ct
+ROCO_84046		blackburn	kempster	collection	ww	frederic	uk	herder	bayswater	john	uk1918
+ROCO_84077		posterior	glenoid	placement	anchor	inferior
+ROCO_84084		mm	radiu	curvature	finger	surface	cmut	transparent
+ROCO_84086		intact	site	skin
+ROCO_84090		gel
+ROCO_84095		cnvm	followup	normal	showing	scan	fluid	oct	inactive	absence	foveal	horizontal	transverse	contour	ffa
+ROCO_84103		model	work	straight	abutment	software
+ROCO_84106		len	high	magnification	deposit	intraocular	implant
+ROCO_84113		meningococcal	source	httpenwikipediaorgwikifilemeningitisepedemicsworldmappng	demography	meningiti
+ROCO_84127		division	photograph	daguerreotype	author	print	allan	edgar	worm	william	poem	library	congres	conqueror	poe	hartshorn
+ROCO_84137		view	endoscopic
+ROCO_84142		chest	ct
+ROCO_84143		nerve	peduncle	infarct	cerebral	paramedian	schematic	fascicle	midbrain	weber
+ROCO_84150		tibial	angle	app	procedure	ground	tuberosity	tibia	inclinometer
+ROCO_84155		entire	kind	merozoite	longitudinal	plasmodium	permission	coat	bristly	threadlike	appearance	springer	long	parasite	cell	surfacein	bv	media	section	sciencebusines	example	projectionsimage
+ROCO_84160		ad	f	fixation	image	removal	xray	internal	wrist	reconstruction	lateral
+ROCO_84252		shoulder	head	right	wilmington	anterosuperior	portal	arrow	port	arthroscopic
+ROCO_84257		vernescu	dumitru	doctor
+ROCO_84258		blue	par	full	eye	vitrectomy	right	brilliant	white	thicknes	note	edge	black	arrow	membrane	macular	hole	internal
+ROCO_84269		graded	cm	image	ultrathin	acetatelead	overnight	hitachi	cx	anthrax	ic	outer	temperature	section	ruthenium	glutaraldehyde	cacodylate	membrane	ref	spore	inner	dormant	mixture	fixative	buffer	datum	specimen	solution	dark	postfixed	ethanol	tetroxide	unpublished	structure	cacl2	eponepoxy	bar	room	exosporium	transmission	coat	modified	resin	strain	uranyl	microscope	cortex	karnovsky	citrate	sterne
+ROCO_84270		polypropylene	central	lateral	needle	long	width	mesh	tract	front	part	wing
+ROCO_84311		solitary	mas	palate	solid	soft	image	mucosa	whitish	clinical	right	uvula	oval	cleft	pale	side
+ROCO_84323		anterior	wave	lesion	lead	showing	v4v6	coronary	critical	proximal	artery	inverted	angiogram	electrocardiogram	biphasic
+ROCO_84354		sam	surface	society	nonbiological	avenue	cell	group	copyright	samsmonolayer	research	chemical	new	selfassembled	function	reproduced	permission	understanding	nalkyl	structure	interaction	metal	monolayer	american	oxidesare
+ROCO_84372		position	head	table	beachchair	accessory
+ROCO_84385		compact	hyperkeratosi	zone	parakeratosi
+ROCO_84409		adherent	exemplary	ett	area	light	image	material	grey	microct	plastic	dark	intubation	cuff	representative	secretion	scan	abundant	section
+ROCO_84415		fly	brainheisenbergelsevier	standard
+ROCO_84441		gastric	adjustable	arrowhead	opening	stalklike	dissection	visible	laparoscopic	fundu	band	green	attachment	arrow	star	white	blunt	pseudocyst
+ROCO_84452		malgaigne	josephfranois
+ROCO_84459		multiple	scan	calcinosi	soft	region	acne	cuti	face	suggestive	tissue	vulgari	tomography	distribution	calcification
+ROCO_84461		fla1	interference	old	dilation	posttransfection	cell	tip	live	shorter	rightmost	new	tbpfr2	type	contrast	brucei	dsrna	flagellum	differential	microscopy	wild	detached	trypanosoma	silencing
+ROCO_84496		detailed	right	defect	yellow	remnant	surgery	blue	group	zone	section	royalblue	treatment	new	cortical	histological	rectangle	week	description	cros	nonresorbed	formation	rare	cancellou	former	case	central	particle	light	cpg	green	red	bone
+ROCO_84514		case	preoperative	clinical	appearance	radiological
+ROCO_84523		presence	scanty	diarrheal	mucosa	bloody	high	substantial	colon	dysentery	bacillary	diarrhea	stool	damage	mucu	terminal	watery	fever	loose	blood	ileum	gros	toxemia	hour
+ROCO_84527		absent	normal	uteru	scan	abdoman	inset	ovary	karyotype	ultrasound
+ROCO_84563		craniotomy	reference	size
+ROCO_84590		image	primary	ap	proximal	surgery	postinjury	graft	additional	autogeneou	lateral	fracture	flexion	plating	fragment	iliac	displacement	external	rotation	case	union	nonunion	bone	view
+ROCO_84593		right	incision	previou	due	laparoscopic	site	paramedian	insertion	performance	trocar	open	procedure	midline
+ROCO_84594		right	phenomenon	gastrohepatic	sheath	electrode	wire	arrowhead	area	tip	due	artificial	new	luman	subcostal	radiofrequency	effect	percutaneou	rabbit	epigastric	white	zealand	heatsink	ablation	space	ascite	abdoman	arrow	thermocouple	experimental
+ROCO_84598		upper	lower	right	zone	diaphragm	border	bi	side	intermediu	lobe	station	vein	lll	line	midline	bronchu	pulmonary	inferior	left
+ROCO_84624		radiograph	sialolith	occlusal	massive	arrow
+ROCO_84658		traditional	location	incision	cholecystectomy	laparoscopic
+ROCO_84692		viru	due	large	dendrite	simplex	epithelial
+ROCO_84701		superior	fixation	prosthesi	suture	tab	testi	port	inferior	fill
+ROCO_84706		shoulder	labral	posteroinferior	patient	stabilization	repair	image	recurrent	adjunct	oclock	portal	instability	arthroscopic
+ROCO_84723		denticula	microscope	diatom	photograph	species
+ROCO_84728		anterior	discoid	incision	mm	lateral	initial	stab	periphery	meniscu	segment
+ROCO_84737		coefficient	examinationchinese	praxi	patient	cognitive	camcogc	networknodal	characteristic	svcicamcogccambridge	global	functional	efficiency	score	relationship	version	cp	eglob
+ROCO_84740		pelvi	right	rta	ramu	pubic	reconstruction	year	injury
+ROCO_84741		microscope	wang	image	flow	al	microcantilever	air	electron	et	sensor	structure	view
+ROCO_84750		laceration	point	mm	tube	lower	air	part	cuff	endotracheal
+ROCO_84761		front	staging	cover	atla
+ROCO_84764		embryology	auricular
+ROCO_84768		followup	preoperative	mesial	month	radiograph	fiftymonth	ligament	root	open	space	permanent	intraoral	extensive	development	cary	lesion	complete	normal	postoperative	lower	immediate	formation	apice	molar	apical	radiography	recall	sevenmonth	pdl	periodontal	left
+ROCO_84782		fibrin	bmdsc	matrix	construct
+ROCO_84783		phantom	profile	sensitivity	inhouse
+ROCO_84810		laryngeal	iii	webtype
+ROCO_84823		g3	g2	g1	mgml	etc	garlic	alone	concentration	streptomycin	extract
+ROCO_84828		hrtem	nanorod	result	zn099cu001o
+ROCO_84830		reveal	right	pleural	defect	fluid	large	lung	liver	retraction
+ROCO_84831		intraarticular	rapidloc	anchor	loose
+ROCO_84835		arrow	site	epithelialization	black	ileostomy	skin	white	functioning	loop
+ROCO_84837		bedscreen	patent	epic
+ROCO_84860		intraepithelial	lymphocyte	mucosa	infiltration	atrophy	villou	duodenal
+ROCO_84877		different	cparapsilosi	calbican	cglabrata	agar	candida	ckrusei	chrom	species
+ROCO_84882		foley	needle	balloon	material	catheter	inflated	contrast
+ROCO_84892		lesion	srd	hyperreflective	erm	oct	subretinal
+ROCO_84912		body	collateral	grasper	patient	tissue	posterolateral	image	loose	osteophyte	medial	chronic	insufficiency	right	portal	ligament	reconstruction	posteromedial	elbow
+ROCO_84920		lateral	approach	external	incision
+ROCO_84928		engraving	england	consumption	wellcome	engraver	jmw	library	foremost	courtesy	charle	london	constantine	popular	joseph	turner	painting	carpue
+ROCO_84941		repair	full	partial	complete	extension	stitch	capsular	lateral	snapping	httplinkslwwcomjpoba8	content	release	right	supplemental	digital	elbow	longer	flexion	exposure
+ROCO_84959		majority	mucin	cell	cluster	single	cellularity	malignant	abundant	extracellular	pool
+ROCO_84973		feedback	figure	overview	brain	arc	simplified	alignment	neurofeedback	information	participant	ifcbased	monitor	priori	red	auditoryrelated	degree	visualization	modulation	braincomputer	game	synchronization	interface	coupling	intracerebral	task	bilateral	visual	specific	rois	phase	cortex	activity	video	eeg	software	mean
+ROCO_84979		distance	head	total	cm	mm	probe	evidence	width	microelectrode	intraoral	prototype	view
+ROCO_84997		control	transluminal	angiographic	angioplasty	balloon	percutaneou
+ROCO_85012		lower	area	extremity	image	stimulation	paretic	cortical	example
+ROCO_85018		gray	shell	roi	closest	accordance	color	transition	anatomical	colorcoded	lausanne	voxel	white	subject	example	atla	matter
+ROCO_85037		sopro	los	imaging	crestal	bone	software
+ROCO_85054		ej	coliti	al	dozois	surgery	inc	rr	ileocolic	recurrent	approach	foundation	permission	bowel	privitera	inflamm	america	crohn	holubar	resection	cima	copyright	disease	laparoscopic	sd
+ROCO_85073		tea	admission	appearance	rhabdomyolysi	characteristic	day	urine
+ROCO_85080		setup	feeding	hemotek	system	membrane
+ROCO_85085		stimulator	back	direct	computer	electrode	unit	stimulation	use	hdtdc	current	program	highdefinition	several	parameter	transcranial	head	option	tdc	neuroelectric	hdcap	device	desire	montage	setup	starstim	small
+ROCO_85124		brazil	group	region	overall	radiograph	surgical	indication	representative	fracture	percentage
+ROCO_85133		commune	mitochondria	dapi	dikaryotic	colocalization	labeling	visualize	green	hyphae	dhc1	staining	dhc2	red
+ROCO_85144		analysisthe	blue	hypothesi	resemble	calculation	characteristic	image	box	illustration	grey	vessel	green	contrast	schematic	light	morphology	simplified	value	change	mean
+ROCO_85158		neurological	patient	wound	preoperative	stab	deficit	lesion	view
+ROCO_85165		poncho	approach	drawing	schematic	flap
+ROCO_85166		diameter	lowtemperature	torch	bluish	whitish	bright	proportional	species	linearly	zone	distinctive	torchtypical	microwave	dioxide	dimmer	plasma	hightemperature	quartz	power	volume	carbon	oxygen	region	length	flame	tube	typical
+ROCO_85168		anterior	interface	lamellar	keratoplasty	deep
+ROCO_85169		section	coronal	scan	ct
+ROCO_85172		slope	artefact	image	pancrea	reformation	registration	border	white	analysi	map	lower	carcinoma	liver	pancreatic	ductal	maximum	multiplanar	dilatation	edge	green	arrow	small
+ROCO_85180		subcapsular	posterior	left	eye	cataract
+ROCO_85192		onelevel	discectomy	incision	cm
+ROCO_85200		oculaire	iridocristallinienne	cour	complique	synchie	dhypertonie	au
+ROCO_85214		officinali	tlc	extract	emblica	alcoholic
+ROCO_85228		deviation	superoinferior	reverse	image	nasal	note	septal	mirror	dimension
+ROCO_85242		gysi	gnathometer	gothic	arch
+ROCO_85246		mucou	opening	sucker	aspiration	fat	arrangement	tubing	suction	cannula
+ROCO_85248		md	fr	frcpi	ref	vm12m1	mria	royal	kind	physician	jame	college	ireland	portrait	permission	lld	fl	formal
+ROCO_85258		syndesmi	schematic	aonikenki	stylet	dorsoventral	sp	st	abbreviation	vitellaria	reconstruction	fg	ov	ovary	egg	filament	view
+ROCO_85264		patient	age	xxx	radiological	finding	karyotype	bone
+ROCO_85269		type	photograph	iii	coloboma	fundu
+ROCO_85277		hypertrophied	notch	extension	wall	intercondylar	impingement	roof	acl	portion	examination	posterolateral	knee	left	arthroscopic
+ROCO_85286		mic	etest	vancomycin
+ROCO_85289		body	image	foreign	bronchu	ct
+ROCO_85291		gastrectomy	placement	port	laparoscopic
+ROCO_85302		pattern	tanner	pubic	hair	female	iii	stage
+ROCO_85306		elevation	flap
+ROCO_85315		anterior	circumflex	design	pmi	baseline	infarct	balloon	lad	location	branch	induction	postmyocardial	week	ligation	bl	diagonal	lcx	artery	occlusion	example	first	study	left
+ROCO_85330		measuring	lane	right	cm	car	system	noncentrallywith	shift	axi	road	left
+ROCO_85367		shoulder	head	glenoid	lesion	arthroscopy	bankart	posterior	humeral	portal	view
+ROCO_85369		picture	example
+ROCO_85372		seamount	peregrinella	creek	zizin	spring	datum	romania	werle	county	literature	mya	france	occurrence	raciborsko	italy	northern	guanajuato	white	bonanaza	chtillonendois	late	indicate	paleogeographic	new	kuban	rice	available	map	curnier	star	musenalp	tibet	southern	rottier	peninsula	xainza	california	distribution	valley	wilbur	poland	alaska	planerskoje	crimean	bohrung	switzerland	germany	berriasian	russia
+ROCO_85379		control	plate	coated	inhibitory	sonorensin	aureu	ldpe	growth	nisin	surface	activity	aureusac	untreated	film
+ROCO_85388		digora	screenshot	required	radiograph	length	periapical	measurement	software
+ROCO_85401		credit	elli	robert	photo
+ROCO_85430		valve	expiratory
+ROCO_85451		different	giant	density	cavity	hydrocephalou	encephalocele	fluid	brain	mild	tissue	mri	contain	sac
+ROCO_85460		photograph	tooth	deciduou	permanent	intraoral	present
+ROCO_85473		sample	image	resolution
+ROCO_85494		synergy	metallobetalactamase	double	detection	combined	test	phenotypic	disk
+ROCO_85514		photograph	optic	boston	slit	growth	epithelial	keratoprosthesi	type
+ROCO_85539		hair	head	white	top	tuft
+ROCO_85542		sarcoidosi	fig4b	fig4a	administration	appearance	splenic	parenchyma	large	nodule	female	inhomogeneou	hypodense	contrast
+ROCO_85545		control	prosthesi	rotational	diagram	dual	turon	cannulation	guide	anatomic
+ROCO_85548		case	positive	tear	false	probing
+ROCO_85553		control	colliculu	set	projection	figure	point	influence	direct	tegmental	diverse	aspect	globu	clarity	hyperdirect	snc	vta	superior	par	neuroanatomy	saccadic	area	gpe	dopaminergic	nigra	vestibular	from134	schematic	input	cortical	pathway	striatum	ganglion	description	indirect	pallidu	basal	ventral	cerebellar	snr	external	convergence	midbrain	segment	anatomy	eyemovement	nucleu	in91	receive	region	subthalamic	important	cortex	substantia	simplification	sc	stn
+ROCO_85561		collecting	map	described	description	habitat	locality	detail	site	triangle	pontohedyle	table	white	type	species	dot
+ROCO_85567		cylinder	scale	matrix	negative	uniaxial	plastic	strain	extrapolation	value	mmcfgm	phase	f2223	true	deformation	compression
+ROCO_85583		layer	orientation	figure	scan	magnetic	unambiguou	inverted	ink	array	mark	lowmeltingpoint	eye	image	arrangement	note	identification	uppermost	cornea	readines	head	agarose	nasal	lowerright	possible	paraformaldehydefixed	resultant	overnight	quadrant	mri	resonance	original
+ROCO_85590		total	arthroplasty	ltd	platform	mathy	bicondylar	cruciate	ligament	balansy	switzerland	knee	bettlach
+ROCO_85591		game	monitor
+ROCO_85593		tomography	threedimensional	computed	reconstruction	scan
+ROCO_85594		vested	mouthpiece	storyillustration	scott	journalist	interest	mickelson	unwitting
+ROCO_85609		cage	structure
+ROCO_85620		completa	instituto	martnez	anatoma	madrid	piero	martn	courtesy	anatomy	biblioteca	del	lpez	historicomdico	hombre	mata	museo
+ROCO_85634		reverse	tong	postion	site	trendelenberg	surgical	surgery	element	bolster	instrumentation	eye	venou	shingling	lordotic	head	thoracoabdominal	patient	pressure	posterior	fusion	interlaminar	longitudinal	cervical	flexed	posture	neck	abdominal	region	neutral	bed	face	order
+ROCO_85637		anterior	body	cyclodialysi	pamnani	medical	stent	create	remain	proximal	chamber	courtesy	maintain	ravi	cypas	image	site	cleft	inflow	collar	microshunt	inc
+ROCO_85640		scintigraphic	image	lu177phytate	rat	knee	injection	intraarticular	wildtype	day
+ROCO_85647		closure	pharynx	suture	pharyngeal	continuou
+ROCO_85648		extension	posterolateral	anteromedial	graft	parallel	view
+ROCO_85653		neurosensory	retinoschisi	retina	split	superotemporal
+ROCO_85656		bar	epithesi	extension	metal	portion	attachment	front	intraoral	view
+ROCO_85661		scan	umbilical	underlying	nodule	subcutaneou	hernia	ct
+ROCO_85683		mammalian	chinese	protrusion	putney	cell	fibroblast	ccl39	lung	hamster	membrane	nhe1deficient	dnhe2	ps120	nhe1
+ROCO_85704		blue	streptococcu	evident	extra	colony	slime	polysaccharide	dark	cellular	bacterial	msb	transparent
+ROCO_85722		cast	dental	fiber	polyethylene
+ROCO_85732		cusp	right	flap	area	noncoronary	dissection	cava	intraoperative	vena	superior	finding	coronary	reveal
+ROCO_85748		cm	pin	rectal	many	vaginal	wellcircumscribed	colonoscopy	hole	septum	staple
+ROCO_85767		wall	lateral	sinu	sagittal	ioc	view
+ROCO_85769		angiomatou	show	indocyanine	sign	identify	domainoptical	tomography	lesion	spectral	icga	feature	hotspot	haemorrhage	angiography	proliferation	elevation	coherence	retinal	ophthalmoscopy	punctuate	laser	choroidopathy	polypoidal	sdoct	green
+ROCO_85771		anterior	boy	lateral	transepiphyseal	month	radiograph	development	reconstruction	cruciate	tanner	stage
+ROCO_85774		telescopic	needle	direct	chiba	liver	vision	gallbladder
+ROCO_85778		cast	fibrinou	material
+ROCO_85793		anterior	distance	cornea	len	imaging	surface	measurement
+ROCO_85798		high	choroid	metal	dmt1	plexu	formation	arrow	transporter	divalent	expression
+ROCO_85804		pain	patient	laser	treatment	discogenic
+ROCO_85826		land	cover	aransa	type	port	change
+ROCO_85832		diagram	objective	c5a9	individual	anatomic
+ROCO_85837		right	double	occlusion	coronary	chronic	artery	injection	total	angiogram
+ROCO_85853		case	cavity	incisor	nasal	arrow
+ROCO_85868		microslide	planar	figure	glas	image	cellulose	batch	texture	sb8	aqueou	nanocrystal	fingerprint	section	suspension	region	experimental
+ROCO_85871		blue	agar	growth	coli	eosin	methylene	escherichia
+ROCO_85874		al2o3	water	image	microscope	volume	electron	nanoparticle	fraction	sem
+ROCO_85880		deviation	main	attenuation	ratio	bilateral	noise	area	image	region	mm2	signal	minimum	interest	measurement	mean	artery	pulmonary	ct	latter	standard	circular
+ROCO_85897		setup	singleincision	port	gelpoint
+ROCO_85899		upper	old	al	brain	maladaptive	limb	et	remapping	theory	phantom	recovery	plasticity	subsequent	organisation	new	injury	independent	pain	ability	mismatch	makin	key	amputee	cortical	argue
+ROCO_85920		tomography	optical	coherence	oct	od
+ROCO_85934		full	several	history	detail	subject	possible	clinical	value	variable	left	pvl	panel
+ROCO_85939		cancerou	ddsm	image	version	irma
+ROCO_85940		atrial	isolation	laa	site	pvi	puncture	appendage	pulmonary	transseptal	vein
+ROCO_85942		houston	mexican	colorado	chinese	resident	japanese	maasai	european	kenya	southwest	japan	texa	jpt	kinyawa	chb	chd	lo	northern	lwk	hapmap	angele	mkk	denver	gujarati	indian	italia	nigeria	yoruba	gih	map	usa	yri	toscani	utah	ceu	ancestry	china	western	phase	world	iii	population	webuye	ibadan	metropolitan	tokyo	tsi	mxl	african	geographic	luhya
+ROCO_85944		ethical	bioinformatic	determine	researchsource	national	share	community	individual	legal	human	goal	microbiomesthe	health	technological	role	body	core	tool	hmp	collection	microbe	change	shutterstockcom	microbiome	institute	project	person	communitieseach	social	implication
+ROCO_85951		week	light	fluvagel	arrow	anagen	mouse	distal	white	injection	sevenweekold	hair	part	black	birth	c57bl6	fluvastatin	beneath	male	induction	day	gel
+ROCO_85955		anterior	acessory	cb	ann	olfactory	number	abbreviation	cluster	identify	tract	artery	marker	illumination	coenobita	blue	median	conventional	antenna	nuclear	lateral	structured	globular	allatostatinlike	overview	synapsinlike	apotome	red	pmpn	body	lan	triple	lobe	clypeatu	posterior	neuropil	protocerebral	central	horizontal	synir	mf	ampn	pt	fluorescence	brain	atype	medial	immunoreactivity	green	foraman	section
+ROCO_85957		figure	area
+ROCO_85964		inflammatory	arrowhead	positive	study	denote	visible	radiological	nodule	segmental	arrow	hepatic	pseudotumor	staining	intervention
+ROCO_85969		smaller	scanner	image	relative	relation	interendplate	measurement	respect	ct	endplate	axial	sagittal	inferior	patient	frontal	l1	transverse	plane	rotation	true	large	arbitrary	example	left
+ROCO_85979		cord	patient	point	postoperative	xii	sequence	visible	vocal	symmetric	hoarsenes	second	coronal	time	ssfp	movement
+ROCO_85983		lobe	pkvp	right	prostate	transurethral
+ROCO_85990		alopecia	dermatiti	dog	selftrauma	flea	allergic
+ROCO_85998		case	gray	phantom	arrowhead	arrow	scaledynamic	image	rangefour	round	visible	structure	background	value	example	contrast	target
+ROCO_86003		case	radiograph	occlusal
+ROCO_86004		master	resected	area
+ROCO_86011		mucou	disjunctor	supernumerary	type	image	hyrax	tooth	exodontia	other	scar	intraoral	device	cleft	disjunction	incisor	lateral
+ROCO_86015		postimplant	dosimetry	tomography	computed	scan
+ROCO_86016		central	mouse	system	project	green	human	mr	fluorescent	nervou	gene	gensat	protein	present
+ROCO_86030		undue	tension	mesh
+ROCO_86034		droplet	hylozoic	led	matrix	flask	light	diode	cybernetic	air	incubator	environmental	heat	btschli	open	condition	ground
+ROCO_86042		superior	giant	ag	area	sinu	head	large	coronal	mri	arrow	hypodense	sagittal
+ROCO_86062		erdheim	year	pathology	education	children	wien	hospital	medizinischen	department	weichselbaum	vienna	full	appointment	municipal	pathologist	courtesy	jacob	universitt	many	der	bildarchiv	professor
+ROCO_86066		comparison	eye	contralateral	side	forehead	intraoperative	asymmetry	rim	supraorbital	gros	view	bird	left
+ROCO_86089		diameter	smaller	point	surface	thicknes	bright	fishing	film	latter	white	soap	filament	commercial	les	bounding	line	liquid	region	magnitude	arrow	crosssectional	order	loop
+ROCO_86091		abscess	ancient	van	mastoid	incision	barber	luca	time	leyden	surgeon	surgery
+ROCO_86096		unassembled	part	airtraq	assembly
+ROCO_86100		urolume	cystoscopy	wire	show	stent	mucosa	urethral	flexible
+ROCO_86101		experiment	verification
+ROCO_86109		colpotomy	view
+ROCO_86114		haemostasi	pedicle	cutaneou	separate	phallu	ventral	original	bundle	neurovascular	base	tourniquet	vascular	downward	corpus	loop	dorsal
+ROCO_86119		ymaze	globe	chlorophanu	tethered
+ROCO_86137		experiment	simulator
+ROCO_86139		right	show	middle	remnant	end	exclusion	cerebral	widenecked	stable	angiogram	followup	patient	complete	dome	medina	early	device	artery	neck	circulation	bifurcation	appearance	beehive	aneurysm	embolic	small	procedure
+ROCO_86166		reflectivity	text	cornea	surface	infrared	doubleband	epithelial	marker	ib	film	retention	adhesive	eye	rightpatient	instilled	artificial	adhesion	low	image	inner	ocular	index	db	corneal	band	outer	horizontal	simultaneou	structure	high	property	central	target	tear	ob	oct	time	twolayered	passing	axi
+ROCO_86169		incision	cutaneou
+ROCO_86199		theodor	preda
+ROCO_86206		anterior	composite	mesioden	restoration	aesthetic
+ROCO_86207		europe	graphical	evolutionary	central	scenario	area	introduction	study	southern	range	illustration	wave	abbreviation	subtype	cryphonectria	location	table	hypoviru	white	dot	population
+ROCO_86220		cyberknife	sample	plan	sbrt
+ROCO_86244		body	case	layer	lesion	cm	eusfna	smear	show	pancreatic	cell	structure	multiple	tumor	anechoic
+ROCO_86246		abnormality	patient	examiner	spinal	adam	arm
+ROCO_86254		aa	nerve	vv	ed	edi	al	deep	erme	milan	ligament	human	delluomo	palmnote	copyright	permission	location	branch	digital	ulnar	anastasi	carpal	palmar	hand	transverse	italian30	region	median	anastomosi	anatomia
+ROCO_86255		surgical	site	marked
+ROCO_86268		angiography	extended	field	frame	coherence	diopter	rtvue	efi	optical	trial	len	avanti	tomography	xr	oct	subject
+ROCO_86269		anterior	cortexsalience	interpretation	version	figure	reference	brain	subregion	inflated	red	web	network	mid	regulation	networksregion	salience	amygdala	interest	reader	insula	spaceemotion	inferior	circular	insular	infcirin	article	amyg	segment	pregenual	emotion	sulcu	short	cingulate	region	mni	gyri	ain	green	cortex	following	subgenual	amcc
+ROCO_86271		flap	dissection	posterior	aspect	triceps	aponeurotic
+ROCO_86278		load	compressive	long	controlspecimen	test	axi
+ROCO_86283		patient	combination	generation	mask	frame	biteblock	stereotactic	coordinate	support	thermoplastic
+ROCO_86292		head	age	stone	evil	trepanation	person	black	hole
+ROCO_86314		linear	lvdt	setup	differential	transducer	variable
+ROCO_86315		blue	developmental	bat	miniopteru	natalensi	hindlimb	h3k27ac	datum	cs17	cs16	h3k27me3	design	genome	rnaseq	forelimb	stage	chipseq	autopod	experimental	red
+ROCO_86325		laser	bowel	temporary	flow	defect	disease	cell	small	gap	epithelial	image	endomicroscopy	patient	fluorescein	confocal	crohn	incomplete	sealing
+ROCO_86350		tumor	standard	electrode	loop	resectoscope
+ROCO_86356		sigmoid	colectomy	gasles
+ROCO_86365		debridement	ridge	lfc	femoral	lateral	arthroscopy	arrow	condyle	view
+ROCO_86387		macule	mother
+ROCO_86404		postoperative	tomography	threedimensional	reconstruction
+ROCO_86407		upper	lower	angle	neck	ventral	airway	line	perpendicular	long	parallel	lip	axe	patient	imaginary	axi	oral	axisoa	midline
+ROCO_86409		gnathometer	bite	registration
+ROCO_86413		figure	wellcome	image	mcanisme	humaine	boulogne	duchenne
+ROCO_86420		map	depth	elevation
+ROCO_86436		metallic	external	arrow	circle	hepaticojejunostomy	view
+ROCO_86457		austrian	indoor	shoe	preschool	typical
+ROCO_86459		capture	holeboard	screen	modified	behaviour	trial	video	test	recording
+ROCO_86465		reaction	osteoclastoma	demarcation	radiograph	osteosarcoma	periosteal	expansion	shaft	los	invasion	curved	line	abundant
+ROCO_86471		cnt	substrate	tem	area	dashed	image	graphite	crosssectional	carbon	blowup	rectangle
+ROCO_86473		pin	coping	transfer	biocare	fixture	gteborg	nobel	sweden	guide
+ROCO_86496		week	normal	tear	breakup	clear	time	administration	corneal	topical	range	debris	inflammationnote	evidence	erosion
+ROCO_86505		multiple	shunt	abdoman	child	scar	revision
+ROCO_86524		talu	jig	photograph	intraoperative	locking	o	nail	calci	insertion	posterioranterior	arthrodesi
+ROCO_86538		calculusintracorporeal	caliceal	lithotripsy	calculu	renal
+ROCO_86541		reveal	ulcer	fistula	bowel	colonoscopic	examination	circumferential	tract	small
+ROCO_86569		transmitter	fur	monitor	elastic	harri	nurminen	photo	band	wrist	attachment	collar
+ROCO_86585		cm	oblique	rib	abb	scale	ridge	brontosauru	ventral	c2881	ypm	sacral	sacrum	yoke	amplu	dv	sacricostal	iii	dorsal	sy	bar	sv	vertebra	view
+ROCO_86603		cell	elegan	precursor	vulval
+ROCO_86610		halfan	gsk	glaxosmithkline	hologram	counterfeit
+ROCO_86617		postoperative	suture	appearance	drainage
+ROCO_86641		zealand	use	permission	consumer	university	trampoline	wrist	gooch	les	pad	canterbury	net	new	hole	subject	dr	enclosure	typical	ground
+ROCO_86652		right	clip	point	site	surgical	intradermal	skin	surgery	line	b16	cell	flank	initiation	monoclonal	week	vitiligo	regulatory	surgerymouse	excision	anticd4	incision	tumor	arrow	antibody
+ROCO_86665		blue	intraductal	interpretation	figure	evident	web	yellow	uncinate	ipmn	large	neoplasm	proces	mucinou	version	arrow	reader	article	papillary	periampullary	tumor	reference
+ROCO_86671		image	reconstruction	opening
+ROCO_86678		anterior	esteve	clypeu	fullface	yellow	casent0009102	abbreviation	stigmatommaliebesp	pit	frc	carina	area	image	head	lobe	frontal	worker	illustration	tentorial	fl	sulcu	frontoclypeal	sclp	supraclypeal	view
+ROCO_86679		hz	tio20114	triangle	thezigzag	image	ncafm	red	vcpd	highlight	structure
+ROCO_86687		grid	electrode	brachytherapy
+ROCO_86692		hip	capsulotomy	laser	arrow	calibration	capsular	image	probe	perpendicular	thicknes	capsule	black	inner	aspect	measurement	line	white	arthroscopic
+ROCO_86699		anterior	oculu	relationabbreviation	sinister	show	image	year	tomography	best	dexter	eye	keratoplasty	visit	due	acuity	bscva	asoct	patient	coherence	grafthost	visual	optical	segment	advanced	last	keratoconusnote	highresolution	o	male	left
+ROCO_86707		alopecia	manifestation	clinical	hyperandrogenism
+ROCO_86715		head	scale	bar	third	show	lutzomyia	large	small	base	arrow	palpomere	adiketi
+ROCO_86717		diameter	antibiotic	colony	supplementary	second	growth	result	disk	ampicillin	tolerantpersistent	zone	bacterium	s3	dashed	due	s4	fig	white	exposure	see	tdtest	step	inhibition	line	panel	hour	appearance	overnight	arrow	first	similar	replacement
+ROCO_86728		national	unna	library	medicine	courtesy	gerson	paul
+ROCO_86730		domelike	scanning	j	choroidal	unilateral	color	fluorescein	grayish	head	subfoveal	thicknes	multimodal	parafoveal	mild	right	punctate	tomography	hyperpermeability	angiograph	polypoidal	open	vasculopathy	different	eye	area	due	tomograph	examination	adjacent	spot	image	drusen	angiography	elevation	subretinalpigmentepithelial	indocyanine	coherence	hyperfluorescent	uninvolved	fundu	optical	group	solid	change	man	case	reveal	photograph	b	irregular	g	f	column	h	soft	dld	funduscopic	autofluorescence	discrete	green	deposit	arrow	pigmentary	subretinal	margin	accumulation	left
+ROCO_86737		process	equatorial	atmospheric	atmosphere45	coupling
+ROCO_86744		knob	ventral	prefemoral	view
+ROCO_86752		heseraradensi	prolateral	view
+ROCO_86754		liquid	pressure	media	machine	cast	biostar
+ROCO_86763		medium	colony	sabouraud	agar	brasiliensi	nocardia
+ROCO_86766		right	concerted	defined	bound	frog	event	blue	space	junctional	mechanism	parajunctional	sequential	hypothetical	couplon	channel	fiber	activation	component	gap	structural	wide	interaction	edge	green	pattern	mixed	triad	narrow	ca2mediated	view
+ROCO_86767		melanosi	ocular
+ROCO_86773		multiple	increased	positron	scan	fluorodeoxyglucose	emission	nodule	activity	tomography	pulmonary
+ROCO_86774		burundi	patient	cataract
+ROCO_86792		arterial	patient	fibrosi	calculation	image	ivu	amount	hypertension	artery	pulmonary	wall
+ROCO_86806		busy	system	view	side	road	typical
+ROCO_86818		debridement	wound	edge	margin	effect
+ROCO_86823		itpase	reaction	scheme
+ROCO_86854		position	intrabeam	system	treatment
+ROCO_86866		httpsourceforgenetprojectsjointtrack	twodimensional	technique	threedimensional	registration	jointtrack
+ROCO_86880		photograph	bioa	reinforcement	tissue	gore	mesh
+ROCO_86889		single	tmng	cold	thyroid	uneven	maki	area	technetium	hot	scansa	toxic	uptake	thyroiditi	giovanni	uptaked	adenoma	nodule	suppression	thyroide	uptakeimage	diffuse	grave	lobesc	absent	normalb
+ROCO_86899		upper	right	initial	month	lip	examination
+ROCO_86904		angle	neck	third	femoral	deformity	transverse	second	plane	line	axi
+ROCO_86915		bearing	outerrace	dismantled
+ROCO_86918		domain	zenith	image	global	satellite	radiu	earth	limb	imager	observational	angle	earthsun	transfer	antisunward	radiative	note	source	schematic	method	function	direction	sza	diagram	geometrythe	ultraviolet	actual	simulation	nasa	model	example
+ROCO_86921		please	image	indexing	retrieval	note	indexed	parameter	method
+ROCO_86930		xray	calcification	linear
+ROCO_86935		thyroid	mm	right	lesion	isthmu	gland	lobe	anechoic	ultrasonography
+ROCO_86940		different	area	support	medial	height	arch	orthosi
+ROCO_86945		hip	satisfactory	right	lt	intraoperative	acetabular	reattachment	fossa
+ROCO_86949		holistic	complete	invasive	esophagectomy	mckeown	procedure	view
+ROCO_86950		fragment	snare	bottle	endoscopic
+ROCO_86954		d2y	d2x	d3x	d3y	d1x	d1y	implantreplica	implant	inter	distance
+ROCO_86973		anterior	complete	postoperative	resolution	clear	coherence	segment	optical	image	type	tomography	bubble	day	graft
+ROCO_86977		machine	instron	experiment	universal
+ROCO_86991		adv	krossfjorden	kongsfjorden	bill	dominant	domainsmap	arctic	adventfjorden	sampling	system	isfjorden	current	rijp	rijpfjorden	station	atlantic	kros	hinlopen	kong	isf	hin
+ROCO_87010		anterior	case	photograph	right	eye	presence	patent	capsulohyaloidectomy	postoperative	deep	chamber	iridectomy	slitlamp
+ROCO_87018		orbital	patient	cm	metastasi	month	tumor	initiation	treatment	ct
+ROCO_87037		adhesive	figure	deflation	tube	cuff	endotracheal	inflating	tape
+ROCO_87056		visualized	placement	ioc	duodenum
+ROCO_87066		custombuilt	rig	torque	sensor
+ROCO_87072		patella	vastu	mediali	laterali	insertion
+ROCO_87075		lateral	nodule	lung	area
+ROCO_87084		phantom	cylinder	wire	vertical	middle	arrow
+ROCO_87086		swm	description	region	histogram	item	interest	display	unit
+ROCO_87106		ctv	template	zone	wall	safe	volume	chest	insertion	skin	ptv	catheter	contour	view
+ROCO_87109		rupture	cap	coronary	microphotograph	atheroma	fibrou	calcification
+ROCO_87135		control	epidemiologist	cdc	domestic	primary	past	sar	laboratory	operation	quality	clifford	outbreak	setting	area	mcdonald	hospital	microbiology	research	member	clinical	health	branch	antimicrobial	team	public	division	experienced	interest	emergency	activity	infection	resistance	epidemiology	adult	international	phase	dr	response	training	center	medical	investigation	disease	responsibility	healthcare	promotion	infectiou
+ROCO_87138		sure	figure	color	year	steady	proportioned	hand	crayon	background	tremor	closeup
+ROCO_87141		sagittal	pain	discogenic	pathogenetic	image	abnormal	yellow	hypertrophy	facet	joint	disc	black	mri	arrow	vertebra	lumbar	alignment	red
+ROCO_87149		wedge	insole	soft	lateral	arch	support
+ROCO_87155		trocar	placement
+ROCO_87177		hip	cc	direct	joint	arthroscopic	vision	distraction
+ROCO_87190		groundlevel	waste	municipal	la	solid	tonche	modelling	france	concentration	incinerator	vicinity	example	isre
+ROCO_87197		placenta	trophoblast	pedicle	decidua	uterine	labyrinth	subplacenta	interlobular	gestation	inverted	tenuou	lobe	sac	attachment	schematic	beneath	yolk	drawing	present	paca
+ROCO_87202		diameter	attenuation	desired	mm	maculanote	image	radiation	effect	illustration	dose	beam	courtesy	oraya	modification	diminish	therapeutic
+ROCO_87210		palatal	light	highlighting	spot	rugae
+ROCO_87234		fashion	reference	calculation	image	right	measurement	sor	absolute	zu6	subsequent	twodimensional	tou6	soru6	real	perpendicular	millimeter	plane	fh	horizontal	difference	distance	coronal	landmark	side	left
+ROCO_87238		disturbance	last	papillae	irregular	taste	smoker	surface	specific	cigarette	blood	year	vessel	thick	type	day
+ROCO_87244		anterior	chamber	eye	detail	len
+ROCO_87246		machine	pressure	technique	appliance	biostar
+ROCO_87255		portrait	dd	circa	palmer
+ROCO_87265		major	adobe	fig3af	er07	map	text	global	datum	site	surface	sediment	bathymetry59	redwarm	isbr	figs2	magenta	gimp	terrestrial	ibcao	etopo1	figure	v356	glacier	httpwwwadobecomproductsillustratorhtml	sermilik	fjord	location	digital	local	core	elevation	yellowmixture	hghelheim	bathymetric	bluecold	atlantic	extent	temperature	box	topographic	illustrator	httpdesktoparcgiscomenarcmap	jijakobshavn	colour	ocean	model57	inset	relief	arrow	north	arcmap	cs6	region
+ROCO_87269		sketch	wellcome	cholera	library	early	source	sunderland	london	victim
+ROCO_87281		villi	marked	juice	porcine	wider	enteroscopy	endoscopy	system	content	olympu	picture	normal	transverse	volume	capsule	jejunum	endocapsule	prominent	absent	bile	fold	large	intestinal	mean
+ROCO_87297		passive	articulated	patient	motion	immobilizer	range	gain	device	flexion
+ROCO_87302		wd	sunflower	diagnosi	slit	lamp	time	sc	cataract
+ROCO_87307		limb	position	affected
+ROCO_87308		anterior	apposition	good	abdominal	wall	body	stomach	placement	peg
+ROCO_87324		roi	peduncle	corticospinal	normal	cerebral	rois	thefirst	healthy	second	gyru	location	tract	theprecentral	subject
+ROCO_87333		die	master	raiser
+ROCO_87343		week	initial	month	collared	radiograph	post	revision	stem	op
+ROCO_87366		prvoar	ptv	contour	example
+ROCO_87376		anterior	right	component	separation	position	trocar	side	endoscopic
+ROCO_87377		calcar	jan	van	portrait
+ROCO_87388		system	cochlea	layer	twodimensional	projection	distance	mm	perpendicular	hrct	datum	length	btld	height	basal	turn	intensity	minimum	reconstruction	scanner	luman	cochlear
+ROCO_87425		lesion	greater	irregular	ulceroinfiltrative	curvature	surface	antrum	hemorrhagic	side	gastroscopy
+ROCO_87458		sketch	century	12th	harbour	peniche	mouth	coastline	island	small	river
+ROCO_87469		cholangiogram	tortuou	bile	cholangiopathy	cavernoma	show	duct	consistent	ercp	portal	common	indentation	irregularity	wall
+ROCO_87470		classical	pseudoobstruction	sign	cecocolic	centimeter	bird	dilation	thirteen
+ROCO_87495		nl	arrow	localization	section	nlthe	coronal	representative	cresyl	bar200	photomicrograph	nm
+ROCO_87510		aorta	extension	stent	proximal	metal	coronary	bare	arrow	postmortem	artery	main	vision
+ROCO_87522		anterior	repair	head	central	joint	femoral	attempted	image	space	acacetabulum	labral	broken	retrievalof	fh	suture	anchor	compartmentduring	arthroscopic
+ROCO_87535		saphenou	patchangioplasty	autologou	vein
+ROCO_87550		elimination	transepidermal	collagen	degeneration
+ROCO_87551		layer	pancrea	yellow	gallbladder	islet	blue	yolksac	different	outer	larvae	purple	section	langerhan	inner	luman	larva	proces	digestive	tract	younger	outline	organ	colour	green	gut	example
+ROCO_87560		needle	ball	metal
+ROCO_87564		rn	mscn	theresa	phd	hurd
+ROCO_87583		laser	capsular	intraocular	len	formation	membrane	phimosi	yag	vision
+ROCO_87611		haltere	image	hinge	joint	base	sem
+ROCO_87612		opacity	peripheral	eye	len	left
+ROCO_87634		image	line	sem	measurement
+ROCO_87653		laparoscopic	morgagni	colon	foraman	hernia	omentum	view
+ROCO_87663		maneuver	direction	grasper	operating	surgeon
+ROCO_87675		multiple	area	patch	erythema	tongue	white
+ROCO_87679		upper	third	bleeding	showing	esophagu	congestive	diffuse	view
+ROCO_87682		mas	hilar	figure	area	balloon	endobronchial	surgical	right	schematic	manipulation	bronchial	main	left
+ROCO_87691		code	bill	number	usd	serial	example
+ROCO_87717		right	mgdl	temperature	average	subject	tc	side	asymmetry	female	cvd	higher	region	temporal	left
+ROCO_87720		canada	phantom	head	ontario	patient	rando	setup	vivo	dosimetry	unit	london	tomotherapy	top	film	typical
+ROCO_87724		tendon	biceps	grade	photograph	proximal	lafosse	injury	arthroscopic
+ROCO_87730		area	clear	bacterium	licheniformi	activity	f114	proteolysi
+ROCO_87735		right	midaxillary	total	surgeon	operative	umbilicu	lateral	port	paramedian	flank	scope	patient	lobe	assistant	midclavicular	liver	line	retraction	level	supine	position	camera	side	left
+ROCO_87738		silc	patient	risk	level	unknown	acceptable	regard	longterm	cost	preference	interest	recommendation	surgeon	result
+ROCO_87740		web	alar	pinto	plasty
+ROCO_87753		note	picture	patient	coupling	permission	removal	large	lunque	fixator	device	cutter
+ROCO_87767		physician	book	publication
+ROCO_87777		anisotropic	layout	experimental
+ROCO_87785		hydaticusluczonicu	balins201616	hp	image
+ROCO_87792		corpu	voxel	right	interpretation	figure	scan	image	brain	square	border	blue	web	reference	open	section	fast	field	version	interest	fractional	histological	red	analysi	comparable	multiple	schematic	reader	landmark	coronal	grid	article	line	diffusion	cingulate	anisotropy	tissue	medial	side	gyru	pattern	callosum	region	left
+ROCO_87815		repair	tension	distal	rotator	band	cuff	footprint	anchor
+ROCO_87818		borland	christine	nature	media	possible	award	len	cast	second	video	hd	loop	morton	film
+ROCO_87822		plate	study	salivariusbacitracin	agar	sucrose	miti
+ROCO_87833		zone	area	cerebral	infarction	ttc	offwhite	chloride	infarcted
+ROCO_87848		color	rimicari	genu	symbol	shape	distribution	genus	mirocaristhe	species
+ROCO_87856		development	incubation	colony	coli
+ROCO_87867		cn	choroid	region	high	plexu	arrow	expression	ferroportin
+ROCO_87868		control	detailed	right	image	defect	tissue	table	scale	area	artificial	width	fig	parameter	red	description	overall	rdw	concordance	bar	mm	mri	arrow	slouse	side	bone	left
+ROCO_87870		shoulder	ptosi	muscle	bilateral	figure	permission	girdle	atrophy	moderate	arm
+ROCO_87875		plane	coronal	determination	result	measurement	implant	sagittal	size
+ROCO_87876		aspect	palatal	image	arrow	defect	threedimensional	red	circumferential	bone
+ROCO_87882		nephroureterectomy	distal	pubic	second	dual	patient	arm	midline	superior	umbilicu	cm	lateral	hybrid	umbilical	port	instrument	camera	xiphoid	nephrectomy	dominant	assistant	bladder	hand	proces	ureterectomy	robotic	configuration	excision	region	nondominant	cuff	become	symphysi	axi	margin	rectu	first
+ROCO_87885		right	eye	valved	view	cadaver	intraoperative	rabbit	cannula	left
+ROCO_87900		pelvi	purulent	drainage
+ROCO_87903		canal	right	scan	pet	region	inguinal	anal	uptake
+ROCO_87910		laryngoscopy	posttreatment
+ROCO_87912		plate	flat	irregular	gray	hr	characteristic	smear	colony	hyointestinali	agar	incubation	microscopic	blood	rod	microaerobic	gramnegative	campylobacter
+ROCO_87919		riyadh	cornea	lack	vascularization	ched	arabia	ground	eye	bluishgray	arif	uniform	thickening	clinical	inflammation	specialist	division	glas	corneal	beam	courtesy	khan	photograph	ophthalmology	slit	saudi	pediatric	hospital
+ROCO_87932		meg	surface	brain	tvb	network	pattern	virtual	stimulation	schematic	cortical	local	node	mas	used	bold	connectivity	output	timesery	model	matrix	neural	simulation	recording	representation	eeg
+ROCO_87951		photograph	group	remarkable	gold	pattern	magnification	representative	interface	sem	original	abutment	wear

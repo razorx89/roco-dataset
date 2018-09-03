@@ -1,0 +1,611 @@
+ROCO_81834	 Case #1 right gaze reveals right lateral rectus underaction.
+ROCO_81840	 A typical plastic McPhail trap (Left) with the optoelectronic sensor embedded (Right).
+ROCO_81862	 Concentric left ventricular hypertrophy by echocardiography. IVSd, inter-ventricular septum diameter; LVIDd, diastolic left ventricular internal diameter; LVPWd, left ventricular posterior wall diameter; IVSs, systolic inter-ventricular septum; LVIDs, systolic left ventricular internal diameter; LVPWs, systolic left vetricular posterior wall thickness; HR, heart rate; EF, ejection fraction; FS, fraction shortening.
+ROCO_81876	 View of the unerupted tooth crown and cystic contents
+ROCO_81888	 Orientation for placement of mesh for pectopexy.
+ROCO_81890	 Tip of female Dohrniphora longirostrata proboscis.
+ROCO_81894	 Interface of Brain Explorer software for viewing brain anatomy and gene expression data in 3D. The main window of the Brain Explorer application displays Rab37 expression in a coronal slice from the adult mouse brain, in which gene expression is indicated by colored spheres. The location of the thalamic structure ventral anterior-lateral complex is shown in muted pink. The structural ontology panel on the right-hand side shows the color-coded hierarchy, which can be switched between hierarchical and alphabetical mode. Bookmarks portray saved default and custom views. At the bottom right-hand side of the window is the list of genes shown in the 3D view.
+ROCO_81902	 Daisy at the age of 7 months. View of the posterior end showing the absence of a tail. Color images available online at www.liebertpub.com/cell
+ROCO_81922	 Occlusal plane of the study model
+ROCO_81937	 Anterior view of the human anatomical preparation (with permission from Bill Jamieson)
+ROCO_81942	 Laparoscopic pyloroplasty.
+ROCO_81948	 Articulator mounted casts with interposed surgical splint
+ROCO_81952	 Treatment system user interface with test data
+ROCO_81961	 Available views of a folder containing X-ray diffraction images. Shown on the right is a Finder window displaying the thumbnail view of a diffraction image. On the left is the QuickLook popout of the same diffraction image.
+ROCO_81979	 The angles between the axis of the prostheses and the mechanical (A)/shaft (B) axes.
+ROCO_81984	 Skin incision
+ROCO_81993	 Transmission electron microscopic (TEM) picture showing Disperal® 40 (Sasol, Germany) particles in a polyethylene (PE) matrix. The primary crystallite size of this BA is at about 40 nm.
+ROCO_82014	 Photograph of the patient during one of her headache attacks, showing marked eyelid and periorbital oedema in the left eye
+ROCO_82019	 Picture of the extracted chicken bone measuring 4.8 cm in length.
+ROCO_82038	 Retraction of ureter and lower pole attachments via percutaneously introduced Vicryl suture exposes psoas muscle and facilitates safe hilar dissection.
+ROCO_82048	 Retroillumination slit-lamp photograph showing the fused anterior and posterior capsular leaflets along the capsulorrhexis margins
+ROCO_82051	 Cystoscopy showing mesh migration (arrow) with calcification on the right anterior bladder wall.
+ROCO_82061	 Heterogeneity in an FDG-PET image. A typical FDG-PET image of a cancer of the uterine cervix. The artificial boundary delineates the region of activity above the 40% of maximum intensity threshold. The heterogeneity within the tumor is evidenced by the very bright regions (higher metabolic activity) juxtaposed with relatively dark regions (lower metabolic activity). The undelineated bright spot to the right is a lymph node and is thus not included in the main tumor volume. The vertical edge of this image represents a length of 10 cm.
+ROCO_82091	 3D reconstruction of the CT scan images showing erosive aspect and multiple depressions at the bilateral vestibular cortical bone of the retromolar region (Gomes et al. [6]).
+ROCO_82115	 Region of interest of ASL perfusion in a 41-year-old patient with fibroid. The fibroid was subserosal-mural type arising from uterine posterior wall. ROI①: right uterine posterior wall beneath the fibroid, ROI②: left uterine posterior wall beneath the fibroid, ROI③: uterine anterior wall, ROI④: uterine anterior wall, and gluteus muscle. We defined ROI① and ROI② as fibroid positive side, and ROI③ and ROI④ as fibroid negative side. ASL perfusion indexes were calculated as ASL value in uterus—ASL value in gluteus muscle
+ROCO_82124	 “PerspectaRAD mouse Phantom” by Gregg Favalora. Licensed under CC BY-SA 3.0 via Commons.
+ROCO_82131	 MRI axial T2 weighted image in the same patient shows the irregular mass (arrow heads) with intermediate signal intensity. There is also a dilated duct within the mass (arrow).
+ROCO_82145	 The loader is removed from the abdominal cavity, and the result is a 5-mm instrument attached on a 3-mm percutaneous shaft.
+ROCO_82167	 Marking the gingival contour on the gypsum cast
+ROCO_82181	  Porcelain, Ming Dynasty, Kia-tsing period, 1522 – 1566 ( XVI century ). In Hobson [19].
+ROCO_82196	 Magnetic resonance imaging (MRI) scan. The arrow shows the rectal calculus in the rectum wall
+ROCO_82204	 Nuchal Cord - Free sliding pattern: (Courtesy Philippe Jeanty et al., with permission)
+ROCO_82209	 Surgeon inserting trucut biopsy needle with patient prone in computed tomography gantry
+ROCO_82238	 Slit lamp examination shows a milky-white substance accumulated behind the intraocular lens and posterior capsular bag distension
+ROCO_82244	 End anterior section of the nymph stage of Linguatula serrata containing two pairs of prominent hooks
+ROCO_82247	 Hugh Own Thomas is shown. (Photograph reprinted courtesy of the National Library of Medicine.)
+ROCO_82255	 Cross-section TEM image of nw2. The horizontal dotted lines roughly denote the irradiated area; individual SFs are highlighted by horizontal white lines. The red lines mark the SFs used for the calculation of the positions of the maxima of the Patterson function; the maxima are shown in Fig. 8 ▸ as vertical red lines.
+ROCO_82271	 Specimen radiograph showing microcalcifications. The radiograph was taken in a digital mammographic unit (Inspiration, Siemens, Erlangen, Germany) at 23 KV and 9 mAs. The cylinders were collected into a plastic cassette
+ROCO_82280	 Fluoride varnish
+ROCO_82292	 The cover page of the World Health Organization’s report, entitled “Tobacco: deadly in any form or disguise.” Philip Morris Korea had translated the title of this report into Korean and had replaced the word “deadly” with “harmful” in their citation of the report.
+ROCO_82295	 Dorsal (A) and transverse (B) view of the adult VNS showing a MARCM clone for the T3 lineage 7.From the cell cluster (arrowhead) the cells project dorsally to elaborate a dense arbor (i) in the ipsilateral tectulum neuropil and then cross via an anterior commissure and extend an anterior output arbor (c). They also send a send a second projection that crosses the midline and extends ventrally into leg neuropil (cv). Bracket shows level of transverse projection.DOI: http://dx.doi.org/10.7554/eLife.04493.015
+ROCO_82309	 Post-operative CT scan
+ROCO_82314	 Overlay of a fluorescence reflected-light microscopy image of calcein AM stained CHO-K1 cells (green) crossing the spiral separator at a flow rate of 2.5 mL/min. Detailed view on a cut-out of the fabricated spiral separator close to the outlets. The cells are focused on a single streamline.
+ROCO_82315	 Postoperative computed tomographic angiography (CTA) showing iliac artery adjacent to the lumbosacral spine at the 24 months’ follow up
+ROCO_82319	 The Unifying Symbolism of Human and Animal health.
+ROCO_82323	 Portrait of Squier Littell.Notes: Inscribed on reverse “Dr S Littell, October 21, 1824, painted by Francis [Martin] Drexel. Courtesy of Matthew Richards.
+ROCO_82324	 Day 2, 4-cell embryo
+ROCO_82326	 Mesh peritonealization.
+ROCO_82328	 Section view of acetabular cup in Figure 13 showing porous-mesh surface region.
+ROCO_82347	 Resultant effective horizontal forces exerted on the adjacent teeth; FH: Resultant horizontal forces due to wedging action of Kansal Separator, FL: Resultant horizontal forces due to lateral action of Kansal Separator
+ROCO_82352	 High resolution TEM image of Ag/titanate nanocomposite formed by UV light irradiation (300 W Xe, 320–400 nm).
+ROCO_82365	 The massage points 1–5 on the back of the head of CTTH patient.
+ROCO_82379	 Elongation of resilient liner in control group.
+ROCO_82381	 The placing of the second leash.
+ROCO_82385	 Intraoperative thoracoscopic view shows the right middle lobe herniated through the intercostal space.
+ROCO_82392	 (A) Failed attempt of standard coiling with one microcatheter. (B) Simultaneous use of two microcatheters.
+ROCO_82401	 Less-vascularized failing, elevated bleb after first needling and 5-FU injection.
+ROCO_82420	 Twenty-two-year old young man presented with crippling arthritis at left knee joint with markedly elevated CRP. He had arthroscopy at another hospital due to marked swelling and it was unremarkable.
+ROCO_82433	 Magnified backlit image of the needle clearly showing the defect
+ROCO_82434	 Intraocular lens opacification occurred 41 months after Descemet's stripping automated endothelial keratoplasty
+ROCO_82435	 Flexible and disposable thin film field effect devices. Devices produced at CENIMAT/I3N, Universidade Nova de Lisboa by radio frequency magnetron sputtering in low cost flexible substrates according to the procedure described in [55,64].
+ROCO_82440	 A typical test setup suing half pins. The bone is held by the mount at the top end of the test frame and the ring is held rigidly by the bottom end of the frame. The weakest link in the setup is wires or pins connecting the bone to the rings. When load is applied to the bone from the top end it will displace depending on how rigidly it is held by wires or pins.
+ROCO_82442	 Transmission electron microscopy of caveolae in HLE-B3 cells treated with high concentrations of glucose. Cells were seeded on glass coverslips, treated with 5 mM or 25 mM glucose for 48 h, fixed with glutaraldehyde, post-fixed with osmium tetroxide, and stained with uranyl acetate and lead citrate. A: 5 mM glucose-treated (control) cells. Arrows point to caveolae. B: 25 mM glucose-treated cells.
+ROCO_82447	 A functional myth of medical scientific development. Reproduced with permission of Marie Sterte.
+ROCO_82449	 Culture on Sabouraud Dextrose Agar at room temperature showing white to brownish filamentous colonies on the slants
+ROCO_82455	 With the laryngoscope in this position, the glottis is in a very anterior position and the tube cannot reach the glottic inlet.
+ROCO_82458	 Large broad myoma
+ROCO_82467	 Tissue selectivity of Hydro-Jet dissection resulting in preservation of cystic duct and artery and subsequent blunt dissection with the bent tip probe.
+ROCO_82483	 T-2 weighted magnetic resolution imaging of the left foot without contrast showing trace fluid in the intermetatarsal bursae between the 1st and 2nd metatarsal heads and 2nd and 3rd metatarsal heads (red arrows).
+ROCO_82484	 TLC analysis of C12-3-oxo-AHL produced by parent strain P. putida WCS358 (lane 1), by lon mutant derivative P. putida IBE4 (lane 2) and lon mutant derivative carrying a plasmid expressing Lon P. putida IBE4 (pBBRlon) (lane 3). Lane 4 contains the standards C10-3-oxo-AHL and C12-3-oxo-AHL. The AHLs were visualized with AHL-sensor strain E. coli (pSB1075); a volume corresponding to 5 × 108 cfu was loaded on the TLC assay.
+ROCO_82485	 Transverse views at the submandibular position. GG = Genioglossus, GH = Geniohyoid, MH = Mylohyoid, HG = Hyoglossus, T = Tongue, P = Palate
+ROCO_82492	 Measurement of diastema between upper incisors.
+ROCO_82493	 HPE section showing fragments of stratified squamous epithelium enclosing thin walled vascular and lymphatic spaces [H & E, 40×]
+ROCO_82494	 Illustration of the laparoscopic view of the operative field. Note that the right inferior hepatic vein is dissected circumferentially and ready to be cut. GB indicates gallbladder, and IVC indicates inferior vena cava
+ROCO_82501	 Recorded video image of 6-month-old infant, in which the visual stimuli were superimposed. To measure head movements, a small chrome steel ball bearing was affixed to the forehead using a black-colored sticking plaster.
+ROCO_82514	 3D reformatted CT illustrating size and location of the well-defined tumor.
+ROCO_82515	 An optical image of a crystal of thaumatin wrapped in graphene/PMMA mounted within a nylon loop.
+ROCO_82520	 Male spicules
+ROCO_82524	 Posterior and apical displacement of posterior-medial papillary muscle typically seen with infero-lateral akinesia or dykinesia at the base of the left ventricular. It causes tethering of posterior mitral leaflet leading to coaptation defect and posterior directed mitral regurgitation jet
+ROCO_82557	 Master brass die.
+ROCO_82578	 Photograph illustrating the mechanical fretting and secondary cracking of the female taper junction.
+ROCO_82607	 Appearance of a nerve root (NR), arterial nervorum (AN), and endothelial cells of the ANs (E) at the L3 level on the non-plegic side. Minimallly endothelial swelling, cellular loss, and axonal injury are observed (H&E, ×200, LM).
+ROCO_82612	 Swarming motility of S. meliloti wild type and mutant strains. Swarming motility of GR4 (wt), GR4T1 (tep1 mutant), QS77 (fadD mutant) and QSTR1 (double mutant fadD, tep1) was tested on 0.7% agar minimal medium at 28°C.
+ROCO_82614	 Ceph-X interface during locating landmark points
+ROCO_82615	 The correct or IDEAL location for the femoral tunnel (see black circle) is shown superimposed on the topographic outline of the five characteristics that should be fulfilled when judging where to position the femoral tunnel.
+ROCO_82619	 Magnetic resonance cholangiopancreatography. A cystic tumor is seen in the head of the pancreas (arrows). The dorsal pancreatic duct is normal in size and clearly depicted throughout the pancreas (arrow heads)
+ROCO_82637	 Passing of the nerve root through constriction of the spinal canal at the level of the intervertebrla disc. Most affected are the roots leaving the spinal canal just below the constriction level, passing the recessal region. The potential irritation basis is twosome: chemical – the proximity of the degenerated disc, and mechanical – entrapment within the recesses. Those spine roots are assigned the value of “4” (c). Other roots are assigned the value of “1” (d) considering the fact of crossing the region of the disc, which can be potential background for neuropathic changes due to th inflammatory process.
+ROCO_82638	 Magnetic stimulation of cortical area.
+ROCO_82644	 Intraoperative laparoscopic photographs taken upon initial attempt to visualize the gallbladder. Note the normally situated liver and falciform ligament and the absence of the gallbladder in its usual location.
+ROCO_82649	 Vaginal application of a laparoscopic PlasmaKinetic (PK) cutting forceps to resect uterosacral ligaments.
+ROCO_82654	 Error-related activations during a stop signal task: stop error > stop success; p < 0. 05, corrected for FWE. dACC, dorsal anterior cingulate cortex; SMA, supplementary motor area; PMC, primary motor cortex. The inset on the top depicts the error-related activations in relation to regions functionally connected to habenula (in green, results from psychophysiological interaction, Figure 2).
+ROCO_82655	 “J”-shaped endotracheal tube used in pyriform sinus localization-assisted blind orotracheal intubation.
+ROCO_82656	 The proteins were transferred onto nitrocellulose membrane for Immunoblotting analysis performed using anti HBsu antiserum. Lane 1: Fractions were eluted with 0.25 M NaCl in buffer B; Lane 2: Fractions were not adsorbed to the column; Lane 3: HU protein extraction of Bacillus subtilis
+ROCO_82660	 After the exclusion of tunica injury, the superficial dorsal penile vein was found to be injured and was ligated
+ROCO_82668	 Cluster in left anterior insula (AI), which was differently correlated with RT, depending on Switch (switch, non-switch) and motivation (approach, avoidance) during the preparatory period.Activity here predicted slower responding, especially on avoidance-switch trials and approach-non-switch trials. Graph shows parameter estimates, with the y-axis indicating the strength of the correlation between BOLD activity in this region and RT. Error bars represent +/- 1 SE.
+ROCO_82669	 Port sites
+ROCO_82670	 Acetabulum slope angle (ASA), measured on photos of cadaver femurs with support of the Gimp computer program.
+ROCO_82677	 Computed tomography scan of the thorax with contrast showing well-defined nodular lesions in the right middle lobe manifesting as an arteriovenous fistula (arrow).
+ROCO_82684	 Surgically excised lesion of peripheral osteoma
+ROCO_82694	 Residual BPH tissue partially occupying the prostatic fossa
+ROCO_82703	 Diagrammatic representation of the separation of ciliary body from sclera that occurs when a cyclodialysis cleft is formed (white arrow).
+ROCO_82720	 The fellow eye (left eye) with an in-the-bag intraocular lens, with pseudoexfoliative material and characteristic radial pattern pigmentation over the optic is seen with a dilated pupil.
+ROCO_82737	 Radiograph in lateral projections obtained after the injection of contrast media to the paravertebral space in the presented patient (2 mL of contrast solution is seen against the posterolateral aspect of the vertebral column).
+ROCO_82750	 Lichenification from chronic eczema on the posterior neck.
+ROCO_82756	 Spatial relationship between findings. This figure summarizes some of the results, to aid the interpretation of their spatial relationship. Activation from the working memory task in controls is shown in red (2-back minus 0-back, as in Fig. 1C). Areas of increased activation in JME, compared with controls are shown in blue—mainly in the pre- and postcentral gyrus and SMA (as in Fig. 1F). The orange clusters show areas of increased functional connectivity to the motor cortex and SMA (as in Fig. 3C)—mainly in the medial prefrontal cortex, overlapping with the task-induced activation. The green cluster shows the area of impaired deactivation during the cognitive task in JME (as in Fig. 4C). Gyral anatomy is overlaid from the MNI152_T1 template. The horizontal line indicates y coordinate 0 in Montreal Neurological Institute space.
+ROCO_82757	 Nuclear medicine image obtained from a catalogue(9).
+ROCO_82759	 Chronic synovitis with a metallosis reaction
+ROCO_82774	 Histological specimen of advanced atherosclerotic plaque removed via carotid endarterectomy and stained with Movat's pentachrome. The lipid-rich necrotic core is labeled “NC” and the fibrous cap is indicated by an arrow.
+ROCO_82782	 sRGB image of scene 2 computed according to a colorimetric calibration of the sensor. Color image is provided as Supplementary Materials in Figure S6.
+ROCO_82789	 Block plastination of a dilacerated molar tooth. Air bubbles are incorporated due to improper curing
+ROCO_82794	 Pelvis demonstrating the greater (red) and lesser (green) sciatic foraminae.
+ROCO_82795	 A live late instar P. dorsalis larva with arrows showing damage from feeding by C. iphitalis larva (circled).
+ROCO_82801	 Locations of the three sampling stations from the International Monitoring System radionuclide network used for the source reconstruction. The release location of the Xe-133 tracer source was at Chalk River Laboratories.
+ROCO_82806	 Conjunctival chemosis seen through the inter palpebral fissure
+ROCO_82808	 Adjustment of the phantom.
+ROCO_82835	 Initial flight test. To the left the sensor buoy placed on the ground and to the right the UAV with the master node mounted inside.
+ROCO_82842	 Gross appearance of anterior abdominal wall mass with adherent appendix.
+ROCO_82843	 Position of ultrasonography probe in inguinal area
+ROCO_82848	 Yeast-like cells colony of Sporothrix schenckii isolated from conjunctiva granular tissue in, after five days of incubation in 5% CO2 ambient in blood agar medium.
+ROCO_82863	 A mass emanating from the supraglottic part of larynx without erosion or haemorrhage and a lesion of the true right vocal cold presenting as leukoplakia.
+ROCO_82877	 Posterior vitreous detachment (arrow).
+ROCO_82880	 Laparoscopic view of the stomach and connecting tube.
+ROCO_82892	 Mode of failure: tendon slippage across the suture (“tripled” configuration)
+ROCO_82913	 Initial intraoperative CT scan at the start of the procedure with measurements taken of both orbits for comparison.
+ROCO_82924	 Axial CT scan of the head showing a meningioma in the left CP angle and another in the tuberculum sella.
+ROCO_82940	 Anagnorisma chamrani male genitalia clasping apparatus PT.
+ROCO_82958	 Intraoperative photograph during drainage of subretinal fluid through juxtapapillary microhole in Case 4. Note proximity of drainage site to retinal vein.
+ROCO_82971	 Video snapshot of a group of three Micronycteris microtis, as observed in the roost in Barro Colorado Island, Panama.The individual in the center on the back of the group is eating a lizard.
+ROCO_83008	 The T 𝕍 transform of the defect shown in Figure 5 with d ω = 0.005 rad.
+ROCO_83021	 Triga nuclear reactor (1 MW) core with Cherenkov effect.
+ROCO_83033	 Anterior polar cataract (Courtesy of Choun-Ki Joo).
+ROCO_83037	 Distance between the lowest inguinal skin crease and the root of penis. Distance between the root of penis and the upper border of scrotum
+ROCO_83038	 Slit lamp examination showing a dense fibrosis of the anterior capsule with anterior capsule phimosis.
+ROCO_83039	 Patient position for a total thoracoscopic ablation. MCL, midclavicular line.
+ROCO_83053	 Injured external iliac vein.
+ROCO_83065	 Grade 4 microcalcifications. A new lesion in the current round. Although the microcalcifications have somewhat smooth margins, they have a linear configuration with possible branching forms. The findings were regarded as suspicious for DCIS. This was confirmed by core biopsy.
+ROCO_83066	 Coronal MRI section six weeks later.
+ROCO_83074	 The enlarged liver and spleen were indicated by black lines (Photo taken around 1943).
+ROCO_83109	 The inferior flap is mobilized and pulls up superiorly, and fixed to the remnant lateral capsular tag or adjacent subscapularis stump. The superior flap is pulled down laterally and inferiorly and sutured on the inferior flap.
+ROCO_83118	 Solar corona – Image credit: Miloslav Druckmuller/SWNS.
+ROCO_83140	 Frontal view of case 1 with left orbital prosthesis and eyeglasses
+ROCO_83148	 A customized water tank (Dimensions: 45 cm width, 75 cm length, and 30 cm height) supplied by the manufacturer for measurement of profiles and CADD
+ROCO_83164	 Case #1 left gaze shows left lateral rectus underaction.
+ROCO_83185	 Arrow showing involvement of medialtibial plateau.
+ROCO_83189	 Figure 4
+ROCO_83205	 Bone scan image with Tc99 showing increased focal uptake at the bicipital groove.
+ROCO_83206	 Subtraction ictal SPECT coregistered to MRI (SISCOM) (1, 3) during an episode of PED and interictal FDG PET (2, 4) in patient A.III.24. Top row: coronal images, bottom row: axial images. The episode of PED lasted in total around 17 min, and was interrupted by brief moments of no abnormal movements. The dyskinesia mainly involved the legs, left more than right and pelvis (see video; A.III.24 Ictal SPECT during PED, in supplementary data). The injection was given around three minutes after onset. The SISCOM (threshold: + 2 SD) showed an area of hyperperfusion in the left putamen (blue cross in 1), which coincided with interictal putaminal hypermetabolism (blue cross in 2). The largest and most hyperintense hyperperfusion cluster was in the right primary motor area of the leg (blue cross in 3), which coincided with an area of hypometabolism in the interictal FDG PET (blue cross in 4). All images are coregistered. Hyperperfusion clusters are projected on the patient's MPRAGE images. R = right; L = left.
+ROCO_83220	 A cow infected with demodectic mange, showing pustules involving the neck, and nodules scattered over the whole body. Note folding of the skin at the base of the neck.
+ROCO_83221	 Narrow-band imaging magnification endoscopic view of normal esophageal mucosaIntrapapillary capillary loop (IPCL) type IBrown loops are observed at the most superficial layer of the image: IPCLs. Behind them a large green vessel network is observed, the branching vessels. Branching vessel spread on horizontal plane just above the musclaris mucosae, and IPCLs runs perpendicularly from branching vessel network.
+ROCO_83223	 The CEEA device is inserted up the rectum; the anvil is removed and held proximal to the diseased segment before the rectal segment is excised.
+ROCO_83237	 Intraoperative picture, as seen through the laparo-scope, of the traumatic abdominal wall hernia in the right lower abdomen.
+ROCO_83242	 (a) Design of the flap with the dagger-shaped FTSG; (b) Preparation of the graft after placement of the first seven stitches; (c) Outcome and comparison with the pre-operative template.
+ROCO_83252	 Periodic acid-methenamine-silver staining analysis showed that spike formations (arrow) were observed partially at the subepithelial layer in the glomerulus. (Magnification: 400X).
+ROCO_83264	 Echocardiogram Doppler gradient in a four-chamber view demonstrating a gradient of 65 mmHg from right ventricle to right atrium as measured by the tricuspid regurgitation jet (LA: left atrium, MV: mitral valve, LV: Left ventricle, RA: right atrium, TV: tricuspid valve, RV: right ventricle, TR: tricuspid regurgitation jet).
+ROCO_83272	 Perpendicular arrangement of Ilizarov half-rings.
+ROCO_83288	 The released self.
+ROCO_83291	 Closed alar cartilage dissection medially and laterally
+ROCO_83305	 Intraoral photograph showing oronasal fistula in maxilla.
+ROCO_83315	 Septal cartilage showing the excised portion (shaded) and the scoring on the concave non-cleft side
+ROCO_83317	 The side view of reconstructed 3D craniofacial fracture.
+ROCO_83332	 High-resolution cross-sectional TEM image of the GaN/AlN QDs.
+ROCO_83348	 Computed tomography scan to determine the width and height of bone
+ROCO_83352	 Dicing cartilage with No.11 surgical blade
+ROCO_83355	 Left image: Original mammogram, Right: Expanded image segment
+ROCO_83358	 High coloured urine turned reddish brown on standing
+ROCO_83361	  Sunrise sunset.
+ROCO_83381	 Size and displacement calculation on lateral viewRatio of the fractured articular surface over the total articular surface of the distal phalanx base: T=B/A+B=size of fragment in %. The ratio of the gap between the distal phalanx and the bony fragment over the total articular surface of the distal phalanx base: D=C/A+B=fragment displacement in %.
+ROCO_83383	 Sensor location.
+ROCO_83410	 Medial surface of mandibular ramus showing measurements taken from various landmarks to determine the position of the mandibular foramen. AB-MF, distance from the midpoint of anterior margin of mandibular foramen to the nearest point on the anterior border of the ramus of mandible; Go, angle of the mandible; MF-MB, sistance from inferior limit of mandibular foramen to the base of the mandible; MF-MN, distance from the lowest point of mandibular notch to the inferior limit of mandibular foramen; PB-MF, distance from the midpoint of posterior margin of mandibular foramen to the nearest point on the posterior border of the ramus of mandible.
+ROCO_83418	 The orientation of the glenoid defect (angle a).
+ROCO_83422	 Arthroscopic image of the bursectomy
+ROCO_83424	 Postoperative 3D CT view. Tandem keyhole foraminotomy was performed in C5/6/7. Half of the facet joints were preserved. The lateral border of vertebral body was recognized through the decompressed hole.
+ROCO_83436	 “The Watson of America”– The Lancet (London)
+ROCO_83442	 Prosthetic stent with probe denoting prosthetic center
+ROCO_83454	 Approximate location of dominant oceanographic features in the northeast Pacific Ocean.The stippled region indicates the annual range of the Transition Zone Chlorophyll Front (TZCF). The location of the gyre-gyre boundary remains stable in contrast to the annual migration of the TZCF.
+ROCO_83463	 A screenshot of JVSdicom Workstation showing the PACS query view. Conventional DICOM imagery is displayed in the thumbnail window, while JPEG2000 WSIs are opened in an external JPIP viewer.
+ROCO_83528	 The Brannock device®.
+ROCO_83539	 Ultrasound imaging after injection of local anesthetics.
+ROCO_83544	 rTMS application to the LMC at 10 Hz, 2000 pulses per session, and 80% RMT.
+ROCO_83562	 The dog presented with urinary incontinence and an exposed, dry penis.
+ROCO_83626	 An example showing the image and chemical data presented for scoring with MacroScope along with the options available for scoring. Images can be classified as a function of multiple categories, with the exception of clear which can only be selected as a single category.
+ROCO_83628	 The swelling and the deformity of the knees in weight bearing
+ROCO_83649	 Three-dimensional transthoracic echocardiogram depicting mitral and aortic perforations (arrows)
+ROCO_83654	 Fluid mechanics of the aortic valve. Schematic representation of the system composed of left ventricle, aortic valve and ascending aorta with corresponding static pressure (P) and energy in terms of total pressure (P+4 V2). LVOT indicates left ventricular outflow tract, V indicates LVOT velocity, AOA indicates anatomic aortic area and VC indicates the vena contracta position, cross-sectional area of VC corresponds to the valve effective orifice area. Magnetic resonance velocity measurements at vena contracta (10 mm from the aortic valve) were used to compute dimensionless flow parameters and vorticity magnitude. AAo indicates ascending aorta.
+ROCO_83660	 Sagittal T1-weighted image demonstrating good graft incorporation at 6 months postoperatively (fresh osteochondral allograft to femoral condyle).
+ROCO_83668	 The 1.5 mm larger cast retrieved using mould-3.
+ROCO_83680	 MRI of right hip (sagittal plane) demonstrating adhesions.
+ROCO_83686	 Hot air boot dryer.
+ROCO_83693	 The HGM of the upper oesophagus is clearly more visible in the narrow band imaging mode of endoscopy
+ROCO_83701	 Stimulating effects of ribitol and plant hormones on the lichen-forming fungal growth of Ramalina faricacea (CH050010). The fungi grown on the MY medium with 1% ribitol and 2 µM/l IBA showed vertical development of fungal mass (A), compared to those grown on the medium without ribitol and IBA (B) after a 50 day-incubation period at 15℃. Scale bar = 50 mm.
+ROCO_83705	 XNATView user interface. Users can select a specific scan narrowing search criteria from project, subject, session, and scan from left to right. Selected scans can be custom tiled to suit specific viewing needs, scrolled between slices, and viewed using various image settings such as brightness and contrast.
+ROCO_83723	 From left to right: 24-hour blood pressure monitoring devices used in 1966 (A), 1988 (B) and 2015 (C) (Authors' personal archive).
+ROCO_83724	 ‘Best-fit’ circle method. A best-fit circle is applied, which fits perfectly to the posterior and to the inferior part of the glenoid. This circle is considered to be close to the original shape of the glenoid.
+ROCO_83727	 Cystoscopic view of the anterior urethra, showing the true lumen and the urethral diverticulum. A band of tissue separates the two, and this was subsequently incised.
+ROCO_83728	 Preoperative flexible laryngoscopic view of functional endoscopic evaluation of swallowing.
+ROCO_83729	 Endoscopic view of an intragastric trichobezoar.
+ROCO_83733	 Image showing standardised set-up of equipment
+ROCO_83734	 Image of a representative reconstructed histology dataset with the gray/white surface overlaid in yellow. Top: coronal, middle: sagittal, bottom: axial. The green crosses represent the locations of the manually selected control points in the body of the white matter for these slices. The red cross represents the point in common for the 3 views.
+ROCO_83737	 Quantitative choroidal blood flow velocity analysis. (a) Segment scan of ~3° consisting of 3250 A-Scans. The Doppler channel (colored lookup table) is overlaid on the structural information (grayscale). (b) Quantitative analysis of the scan time series. The axial velocity (left scale) for single channels is shown in red and blue for A and B respectively and the absolute velocity (continuous line, right scale) and its mean value (dotted line) in black. The single channels show a drift that is absent from the absolute velocity. The absence of strong pulsatility suggests that this vessel is a vein.
+ROCO_83745	 The lifting device was installed to lift up the platysma flap, and then the working space was created from the anterior chest wall to the thyroid cartilage level.
+ROCO_83753	 Representative image of a normal tear microdesiccate as observed by transmitted-light microscopy with phase 1 illumination. Both tear microdesiccate production and the lens system of the microscope were those described in the legend to Fig. 3. The bright halo of light on the border of the microdesiccate defines a thick morphological zone I surrounding a complex mass of tear crystalloids
+ROCO_83756	 Sagittal view of the inflated balloon with the three K wires providing support from beneath.
+ROCO_83785	 The view and the positioning of the goniometry during the surgery (a); the lateral view of the goniometry (b); the fluoroscopic view of the goniometry (c)
+ROCO_83797	 Cystoscopy showing pus coming out through the DJ stent
+ROCO_83805	 The image is then resized and sharpened.
+ROCO_83828	 One 10-mm trocar (A) and two 5-mm trocars (B) were fixed to the three fingers of the gloves.
+ROCO_83839	 Measurement of the cortical thickness at the gonial region (gonial index—GI) using the software Radioimp.
+ROCO_83840	 Robotic arms docked through patient access system device which are aligned nearly parallel to the floor
+ROCO_83865	 Loading test in the experimental model
+ROCO_83867	  The Dermis Plus Polymer gel pads. These were cut into strips and placed under the standard width bra strap design to create the gel strap design. Each gel pad was cut into four equal 10 cm × 2.5 cm strips, which were positioned end to end and then placed under the standard width bra straps, so that the gel material was flush with the bra strap and in direct contact with the participant’s skin.
+ROCO_83871	  In situ GISAXS characterization of a NP superlattice grown by macroscopic fast solvent evaporation and subsequent structural annealing via controlled nanoscale solvent adsorption. The initial NP solution contained a mixture of Au NPs of 6.5 nm and 2.8 nm core size in number ratio small/large = 60/40. The organization of the large NPs is predominant, as shown by correlation rods at  = 0.083 Å−1 and clearly discernible higher-order diffraction peaks.
+ROCO_83873	 Hypotrophy of the musculature of the scapular belt
+ROCO_83904	 Franciscus Sylvius (1614-1672).
+ROCO_83913	 Visualization of lumbar hernia defects via a transperitoneal approach.
+ROCO_83914	 A dense stromal scar obliterating the pupil entrance 3 months after operation.
+ROCO_83922	 The ReferReader.
+ROCO_83930	 Photograph of the Glidescope laryngoscope. The device is held in the left hand and passed into the mouth over the tongue, and the tip placed in the vallecula or under the epiglottis.
+ROCO_83943	 Splitting of the framework with a carborundum disc.
+ROCO_83956	 Screenshot of tumor removed.
+ROCO_83961	 Trocar placement for robotic radical hysterectomy and bilateral pelvic lymphadenectomy. The arrows mark the locations of the trocars. A 12-mm camera trocar is placed at the umbilicus, 2 working robotic arms are attached to 8-mm reusable trocars placed bilaterally, and additional ancillary 5-mm to 10-mm trocars are placed in the suprapubic region and the left upper quadrant. The camera port and each working robotic port are placed in a way that allows for optimal robot arm movement and minimizes risk of collisions.
+ROCO_83976	 See video, Supplemental Digital Content 1, which demonstrates how to insert the Lap-Protector into the mouth. The small ring of the Lap-Protector is inserted into patient’s oral cavity so that the 2 rings enclose the lips, http://links.lww.com/PRSGO/A296.
+ROCO_83991	 Insertion of implants.
+ROCO_83992	 This image presents the 3D segmentation result of GrowCut (green) for the tumor and background initialization of Figure 2. After the initialization of the GrowCut algorithm under Slicer it took about three seconds to get the segmentation result on an Intel Core i7 CPU, 4×2.50 GHz, 8 GB RAM, Windows 7 Professional ×64 Version, Service Pack 1.
+ROCO_84016	 Leech extraction.
+ROCO_84029	 A squamous cell carcinoma was seen arising from the basal portion of the mucosa and infiltrating downward into the stroma (white arrow). Beneath the squamous cell carcinoma was a granular cell tumor (black arrow) (H&E ×40).
+ROCO_84039	 Visualization of vorticity results in the aorta. Three segments are defined as used in this analysis.
+ROCO_84040	 Severe osteomyelitis with metastases and cachexia (Figure 11 in the book).
+ROCO_84048	 Photograph of the caudal side of the patient in the cephalad direction. Surgery was performed on the patient's left intertrochanteric fracture. Note the mallet was held to elevate the thigh and the Steinmann pin was controlled by an operator to obtain acceptable reduction in the lateral fluoroscopic view.
+ROCO_84057	 The extramedullary rod into the connector after placing the aiming plate in the hip joint region. The knee is extended
+ROCO_84063	 An example of endocardium contour extraction
+ROCO_84066	 View of epidural puncture from the above side. The needle’s hyperechoic shadow is superimposed with the acoustic shadow of the spinous process. On this image, the expansion of the acoustic shadow of the needle can be seen (white arrows). This effect is a special needle, marked “cornerstone” at the tip, and although it creates an optical illusion of thickening of the needle, it could help to convince the operator, once again, of the position of the needle tip. This process can be useful when there is insufficient image quality or during the process of mastering the technique
+ROCO_84072	 ANSYS simulations of banks temperature results.
+ROCO_84115	 Angioplasty of the left femoral artery carried out using Fogarty’s catheter
+ROCO_84193	 Cone beam computed tomography image demonstrating the possibility of lingual plate perforation by an implant
+ROCO_84195	 The creation of fracture line
+ROCO_84207	 Glove port ready for insertion.
+ROCO_84228	 Professor Fujiro Katsurada (1867-1946)In 1904, he found S. japonicum and in 1909 showed the skin penetration of cercaria using dogs.
+ROCO_84238	 Complete recovery of ptosis after 2 weeks of treatment
+ROCO_84242	 Locations of the calibration points in the (head centered) visual field. Note that instead of multiple targets, we used a single target (on the tripod, at fixation point 8). The participant was instructed to adopt different head poses that moved the target to different locations in the visual field.
+ROCO_84247	 Eucamaragnathus desenderi sp. n., apex of elytra; paratype.
+ROCO_84248	 Angled abutments were placed within the definitive cast and then screwed to implants.
+ROCO_84254	  Portrait of Giovanni dalle Bande Nere (1498–1526) (Salviati, Galleria Palatina).
+ROCO_84292	 The distal radioulnar joint with the triangular fibrocartilage complex. Adapted with permission from Adams BD. Distal radioulnar joint instability. In: Wolfe SW, Hotchkiss RN, Pederson WC, Kozin SH, eds. Green’s Operative Hand Surgery. 6th ed. Philadelphia, PA: Churchill Livingstone Elsevier; 2011:524.
+ROCO_84293	 Digital photograph from the dissecting microscope showing the rat olfactory bulb after a sagittal cut. At the junction of the main (MOB) and accessory (AOB) olfactory bulbs, the olfactory limbus (encircled) protrudes dorsally. LOT, lateral olfactory tract. AONd, dorsal component of the anterior olfactory nucleus. Inset: high magnification view of the alpha anterior olfactory nucleus (arrow) lying in the bulbar white matter, underneath the AOB. Scale bars: 0.4 mm in A, 150 μm in insert.
+ROCO_84297	 Radiographic OAK-marker in three grades: A: osteophyte at TS; and B: narrowing and marginal osteophyte at compartment. A dotted line at MTS indicates the borderline of normal MTS before developing osteophyte over it.
+ROCO_84298	 Anterior region in median view
+ROCO_84301	 Laparoscopic view of case one where ovary underwent ischemic necrosis and could not be salvaged
+ROCO_84319	 Selective TRN stimulation causes the induction of cortical slow waves.VGAT-ChR2 mouse histology: blue channel is DAPI, green channel is EYFP, at 2x.DOI: http://dx.doi.org/10.7554/eLife.08760.004
+ROCO_84326	 Left eye of a 25-year-old male patient 1 year after penetrating keratoplasty.Notes: The preoperative diagnosis was bullous keratopathy after vitrectomy and silicone oil injection for traumatic retinal detachment. A high-resolution AS-OCT (image from 225°–45°) image shows that the host cornea is thicker on one side (225°) where a suture trace is also visible. The graft-host junction at 45° has better wound adaptation with a slight protrusion.Abbreviations: OD, oculus dexter; OS, oculus sinister; AS-OCT, anterior segment optical coherence tomography.
+ROCO_84327	 Contrast swallow examination on day of injury. Black arrows: contained leakage (contrast extravasation). White arrows: contrast descending in esophagus
+ROCO_84329	 Higher magnification of Figure 4
+ROCO_84336	 Location of the striatal seed (regions of interest), including the bilateral caudate head (red) and bilateral putamen (blue).
+ROCO_84341	 Hair root entangled within the knot of the thread
+ROCO_84356	 Postcardiopulmonary bypass picture showing thrombus in the venous reservoir attached to the mesh material
+ROCO_84374	 Setup using the Serenity® System that pairs Vagus Nerve Stimulation (VNS) with tones. The inset shows the electrode lead wrapped around the cervical vagus nerve. The device is the pulse generator that is implanted under the chest wall. The implant lead connects to the pulse generator. Image courtesy of MicroTransponder, Inc.
+ROCO_84396	 Central ulceration and abscess with indistinct margins, involving the central corneal zone.
+ROCO_84428	 Head and body CT dosimetry phantom
+ROCO_84429	 Measurement of a cut state-of-the-art Y-TZP FDP core under light microscope.Notes: The figure shows the cross-section area (green circle) of the connector between the canine and pontic.Abbreviations: FDP, fixed dental prosthesis; Y-TZP, yttria-stabilized tetragonal zirconia polycrystal.
+ROCO_84443	 Jacqueline du Pre with husband Daniel Barenboim. Newspaper clipping from obituary, unknown provenance.
+ROCO_84447	 Transmission electron micrographs of bacteriophages negatively stained with 2% uranyl acetate.The bacteriophages infecting B. anthracis include, (A) Wβ, (B) Wip1, (C) Wip2, (D) Wip4, (E) Wip5, (F) Frp1, (G) Frp2, (H) Htp1, and (I) Bcp1. An extract from the gut of the earthworm Eisenia fetida is shown (J) with two distinct and uncharacterized phages indicated by arrows. Scale bars represent either 25 nm (A–I) or 50 nm (J).
+ROCO_84453	 Digital landmarks in Nemoceph imaging
+ROCO_84456	 The results of plate assay method for qualitative determination of enzyme production by the isolate.
+ROCO_84467	 Magnetic resonance imaging hip 3 weeks post-admission.
+ROCO_84470	 Hysterosalpingogram demonstrating bilateral distal tubal occlusion with hydrosalpinges
+ROCO_84484	 Intra-operative photograph showing the 24G cannula inserted into the anterior chamber (AC) through the centre of the “blue line” at an angle parallel to the iris plane and directed towards the pupil.
+ROCO_84492	 Patient with facial angioedema.
+ROCO_84505	 Hereward Carrington The Problems of Psychical Research Experiments and Theories in the Realm of the Supernormal (New York: Dodd 1921), 32; provided by University of California Libraries at http://www.openlibrary.org/books/OL6632228M.
+ROCO_84531	  Positioning of the IMUs using Velcro straps on each thigh and shank. The straps could be applied outside clothing.
+ROCO_84535	 The parietal surface of the DualMesh® with the single marks at the midpoints of the short axis and the double marks at the midpoints of the long axis.
+ROCO_84537	 ROIs in the visual cortex.ROIs are depicted on the left hemisphere. Red–V1 anterior; Cyan–V1 posterior; Dark blue–V2 anterior; Magenta–V2 posterior. ROI–region of interest.
+ROCO_84539	 Slit-lamp biomicroscopy revealed the dexamethasone implant mislocated just behind the intraocular lens in an intact capsular bag, and localized in the lower center of the visual axis (white arrow)
+ROCO_84558	 The implantation of the cannula in the rat striatum
+ROCO_84574	 The radiographic analysis. Horizontal and vertical wires of 5-mm length are shown.IDR, the interproximal distance between roots; CP-BC, the distance between the most apical part of the CP (contact point) and the most coronal portion of the BC (bone crest).
+ROCO_84578	 Watercolor and Acrylic, 11 inches by 15 inches By Kaite Yang*
+ROCO_84585	 Albert Sabin, the father of the live polio vaccine, who gave the only comprehensive nomination of Theiler for a Nobel Prize in 1948. Photo kindly provided by Samuel Katz.
+ROCO_84595	 Observation XXVIII. (1886 year). Patient L.G., aged 32. Transitional form of muscular tabes (the same as atypical form of distal myopathy- author's remark).
+ROCO_84596	 Luigi Galvani (1737 - 1798)
+ROCO_84597	  Front view (anteroposterior). 1, Intercanthal distance; 2, interalar distance.
+ROCO_84616	 Diagram of various linear measurement parameters showing the distance from the outer surface of the mandibular canal to the buccal (B), lingual (L), superior (S), and inferior (I) surfaces of the mandible and the thickness of inferior cortical bone (CB).
+ROCO_84621	 John Wishart (1850–1926), First Professor of Surgery at Western University, London Ontario. (From the History of Medicine Collection, A04-011-032, The University of Western Ontario Archives)
+ROCO_84638	 Incisional hernia defect located within extraperitoneal space. The mesh extends to a 5-cm margin around the defect. The mesh is reinforced with transabdominal sutures.
+ROCO_84639	 A non-dialysis ADPKD patient with massive hepatomegaly.
+ROCO_84643	 Visualization of basilar artery and its branches in the prepontine cistern
+ROCO_84648	 Lamellar hole with intact photoreceptors.
+ROCO_84651	 Lateral view and reverse comma image, transsacrococcygeal approach under fluoroscopy.
+ROCO_84652	 The transgastric food sensor is secured to the gastric serosa by suturing the silicon flange
+ROCO_84676	 Areas of the world where CDV has been reported in non-dog species. Different CDV lineages are highlighted. Stars denote punctual countries. Map was created using DIVA-GIS software. See text for references
+ROCO_84678	 Sagittal CT demonstrating the surgical strategy to open the posterior ethmoid. After opening the basal lamella of the middle turbinate (1) directly above the horizontal part (2), the superior meatus (3) is reached. (4) = ethmoid bulla.
+ROCO_84679	 Undersurface of transverse carpal ligament with washboard appearance.
+ROCO_84683	 Distance from ESI-max to irritative zone (IZ). White dots represent intracranial electrodes showing interictal spikes, thus they define IZ. The white dot delimited by a black line represents the electrode showing interictal spikes with the maximum amplitude, it defines max-IZ. The distance from ESI-max (cross) to max-IZ is denoted by dcenter and the distance from ESI-max to the nearest electrode belonging to IZ is denoted by dmin. IZ: irritative zone, ESI-max: maximum activation of electrical source imaging.
+ROCO_84686	 Arthrosopic view showing Impingement Lesion
+ROCO_84691	 This image was postoperative 3D-computed tomography. His throat pain was improved by shortening the left styloid process.
+ROCO_84726	 The out-of-Africa theory for human migration. KYA: Kilo-years. Red circle indicate the Bering land bridge which existed during the Wisconsinian era some 20,000 years ago, allowing passage all the way to Alaska of North America. Source: Stanyon et al.[1]
+ROCO_84731	 Special saddle blanket for exercise electrocardiography. The microcassette tape electrocardiograph (A) was enclosed in the pocket for protection (Kubo, 1981).
+ROCO_84739	 Image of positive string test result caused by rmpA K. Pneumoniae.
+ROCO_84755	 Bullard's probe for measuring the terrestrial heat flow in deep sea regions of the Atlantic Ocean (after Bullard, 1954).
+ROCO_84778	 Experimental set-up: schematic (left) and specimen photo (right).
+ROCO_84808	  Reference planes: the anterior and posterior nasal spines and the GO-ME plane. The red line represents the GO-ME plane according to the 2D technique. The blue line represents the GO-ME plane according to the 3D technique.
+ROCO_84815	 Conventional and CT-based boost planning target volume. Transversal (left) and sagittal (right) cross-sections of conventional and computed tomography (CT)-based boost planning target volume (PTV).
+ROCO_84838	 Kiyoshi Shiga (1871–1957). Photo provided courtesy of the Shibasaburo Kitasato Memorial Museum at the Kitasato Institute (Tokyo).
+ROCO_84843	 Arch perimeter measurement, as the sum of the segment lengths connecting contact point mesial to the permanent first molars. *Figures are from Raucci et al [10] courtesy of The Angle Orthodontist
+ROCO_84850	 Rats treated with 10% extract
+ROCO_84853	 Projected probability cones mark the likely position of the vessel core. The actual algorithm operates fully in 3D, the concept is presented in 2D. Notice the high probability where the cones intersect.
+ROCO_84875	 The area of mucosal removal.
+ROCO_84902	 The orientation field estimation results in the last iteration of the DDTV from 30-view sampling. The arrows stand for the direction for the blocks. The length of the arrows indicates the reliability of the estimated orientation field for that position
+ROCO_84919	 The transplanted beard and scalp hair were cut and placed side by side for comparison
+ROCO_84921	 A nephroscopic view; a two-prong forceps grasps the #2 polyglactin suture, which is passed into the renal pelvis via a 6-F PTFE dilator. The suture is pulled out through the upper-pole tract using the nephroscope.
+ROCO_84925	 Assembly of the instruments. The 50 mls syringe is withdrawn and a smaller syringe is inserted between the withdrawn plunger and the syringe base allowing continued high suction through the cannula without the need of a suction pump.
+ROCO_84936	 MDCT with 3D reconstruction. The green arrows indicates the lumbar artery perforators.
+ROCO_84937	 Three points bending test applied on the goat mandible.
+ROCO_84940	 Intraoperative photograph illustrating markedly enlarged gallbladder.
+ROCO_84983	 TMJ concepts prosthesis (reproduced from: tmjconcepts.com).
+ROCO_84988	 Fluorescein angiography of the right eye showing a "double circulation" (arrows) associated with the tumour.
+ROCO_84998	 The healing process of the left mainstem bronchus is shown on the bronchoscopic finding. There is no bleeding, leakage and inflammation at the suture site.
+ROCO_85014	 Inside-out meniscal repair of a meniscal ramp lesion in a left knee. Double-loaded nonabsorbable sutures were placed through the meniscal body and the posteromedial capsule. Sutures were retrieved and tied against the extra-articular aspect of the capsule.
+ROCO_85022	 Postoperative View of the Right Forehead
+ROCO_85025	 This histological slide depicts an intraductal growing area of the tumor in the main pancreatic duct, which was initially observed at endoscopy. A large percentage of the duct’s circumference is lined by normal appearing epithelial cells. Hematoxylin and eosin, ×100
+ROCO_85036	 OPG shows fracture and resection
+ROCO_85044	 Representative photomicrograph of a thionin-stained coronal section (40 μm) from the brain of a rat with injector tips terminating within the bed nucleus of the stria terminalis.
+ROCO_85059	 Seismic section from data of a single component, acquired by a single OBS designed by SARTI-UPC in a controlled source seismic experiment. We identify the direct wave, the reflections and refractions of an acoustic wave.
+ROCO_85079	 Diagram of incisions for expanded polytetrafluoroethylene implanting.
+ROCO_85081	 Intrectomy was performed under visualization with an indirect ophthalmoscope using a 20 diopter lens, without the aid of a microscope.Note: Manipulating the Intrector® (Insight Instruments Inc., Stuart, FL, USA) through its inverted image presents only a slight learning curve.
+ROCO_85083	 HRTEM results for ZnO nanorods annealed at 300 °C
+ROCO_85087	 Coating process
+ROCO_85090	 Circle chip LED. (a) Microscope top view 3D image; (b) 850 nm SD-OCT top view 3D movie 1; (c) 1,310 nm SS-OCT top view 3D movie 2.
+ROCO_85091	 White colonies of Beauveria bassiana (strain 5197) are seen after 15 days were grown successfully on special medium according to producer’s manual
+ROCO_85104	 The anterior cervical approach to the spine (cross-sectional view): note the potential space created by dissection in the plane between the carotid sheath and the midline viscera. The carotid sheath structures are retracted laterally, and the esophagus and trachea are retracted medially to expose the ventral surface of the spine. Adapted with permission from: Albert T, Balderston R, Northrup B. Surgical Approaches to the Spine. Philadelphia: WB Saunders 1997; p. 10 [5].
+ROCO_85123	 Localization of a scalp position above V5 in the left hemisphere. The axial cut through the Brain Voyager mesh was positioned to reveal the most active voxel in left V5. The lines drawn on the mesh show the POIs that were used to identify the scalp location corresponding to left V5. Blue: nasion to transverse plane, white: tragus to transverse plane, red: intersection of nasion vector and transverse plane to intersection of tragus vector and transverse plane, and green: extension of the vector to the scalp position above area V5. Orange regions indicate areas of functional activation in response to the V5 localization scans. See the main text for a detailed description of this procedure.
+ROCO_85125	 Between group differences within the default mode network: compared to healthy controls, patients with major depressive disorder (MDD) showed a higher integration of the vmPFC (p = .048, FDR‐corrected, t = 4.93) within IC 9
+ROCO_85137	 Monitoring of tumour growth over time. Comparison of tumour sizes using MRI and histology: Both pictures depict same slice of tumour; right: tumour area equals 66.7 mm2, left: 73.1 mm2; differences in tumour size (outlined) were due to fixation and always present; yet, slides were well comparable: tumour and surrounding tissues: tumour: within red frame, n: zone of necrosis, np: normal pancreas, d: duodenum
+ROCO_85150	 Facial hyperpigmentation.
+ROCO_85162	 Comparison of possible linear transformation origins for the Bayesian observer model.For each small square the shading denotes the performance of the standard Bayesian observer model when the origin of the linear transformations is set to the centre of that square. Performance is measured using the error between modelled and measured second-trial hand positions, averaged within an experimental session for one subject (after capping all errors at 20 cm) and then averaged across all subjects and all sessions. The small circle shows the start point of the reaches, which is used as the origin in all other modelling. The cross shows the approximate position of the eyes ( cm).
+ROCO_85187	 Coronal and sagittal cuts of CT scan showing retrocaval ureter; the CT scan images show dilated right renal pelvis and ureter which passes behind the inferior vena cava.
+ROCO_85188	 Secondary somatosensory cortex (S2) in green (arrow). Schematic of cortical areas involved with pain processing and fMRI cropped.jpg From Wikipedia, the free encyclopedia.
+ROCO_85191	 Placement of specimens inside the Universal Testing Machine.
+ROCO_85210	 Cosmetic result of a VAP at two weeks after surgery.
+ROCO_85213	 Showing positive Seidel’s test
+ROCO_85217	 Endoscopic ultrasound findings. Endoscopic ultrasound showing obvious thickening of the submucosal layer without disruption of the gastric wall structure.
+ROCO_85230	 Periodontal mucotome to harvest the graft from the palate
+ROCO_85232	 Extubated endotracheal tube: the inflating tube between cuff and pilot of the tube is perforated by the wire.
+ROCO_85234	 Distribution of Bolbometopon muricatum at Wake Atoll observed during towed-diver surveys from 2005–2009.Surveys were conducted on a biennial basis by the NOAA Coral Reef Ecosystem Division. Circles indicate the total number of fish observed at each location around the atoll.
+ROCO_85261	 Arthroscopic view showing that a tunnel was then created with a cannulated drill
+ROCO_85263	 Prototype generator of cold plasma
+ROCO_85270	 Image of the measurements being made with the review program Image Tool 3.0 for Windows.
+ROCO_85275	 Computed tomography scan showing atrioventricular node location and radiation dose falloff.
+ROCO_85297	 Lateral attachments of the horn to round ligament
+ROCO_85311	 Dentascan
+ROCO_85327	  A normal angle of domal divergence.
+ROCO_85329	 Three-dimensional reconstruction of the cross-sectional images as part of the conversion into the Dicom data set. The artificial registration markers enable accurate image alignment (as indicated by blue lines). The measured abrasion distance provides the necessary information to locate each slice in the spatial image stack for an accurate 3D reconstruction of the specimen. Abrasion distances were added cummulatively. For ease of identification, the cochlea is highlighted in magenta in this schematic drawing
+ROCO_85334	 Analysis of Ptdsr expression in the embryonic heart (a, b) Staining of heterozygous Ptdsr-βgeo-embryos [21] using X-Gal at 10.5 dpc (a) and 11.5 dpc (b). (a) At 10.5 dpc Ptdsr expression can be seen throughout the heart. (b) Transverse sections of X-Gal stained embryos at 11.5 dpc showed an increased expression of Ptdsr in the myocardial wall and a beginning decrease of the expression in the trabeculation. Scale bar = 100 μm in (b).
+ROCO_85344	 The wooden board with screws that were mounted for subject training; (A) an exemplar image for right-handed egocentric rotating screwdriver driving a screw “in” and (B) an exemplar image for a left-handed allocentric rotating screwdriver pulling a screw “out”.
+ROCO_85377	 Measurement of tear meniscus height with slit lamp. Tear meniscus height (vertical red bar) measured with silt lamp midsection along the lower eyelid directly below the center of the pupil (×16).
+ROCO_85378	 Creation of pericardial window and performance of biopsy.
+ROCO_85385	 Endoscopic image of proximal esophagus showing circumferentially black mucosa.
+ROCO_85386	  Digital subtraction angiography imaging of the arteriovenous malformation vascular supply from the truncus thyrocervicalis and superior thyroid artery on the left.
+ROCO_85403	 VATS image of clamp displacing mass revealing inflammatory adhesions to the pericardium.
+ROCO_85418	 Connection of the double Y-type connector that allows continuous flushing of the Slim Guide while introducing the double microdevices
+ROCO_85437	 Ball bearing test
+ROCO_85445	 Port placement for TEP hernia repair in combination with R-EERPE. 5 Ports are used: the pre-peritoneal space is created through a right paraumbilical incision and the optic trocar introduced; this is followed by three 8 mm trocars for the DaVinci System and one 12 mm assistant trocar superomedial to the right anterior superior iliac spine.
+ROCO_85449	 The adapted virtual reality helmet. The helmet was created by attaching the LCDs removed from a V8 Research head mounted display to a modified bike helmet. The fNIRS optical fibers were applied to the parietal and occipital areas. A Velcro belt was attached at the back of the helmet in order to counterbalance the effect of the LCDs' weight in front of the helmet. The belt was subsequently secured to the participants back through a thoracic belt.
+ROCO_85452	 Occlusal plane of reference
+ROCO_85458	 Follow-up esophagography. Suspicious contrast leakage at the left side of the mid-esophagus and drainage to the distal esophagus are evident (arrow).
+ROCO_85470	 G.W. Dunkin with purpose-bred distemper research puppies. The Field Distemper Fund Report for 1925, p. 8. Source: National Archives, FD 1/1274.
+ROCO_85476	 PET soulbutterflies (2010). C-print and silkscreen on plexiglass. 1.20 × 1.20 m.
+ROCO_85477	 Arthroscopic picture showing fibrillation of glenoid articular cartilage.
+ROCO_85485	 Large comparison plate
+ROCO_85487	 The 5-yr-old patient showing a prominent external genitalia and no palpable testicular mass.
+ROCO_85490	 Closed distal tibial fractures are often accompanied by formation of fracture blisters indicating the level of soft tissue injury. Extensive surgery to these compromised areas frequently leads to soft tissue necrosis and should be avoided
+ROCO_85495	 Laparoscopic lysis of a single band.
+ROCO_85509	 Intragastric extension of the food sensor probe
+ROCO_85510	 Videolaparoscopic view of hernial defect after reduction of its content. Only falciform ligament is in.
+ROCO_85512	 Diagram of isolated lymphadenopathy (green)
+ROCO_85520	 Lesions on the back of animal n. D0
+ROCO_85525	 Paula Modersohn Becker, Die Malerin mit Kamelienzweig (Selbstporträt), 1907. Museum Folkwang, Essen. The Yorck Project: 10.000 Meisterwerke der Malere: http://commons.wikimedia.org/wiki/File:Paula_Modersohn-Becker_006.jpg. The work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellschaft mbH and licensed under the GNU Free Documentation License http://www.gnu.org/licenses/fdl.html
+ROCO_85534	 TEM image of FNP solution.
+ROCO_85570	 Final result. Appearance at the conclusion of procedure depicting the incised leaflets and roomy prostatic urethra.
+ROCO_85597	 Intraoperative photograph demonstrates draping for bilateral temporal lead placement with subsequent tunneling via the patient’s right neck, chest, and abdomen. Arrows point to the site of the temporal lead and the Internal Pulse Generator.
+ROCO_85599	 Measured points of the dural venous sinuses (a) and pieces crosscut off from the dural venous sinuses (b). The pieces were measured on three internal sides
+ROCO_85608	 Measurement setup and a list of the Sound Pressure Levels for an irradiance of 5 W/m2 at 1000 Hz.
+ROCO_85618	 Models with brackets attached
+ROCO_85622	 SEM image of the top view of the condenser surface. Only four outermost circular regions are shown due to the limited window of view of the microscope. Specific geometry and distribution of the micropatterns create a wettability gradient in the direction toward the center of the surface (as indicated with a white arrow).
+ROCO_85628	 Two pronged grasper
+ROCO_85644	  CT of left hand and forearm. Diffuse thickening and sclerotisation on index finger and II. metacarp shaft. The lesion is less aparent at the I. metacarp and on some carpal bones. There is diffusely enlarged sclerotic radius and humerus without ulna bridging. Whole scapula on the left side is also affected. The cavities on the affected bones are completely filled with the sclerotic bone.
+ROCO_85668	 SEM micrograph of ‘‘polymer sheathing” phenomena of the fractures surface of PP/MWCNTs nanocomposite with 1 wt % of MWCNTs. Reproduced with permission from ref. [19].
+ROCO_85692	 Great toe in active extension and measurement with goniometer
+ROCO_85693	 The proposed framework extract a higher number of filaments.(a) Original image B2. (b) Method of [21]. (c) Proposed framework with W = 4 and L = 30.
+ROCO_85715	 Color fundus photo showing PFCL bubbles in vitreous cavity with membranes
+ROCO_85730	 Photo of abdominal scar with postoperative radiotherapy after last Cesarean section.
+ROCO_85738	  Axial projection of the cranium. Location of the anterior (ANS) and posterior nasal spine (PNS) obtained from a CBCT radiograph.
+ROCO_85739	 A picture of a rat placed between the magnets with a surface loop of resonator over its head for measurement of cerebral tissue oxygen (O2) level.Note: The electron paramagnetic resonance (EPR) oximetry probe, lithium phthalocyanine (LiPc), has been implant into the rat brain earlier. This EPR spectrometer operates at a microwave frequency of 1.2 GHz. Reproduced from Liu et al.15
+ROCO_85743	 Regions of the DMN significantly deactivated in the HC compared to OCD (Resting state - Rest task-Pleasant Stimuli Condition).
+ROCO_85747	 Tinea corporis showing peripheral spreading with central clearing
+ROCO_85749	 Schematic illustration of the use of up-and-down elastics with miniscrews and miniplates for 7 months
+ROCO_85768	 Postoperative mouth opening. After synechiae release, Boyle Davis mouth gag could be inserted
+ROCO_85784	 Collecting pine resin: useful in boils.
+ROCO_85786	 Low-magnification photographs reveal a large apparent grain structure at the location of fracture.
+ROCO_85795	 The Enteryx polymer mass adherent to the esophagus.
+ROCO_85800	 Trabecular-iris circumference volume (TICV). 3D anterior segment optical coherence tomography (ASOCT) image exhibiting TISA500 (light green space) and TICV500 (darker green spaces), along with the scleral spur landmark (red circle), iris (yellow), and cornea (violet line).
+ROCO_85822	 Wild‐caught Tegeticula yuccasella female (yucca moth) with a pollen ball under her head (arrow a), resting in a Yucca glauca flower during a behavioral trial. The moth is on the left‐hand side of the flower's ovary (dashed line running along its length). The posterior end of the abdomen of the moth (arrow b) bears an ovipositor that the moth inserts in the flower's ovary to lay an egg. This image was captured using the infrared light‐based night‐vision feature of a Sony® Handycam video recorder in the HDR‐SR series
+ROCO_85839	 Cross streak assay of Streptomyces spectabilis VITJS10
+ROCO_85872	 Picture of the removed nasogastric tube.
+ROCO_85875	 A magnetic resonance imaging examination of his right hand at initial presentation. T1-weighted fat-saturated axial magnetic resonance image shows diffuse enhancement of the muscles and the palmar aponeurosis (arrow). There are no pathological features in his bones or joints
+ROCO_85902	 Gustav Hauser (German pathologist) [Image obtained from Wikipedia – Available at: http://commons.wikimedia.org/wiki/Category:Gustav_Hauser]
+ROCO_85910	 Simultaneous scanning of calibration phantom. The simultaneous scanning of bone density calibration phantom containing two compartments with 0 and 200 mg/ml of calcium hydroxyapatite equivalent was performed when CT scanning in patients was done
+ROCO_85917	 Larval cephalopharyngeal skeleton of Zaprionus sepsoides Duda, 1939.
+ROCO_85924	 Weakening of the rsrA RBS results in overexpression of SigR relative to RsrA. (A) Sequence showing the rsrA RBS and the overlapping stop and start codons of sigR and rsrA, respectively. (B) Mutation of the rsrA RBS blocks sporulation, resulting in white colonies because of the absence of the gray spore pigment. Shown are colonies of Δ(sigR-rsrA) null strain J2146 with the empty pRT801 integrative vector or with parallel pRT801 constructs carrying the p1-sigR-rsrA operon with the wild-type (WT) rsrA RBS or the mutant RBS sequences indicated. One of these RBS mutations (GAAAGG to GCGTGG) resulted in a conservative arginine-to-lysine substitution in SigR, while the other three did not alter the amino acid sequence of SigR. Strains were grown on SFM and photographed after 4 days.
+ROCO_85941	 Clinical picture of gingival status in a male epileptic patient before the start of phenytoin therapy, after 1 week of oral prophylaxis
+ROCO_85986	 Anterior segment photography of the right eye after Nd:YAG capsulotomy.Notes: White arrow, slit-lamp light over the corneal surface; black arrow, slit-lamp light over the anterior surface of the intraocular lens; gray arrows, posterior capsulotomy borders.Abbreviation: Nd:YAG, neodymium-doped yttrium aluminum garnet.
+ROCO_85987	 Radiograph showing working length of maxillary canine with two separate canals.
+ROCO_86014	 An Ascaris worm in the intercostal drainage bag.
+ROCO_86033	 Károly Sajó (1851–1939).
+ROCO_86035	 Individual with a stroke performing the Wishy Washy application using the Sony EyeToy system.
+ROCO_86044	 Photographic points and vertical linear measurements used in the study. 1: TR-ME (trichion to soft tissue menton); 2: LC-ME (lateral canthus of eye to soft tissue menton); 3: TR-LN (trichion to ala of nose); 4: TR-LC (trchion to lateral canthus of eye); 5: LN-ME (ala of nose to soft tissue menton); 6: LC-CH (lateral canthus of eye to corner of mouth); 7: CH-ME (corner of mouth to soft tissue menton); 8: LC-LN (lateral canthus of eye to ala of nose); 9: LN-CH (ala of nose to corner of mouth)
+ROCO_86048	 MR angiography illustrating the aneurysm (an) and anatomical landmarks (tr = trachea, sc = spinal cord). A supporting gel block (cross) allows correct positioning of the rabbits.
+ROCO_86084	 The approach: a clamp is placed at the umbilical cord pillar, and the deep incision is spread using curved forceps
+ROCO_86088	 : Arthroscopic view showing the bony spur at subacromioclavicular space.
+ROCO_86099	 Right breast ultrasonography (US) showing encapsulated purulent collection (4 × 4 × 15 cm) in correspondence of the lower lateral quadrant, 7 weeks after breast reduction surgery. Abscess drainage was performed under US guidance.
+ROCO_86103	 Conceptual model of the sexual acceptability of contraception.
+ROCO_86115	 Area of the low back pain (LBP) model during the hypertonic saline (5%) infusion projected into the muscle.A fine plastic cannula (24-gauge) was attached to a 1 mL syringe containing sterile hypertonic (5%) saline stimuli that was inserted 2 cm into the right-sided erector spinae muscle at the level of lumbar vertebra 4.
+ROCO_86116	 SEM of rayon-g-poly (AN) at magnification (x = 3000) (radiation method).
+ROCO_86117	 Structures in the floor of the third ventricle
+ROCO_86144	 Flap dislocation with macrostriae
+ROCO_86155	 Microscopic, digitalized image of the apex, the periapical region and the endodontic file.The marked outline root canal is shown in red, the computer detected AC and its diameter (in μm) in yellow.
+ROCO_86168	 Three-point flexural strength test.
+ROCO_86171	 Two limbs of the corrugated circle system tube on either side of the head bringing the ‘Y’ connector and distal part of circle system tube to sit comfortably on the chestsurgery
+ROCO_86215	 Example of measurements for buccal bone thickness (BBT) of mandibular first molars.
+ROCO_86235	 Anterior segment optical coherence tomography demonstrating a well-apposed flap and the demarcation line in a case of femtosecond LASIK with half-fluence accelerated cross-linking
+ROCO_86239	 Infiltrated lesion of the face due to L. infantum.
+ROCO_86242	 Laparoscopic view of the mass looking toward the upper abdomen.
+ROCO_86249	 The Tuohy needle and Ethilon® suture have been passed through the labrum. The Mitek® anchor is in place.
+ROCO_86252	 Blue tube.
+ROCO_86256	 3DCT scan imaging 6 months postoperatively.
+ROCO_86261	 The Interstim® device (Medtronic, Minneapolis, MN, USA)
+ROCO_86263	 Arthroscopic view showing complete subscapularis repair and the complete coverage of the lesser tuberosity by the subscapularis tendon. The area is being viewed through a 70° arthroscope
+ROCO_86282	 Presentation of gastric cancer by EUS.
+ROCO_86285	 Metal cutting blades used to cut the screws.
+ROCO_86288	 AP Fluoroscopic image of a Sawbone®composite graft with a long spiral fracture after implantation of two elastic stable intramedullary nails with End Caps.
+ROCO_86291	 Fibroplasia.
+ROCO_86296	 Jaw adductor musculature in Heterodontosaurus tucki from the Lower Jurassic Upper Elliot and Clarens formations of South Africa. Flesh head sculpting over a cast of an adult skull (SAM-PK-K1332) showing surface tissues (anterior half) and select jaw muscles (posterior half). Abbreviations: amep adductor mandibulae externus profundus ames adductor mandibulae externus superficialis amev adductor mandibulae externus ventralis dm depressor mandibulae.
+ROCO_86297	 Schematic view of Foley catheter balloon-assisted cavoatrial thrombectomy. Foley catheter with inflated balloon just above the tumor thrombus within the right atrium.
+ROCO_86326	 Anterior segment following annular suturing of the pupil edge and intraocular lense (IOL) implantation into the anterior chamber. A polypropylene line causes each section of the residual atrophic iris to form rounded pupils, and the reconstituted pupils are capable of supporting an IOL in the anterior chamber.
+ROCO_86348	 An image of the right ventricle created using intracardiac echocardiography merged with computed tomography. The fusion image reveals a large thrombus in the right ventricular apex.
+ROCO_86359	 Hasson's cannula introduced in subumbilical port
+ROCO_86364	 A macrophage extends filopodia to capture bacteria (pink).
+ROCO_86367	 The finished framework placed on the master cast
+ROCO_86385	 Score 2
+ROCO_86386	 Preparing the Turkish Delight: ProOsteon® (white granules), Tisseel® (from canula), and Surgicel® (knitten fleece)
+ROCO_86391	 Ex vivo MR imaging of 1.0x106 Molday ION-labeled MSCs injected in explanted spinal column.White arrow points to the hypointense region containing the cell deposit.
+ROCO_86392	 The entirely subcutaneous ICD system with the pulse generator implanted subcutaneously in a left lateral position and the parasternal lead-electrode positioned parallel to and 1 to 2 cm to the left of the sternal midline. The lead-electrode contains 2 sensing electrodes separated by an 8 cm shocking coil. Image provided courtesy of Boston Scientific. © 2015 Boston Scientific Corporation or its affiliates. All rights reserved.
+ROCO_86398	 Transmission electron photomicrograph of an extracellular gametocyte with distinct membranes and nucleus (N). The outermost layer or pellicle membrane (Pm) is separated from inner membrane (Im). The leukocyte (Le) is on the left (Magnification 11000×)
+ROCO_86408	 Reconstruction with a figure of eight configuration (reproduced with permission Hogan et al. 2005)
+ROCO_86431	 Arthroscopic images of the right hip of a 53-year-old woman with mild dysplasia, showing a) significant hypertrophy of the anterosuperior labrum, leaving little room for the 5 mm dilator and guide wire inserted through the anterior portal, b) the radiofrequency ablation probe just interposed safely between the labrum and the femoral head, c) partial labral detachment (arrow), and d) improved visualisation after labral repair with a suture anchor (arrow) (L, labrum; FH, femoral head; Ac, acetabulum).
+ROCO_86433	 Open fractures of the distal tibia are common in high-energy trauma. The soft tissue deficit exposes bone, thereby increasing the risk of osteomyelitis
+ROCO_86439	 Three-dimensional computed tomography reconstruction demonstrating the skull base observations of the craniofacial dysplasia.
+ROCO_86441	 3D reconstruction of the segmented volume.
+ROCO_86445	 TomoTherapy setup for the ScandiDos Delta4 quality assurance phantom
+ROCO_86448	 Sensor placement.
+ROCO_86452	 Flexometallic endotracheal tube with GlideRite®
+ROCO_86478	 A. corymbifera colony in wound secretion culture.
+ROCO_86512	 Positioning of the male anthropomorphic phantom for the performance of the PET/CT scan.
+ROCO_86521	 MUSE (Medigus) endoscopic stapling device and its components.
+ROCO_86533	 The twins' single heart with paired great vessels (arrows).
+ROCO_86547	 Fibre-optic hypopharyngeal-laryngeal examination showing a submucosal mass involving the left supraglottis and medial wall of the pyriform sinus.
+ROCO_86553	 The view of the sharp-tipped throcar inserted into the irrigation tube for the enterance into joint space through skin.
+ROCO_86573	 Female 48 years old: (a) preoperative view and (b) postoperative view (3 years)
+ROCO_86605	 The “flaring suture” is a mattress suture that is directed from the lateral portion of the lateral cartilage across the nasal dorsum to the opposite side. When the suture is tightened, the lateral cartilages are lateralised, the nasal dorsum acting as a “hypomochlion”.
+ROCO_86619	 Clinical picture of an iStent implanted in the angle
+ROCO_86622	 Layout of the 3D printed substrate with embedded microfluidic channel filled with coloured fluid.
+ROCO_86645	 3D CT. Three-dimensional CT shows the innominate artery (white arrow) crossing the trachea from left to right just cranial to the manubrium.
+ROCO_86646	 Clamp 212 standard
+ROCO_86659	 APEX installation on the integrating sphere at DLR for radiometric analysis.
+ROCO_86661	 XCT image of a 1200 μm cylindrical specimen horizontally sliced at a diamond cell (the scale bar indicates 1 mm).
+ROCO_86681	 Posterior labral injury.
+ROCO_86693	 Two-network model of scene perception. Our results provide strong evidence for dividing scene-sensitive regions into two separate networks. We argue that OPA and posterior PPA (PHC1/2) process the current visual features of a scene [in concert with other visual areas, such early visual cortex (EVC), and LOC], while cIPL, RSC, and aPPA perform higher-level context and navigation tasks (drawing on long-term memory structures including the hippocampus).
+ROCO_86726	 Example of simulation using dataglove.
+ROCO_86733	 Pectoral muscle removal algorithm result.
+ROCO_86735	 Wound infection in the vacuum dressing group. It resolved with a course of oral clindamycin for 7 days.
+ROCO_86736	 Custom made occlusal plane analyzer
+ROCO_86739	 Umbilical incision at end of SILS procedure with drainage tube.
+ROCO_86745	 Foley catheter cut and rolled over the sharp ends of Schanz screws on an Ilizarov ring fixator
+ROCO_86765	 Rotor trajectories registered to late gadolinium enhancement distribution in a 62 year-old patient with persistent atrial fibrillation. Rotor trajectories are color-coded according to the persistence of the rotor at each point of its trajectory, in order to visualize anchoring sites responsible for atrial fibrillation maintenance. These driving regions are consistently observed at the borders of LGE areas.
+ROCO_86783	 František Nábělek during his travels in 1909–1910 (photo courtesy of family Nábělek).
+ROCO_86791	 Relaxed skin tension lines also described as Borges lines
+ROCO_86796	 AGM with water trap and proximal sampling line
+ROCO_86797	 ‘Rejlander – Expression of Disgust’, from Charles Darwin, The Expression of the Emotions in Man and Animals (London: John Murray, 1872), p. 255. Wellcome Images.
+ROCO_86798	 Hypopion and inflammation remission 4 days after intravitreal antibiotic injection.
+ROCO_86799	 Barium contrast image of a normal EGJ
+ROCO_86809	 It is then rolled over the ordinary bandage dressing as sushi hand roll, securely held in place at wrist level with 1-inch wide 3MTMMicroporeTMmedical tape.
+ROCO_86811	 Insulin and the brain: models of accelerated and delayed aging. Figure showing the putative relationship between central insulin action and glucose metabolism in models of accelerated or delayed aging. Obesity as a model for accelerated aging is associated with peripheral insulin resistance, decreased adiponectin levels, and enhanced chronic inflammation. Opposite features are observed in healthy longevity as a model of delayed aging.
+ROCO_86814	 Reconstructed right metatarsus and pes.Reconstructed right metatarsus and pes in: dorsal (A); ventral (B); medial (C) and lateral (D) views.
+ROCO_86822	 An axial computed tomography image at the time of the second high-dose-rate endobronchial brachytherapy treatment planning is shown as an example of a close distance between the catheter (red point) and the tracheal mucosa (white contour) corresponding to the high-dose region (arrow)
+ROCO_86824	 Personalised external aortic root support. BCA, brachiocephalic artery; LCA, left coronary artery; RCA, right coronary artery.
+ROCO_86831	 Post-LVAD implantation M mode echocardiogram of the aortic valve and left atrium shows closed aortic cusps throughout systole and diastole (v), denoting the well-functioning LVAD
+ROCO_86850	 Half of the anterior chamber space was again filled with viscoelastics.
+ROCO_86867	 Y-shaped incisive canal and nasopalatine duct (arrows) opening into nasal cavity (X1.25 magnification, hematoxylin & eosin)
+ROCO_86873	 Hyoid extension
+ROCO_86885	 Vase? Or two profiles?. Our initial perspective may make it difficult to view things from a new perspective, but it is possible.
+ROCO_86894	 Suture drill (task 2)
+ROCO_86896	 This photograph shows preoperative skin change of right arm.
+ROCO_86898	 Large Obsidian Core.This 2.5
+ROCO_86903	 Genital appearance on admission. A small phallus-like structure and complete labioscrotal fusion were observed. Single meatus is opening at the top of a phallus-like clitoris.
+ROCO_86913	 Use of adjustable (iris) collimator to limit the field to the area of interest reduces radiation exposure to the patient and improves image resolution by decreasing the range of tissue density included in the image field.
+ROCO_86953	 Cross-sectional TEM image of a nanotrench with the viewing zone axis 90° off [011] orientation. Inset shows the Fourier transform pattern taken from the nearby ZnSe lattice.
+ROCO_86962	 Positions of 37 retroreflective markers for motion capture during gait cycles.
+ROCO_86963	 Spatial variation in the relative extinction risk of marine chondrichthyans.Residuals of the relationship between total number of data sufficient chondrichthyans and total number of threatened species per cell, where positive values (orange to red) represent cells with higher threat than expected for their richness alone.DOI: http://dx.doi.org/10.7554/eLife.00590.017
+ROCO_86964	 Title page of Exercitatio anatomica de motu cordis et sanguinis in animalibus, 1628 [20].
+ROCO_86997	 Protein crystal of polymerase PB2 subunit from 2009 pandemic influenza H1N1.
+ROCO_86998	 Typical target layout and corresponding dose levels
+ROCO_87004	 Example Image Taken From Video Recorded Through the Endoscope.
+ROCO_87017	 The patient is in the supine position, and the procedure performed with the patient under local anesthesia without intubation.
+ROCO_87022	 A petri dish culture of the mycopathogenic fungus Humicola fuscoatra, one of the several soil fungi that produce RAD. Others are to be found in the rhizosphere of plants, where the production of this Hsp90-targetting antibiotic may help facilitate the establishment of the fungal-plant symbiotic relationship [18].
+ROCO_87039	 Sagittal T2-weighted MR image through the midline of the pelvis.
+ROCO_87050	 Section of a vitellogenic Hyalophora follicle that had been stained with Azure-B to reveal the distribution of RNA. Cytoplasm is deeply stained. Three giant, folded nurse cell nuclei are at the top of the section. A flattened epithelium of follicle cells covers the nurse cells while the oocyte is covered by taller, columnar-shaped cells. The oocyte is close-packed with non-staining yolk particles. An RNA-rich delta of cytoplasm lies close to the nurse cells at its anterior pole and a lightly staining cortex underlies its surface (Reprinted with permission from Pollack and Telfer 1969 Journal of Experimental Zoology 190:1–24.)
+ROCO_87058	 Showing a case of agenesis of isthmus of thyroid gland. We can see the two lateral lobes lying independently on either side of the trachea connected by a thin layer of pre-tracheal fascia.
+ROCO_87064	 Suturing of spreader grafts to the exerted cartilaginous septum in extracorporeal septoplasty.
+ROCO_87069	 Recreated natural head position (NHP) on three-dimensional (3D) simulator, frontal side. The 3D model was re-oriented to the NHP based on the roll and pitch data acquired by the device. Then the angle between two lingual buttons on both zygoma in the frontal side was calculated to compare the roll value.
+ROCO_87079	 Posteroinferior capsular shift (16 years, female). Left shoulder, lateral position; view from anterosuperior. H: Humerus, G: Glenoid, pC: posterior Capsule, pCP: posterior Capsular Plication.
+ROCO_87105	 Location of port sites for left sided pelvic nephrectomy.
+ROCO_87130	 Representation of length, width and height in a 3D volume as utilised in this approach.
+ROCO_87137	 Oldest description of tracheostomy (“laryngotomia”) in a manual of the Italian surgeon and anatomist Giulio Casseri (Julius Casserius, 1552–1616) (taken from [12])
+ROCO_87153	 Agar diffusion tests on S. aureus: (a) untreated sample; (b) sample treated with 0.5 wt/v % silver; (c) sample treated with 4 wt/v % silver. The presence of the inhibition zone to bacterial growth is clearly visible around both the silver-treated samples.
+ROCO_87156	 Photo of keloid abdominal scar with previous Cesarean section.
+ROCO_87160	 Test coupon representing key structural elements of F-111C lower wing skin at Forward Auxiliary Spar Station (FASS) 281.28. Marked is the location of the Fuel Transfer Groove (FTG).
+ROCO_87163	 Exercise 5 – view from the physical trainer
+ROCO_87169	 Effect of 2% DMSO on histopathological changes in stressed rat testis. Narrowing of seminiferous tubules, less spermatogenesis, low secondary spermatocytes and spermatids (H and E, ×400)
+ROCO_87178	 Glomus tumor: Pink glow on ultraviolet light dermoscopy
+ROCO_87182	 The marmoset in a stereotaxic frame for 6-OHDA injection.
+ROCO_87213	 Case no 3 before surgery
+ROCO_87217	 The angle between the two force vectors of the two nickel-titanium closed coil springs was controlled to be 120°.
+ROCO_87222	 Flare in anterior chamber of the other eye of the same rabbit
+ROCO_87228	 Engraving about rhinoplasty by Susruta that appeared in The Gentleman's Magazine, October 1794
+ROCO_87240	 The reconstruction, seen in short-axis projection from the cardiac apex, shows the spiraling nature of the intrapericardial arterial trunks. The aorta is shown in red, and the pulmonary trunk in blue.
+ROCO_87241	 Photograph depicting the close up of a Biomedicus (Medtronic Inc) pump with the inlet and outlet connectors. Two pumps were used, one for the right ventricular bypass and one for the left ventricular bypass.
+ROCO_87242	 Production and metabolism of prostaglandins
+ROCO_87248	 Extensor mechanism of the tissue bank, with the tibial insertion into the quadriceps tendon, including the patella.
+ROCO_87295	 Endobronchial hamartoma in the left upper lobe
+ROCO_87310	 Proposed strategies to increase the effect of non-invasive brain stimulation (NIBS) in motor recovery after stroke. iM1, ipsilesional primary motor cortex; cM1, contralesional primary motor cortex; PMC, premotor cortex; tDCS, transcranial direct current stimulation; rTMS, repetitive transcranial magnetic stimulation; TBS, theta-burst stimulation; PAS, paired associative stimulation.
+ROCO_87314	 Intra-operative image showing severed end of right tracheobronchial junction at carina and right bronchus with endotracheal tube in situ
+ROCO_87316	 An infant picture of Tadanori Tomita
+ROCO_87318	 Calculated dose distributions overlaid on an axial CT slice, including the isocenter. The dose inside the hip prosthesis in place of the right femur was lower than 20% of the prescribed isocenter dose.
+ROCO_87320	 The surgery environment of the in vitro porcine liver.
+ROCO_87331	 Blunt tip canula inserted under direct vision.
+ROCO_87344	 Megaselia breviterga female, Dufour’s crop mechanism (anterior end to left).
+ROCO_87349	 Illustration of the test setup with a custom-made spherical cap
+ROCO_87350	 Hypothalamus-pituitary-adrenal-axis
+ROCO_87357	 The original design from which the name PPH Butterfly originated. The two wings on either side of the platform fold together for insertion, opening up once within the vagina. Channels on the surface of the wings direct blood down into the drainage channel that runs through the centre of the handle. PPH, postpartum haemorrhage.
+ROCO_87378	 Intraoperative image of a longer segment lumbar fixation case utilizing instrumentation that had low profile reduction MIS towers for ease of rod delivery.
+ROCO_87381	 List of participating centers and personnel in the VMCI-Tuscany. University of Florence: (Coordinating Center): Domenico Inzitari (study coordinator), Rosanna Abbate, Manuela Bandinelli, Maria Boddi, Francesca Cesari, Laura Ciolli, Mirella Coppo, Alessandra Del Bene, Stefano Diciotti, Andrea Ginestroni, Betti Giusti, Anna Maria Gori, Mario Mascalchi, Serena Nannucci, Leonardo Pantoni, Marco Pasi, Francesca Pescini, Anna Poggesi, Giovanni Pracucci, Emilia Salvadori, Raffaella Valenti. University of Pisa: Luigi Murri, Ubaldo Bonucelli, Paolo Cecchi, Alberto Chiti, Mirco Cosottini, Giovanni Orlandi, Cristina Pagni, Gabriele Siciliano, Gloria Tognoni. University of Siena: Antonio Federico, Nicola De Stefano, Maria Teresa Dotti, Patrizia Formichi, Claudia Gambetti, Antonio Giorgio, Francesca Rossi, Laura Stromillo, Enza Zicari. Tuscany region: Arezzo (Paolo Zolo, Alessandro Tiezzi); Empoli (Elisabetta Bertini, Stefania Brotini, Leonello Guidi, Maria Lombardi, Stefania Mugnai, Antonella Notarelli); Florence (Laura Bracco, Massimo Cadelo, Renzo Cisbani, Luciano Gabbani, Guido Gori, Lorella Lambertucci, Luca Massacesi, Enrico Mossello, Marco Paganini, Maristella Piccininni, Francesco Pinto, Claudia Pozzi, Sandro Sorbi, Gaetano Zaccara); Grosseto (Tiziano Borgogni, Mario Mancuso, Roberto Marconi); Lucca (Monica Mazzoni, Marco Vista); Livorno (Giuseppe Meucci, Giovanna Bellini); Massa Carrara (Luciano Gabrielli); Pisa (Cristina Frittelli, Renato Galli, Gianna Gambaccini); Pistoia (Stefano Bartolini, Carlo Biagini, Veronica Caleri, Paola Vanni); Prato (Donatella Calvani, Carla Giorgi, Stefano Magnolfi, Pasquale Palumbo, Carlo Valente); Siena (Alessandro Rossi, Rossana Tassi, Stefania Boschi); Viareggio (Filippo Baldacci; Ubaldo Bonuccelli).
+ROCO_87383	 The anchors design that have been used at the study. A - It can be easily screwed in the bone. B - It has a hole through which a suture material could be introduced.
+ROCO_87397	 After graft anastomosis, heart and brain were reperfused from the other branch of the graft after discontinuation of cerebral perfusion.
+ROCO_87398	 Posterior capsular dehiscence with polar plaque on anterior segment optical coherence tomography
+ROCO_87399	 The reconstructed en face image from cardiac computed tomography shows the longest diameter (a) and the shortest diameter (b).
+ROCO_87422	 Thomas Young
+ROCO_87424	 hipEOS® simulation of THA
+ROCO_87431	 Trocar placement.
+ROCO_87444	 Sharava in MPBNY after puta
+ROCO_87459	 (A) SEM micrograph of monolithic zirconia specimen applied Z-Prime Plus, (B) control group exhibited mixed failure, (C) in the surface of a specimen from the control group, both monolithic zirconia and remnants of Z-Prime Plus and indirect composite material were visible.
+ROCO_87480	 Hippocampal subregions were manually drawn on the high-resolution T2 image. Shown above, moving from anterior to posterior, the subregions included the CA1 (pink), CA2, CA3 and dentate gyrus (green), the subiculum (blue), the entorhinal cortex (yellow), the perirhinal cortex (red), and the parahippocampal gyrus (purple).
+ROCO_87489	 “Georg Kelling (1866–1945)” Figure 1–9 in Highlights in the History of Laparoscopy.
+ROCO_87490	 Bladder recurrence after UUT-UCCs
+ROCO_87493	 Attendees of the ASTMH annual meeting in Philadelphia, 2015, pass through a mock Ebola Treatment Unit erected to provide a real-world look into challenges of caring for patients with Ebola virus disease. The latest scientific findings on the disease were presented at numerous sessions throughout the meeting.
+ROCO_87504	 Forearm three-dimensional computed tomography of a female patient with SHOX deficiency. Significant findings include shortening of the radius, pyramidal configuration of the carpal bones and dorsal subluxation of the ulna in addition to severely disturbed structural organization of the elbow joint.
+ROCO_87505	 Objects obtained from the stomach.
+ROCO_87508	 Customized plate. Arrow highlights the proximal hole through which the polypropylene mesh is passed
+ROCO_87516	 Clamp no. 1 modified: active contour and contact points
+ROCO_87519	  Illustration of the application of microRNAs (miRNAs) as novel diagnostic, predictive, and prognostic biomarkers in breast cancer management.
+ROCO_87523	 Intraocular adult Loa Loa worm in the anterior chamber.
+ROCO_87530	 Chest X-ray showing an enlarged cardiac silhouette at the expense of the right ventricular border, with increased pulmonary vasculature, especially in the pulmonary hila. The aorta is not bulging despite the coarctation, but there is hyperrefringency on the edge of the ribs. The electrocardiogram highlights signs of first-degree atrioventricular block and complete right bundle-branch block.
+ROCO_87534	 Microscopic view showing tumour mass consisting of mature adipose tissue (yellow arrow) surrounded by a thin layer of vascularized fibrous tissue (blue arrow)
+ROCO_87540	 A volcano plot for the negative log10-transformed p values plotted against the difference in the mean levels of DNA methylation at each CpG site between PCOS and controls groupsCpGs reaching genome-wide significance with FDR < 0.05 are coloured red and those with 0.05 < FDR < 0.2 coloured purple.
+ROCO_87553	 Insertion of a multichannel port at the colostomy site through a 25-mm skin incision in the right lower quadrant. A 5-mm trocar was inserted via the umbilicus
+ROCO_87593	 Endoscopic view of the dissected bladder cuff with fibers still attaching it at 12 o’clock
+ROCO_87600	 Lung auscultation position.
+ROCO_87601	 Photograph of a wheat root at a depth of 0.65 m crossing a mini-rhizotron scribe line in a red Kandasol. Arrows indicate a secondary lateral root and root hairs. The indentations on the scribe line indicate a distance of 10 mm. Photograph taken 14 September 2004.
+ROCO_87610	 Clinical photograph showing the prominence above the medial end of clavicle represents anterosuperior displacement of the shaft (white arrow), and the depression above the lateral end of clavicle indicates the inferior displacement (black arrow)
+ROCO_87637	 The leech removed from the patient, JUSH, May 2012.
+ROCO_87651	 Gray Matter Decreases in ADHD. A transverse section at Talairach space level z = 10 showing gray matter reduction in ADHD in the right putamen/globus pallidus region, displayed on a template brain. The right side of the section represents the right side of the brain. Significant clusters were thresholded with a false discovery rate (FDR) at P < 0.05.
+ROCO_87652	 The photo of PAGAT polymer gel dosimeter.
+ROCO_87659	 Optical micrograph of flank wear.
+ROCO_87665	 Caudal epidural with anterior epidural dye spread in lateral view
+ROCO_87674	 A cast from Odisha population depicting four wavy rugae, one unification and two curved rugae
+ROCO_87683	 Clamp 212 modified
+ROCO_87686	 The aortic orifice viewed from the arterial aspect in order to show the aortic sinuses; ‘aas’ indicates the right coronary artery (RC); ‘lps’ indicates the left coronary artery (LC), and ‘rps’ indicates the non-coronary sinus (NC). Commissures (I, II, III) can be seen. Arrows indicate the circumferential deviation of the ostia towards the commissures
+ROCO_87690	 Schematic representation of the foot-camera (FC) angle measurement. The position of the vertical axis of the gamma camera was projected using a manual laser level device placed on the center of the face of the gamma camera and producing a fan beam of light perpendicular to the ground (dotted line (a*)). The projected axis was marked on the floor with chalk (dotted line (a)).The mid-sagittal foot-axis is indicated by continuous line (b). To calculate the FC angle (c), the Law of Cosines was applied. Three distances were measured: the distance from the foot and gamma camera axes intersection to the tip of the foot (portion of the continuous line (b)), the distance from the foot and gamma camera axes intersection to the point vertically below the center of the gamma camera face (portion of the dotted line (a)); and the distance from the tip of the foot to the point vertically below the center of the gamma camera face (dashed and dotted line (d)).
+ROCO_87692	 Laser bare fiber
+ROCO_87713	  Custom-made aiming jig to achieve reproducible targeting of the trocars into the anterior middle portion of the vertebral analogue.
+ROCO_87716	 Voltage value generated after passing through the regulator.
+ROCO_87726	 Rolled prolene mesh
+ROCO_87728	 The Adipose-derived stem cells are processed in a closed-circuit machine within 1.5 hours.
+ROCO_87731	 Draping complete with U drape—note lights are at 6 and 12 o’clock to prevent shadows from the surgeons.
+ROCO_87734	 Two types of strain gauges (selected as a micro-objects).
+ROCO_87736	 Repetitive transcranial magnetic stimulation targets. Yellow dot with arrows marks the secondary somatosensory cortex stimulation target, the red arrow showing the direction of the main induced electrical field vector. The orange dots mark the S1/M1 stimulation area, that is, the representation area of the face on the primary somatosensory cortex and primary motor cortex (M1). Uppermost green dot shows the left hand representation area on the M1 cortex where the resting motor threshold was measured.
+ROCO_87757	 Standard mode-direct digital radiograph
+ROCO_87761	 Upper body stabilisation equipment including an evacuated cushion localised on a wingboard and Silverman head rest (under cushion).
+ROCO_87772	 Francis Bacon—Self-portrait 1971. Centre Georges Pompidou, Paris, France. © The Estate of Francis Bacon/All rights reserved/ADAGP, Paris 2014.
+ROCO_87799	 Native PAGE Zymography of alkyl sulfatase of strain SP3.
+ROCO_87810	 Narrow band imaging of the lesion highlighting the vascularity of the abnormal mucosal area
+ROCO_87821	 Initial MRI of brain.
+ROCO_87823	 The incisional hernia defect is shown after successful dissection of the extraperitoneal space between the rectus fascia and the rectus muscle with cutting forceps.
+ROCO_87829	 Rats under stress in a restrainer.
+ROCO_87851	 PTFE mesh tacked to abdominal wall.
+ROCO_87855	 The patient demonstrated esotropia of 15 to 20 prism diopters at near fixation. At this time, her pupils were constricted and autorefraction performed immediately after near fixation revealed -10.0 diopters of pseudomyopia.
+ROCO_87861	 Observed internal flows for the case of an entrapped air bubble inside the droplet.
+ROCO_87862	 Haematoma on the upper and lower airways
+ROCO_87863	 “Butterfly grafts” are placed on the septum and under the cranial border of the alar cartilage and expand the nasal valve through a spring effect. Cartilage grafts taken from the auricle that have a sufficient internal stress are particularly suitable.
+ROCO_87886	 Injection fluid ‘fingering’ (labelled) beyond the downward-growing tip of a demonstration hydraulic fracture in a PMMA (Perspex) block. View is onto the plane of the fracture. (Online version in colour.)
+ROCO_87894	 Scanning electron photomicrograph of blood cells showing small leukocyte with mushroom-like appearance ×10,000.
+ROCO_87904	 SEM of Solenopsis elhawagryi sp. n. minor worker, head in full-face view.
+ROCO_87918	 Under visualization through the anterolateral portal, a suture hook loaded with a No. 0 PDS suture material was inserted through the posteromedial portal. With a grasper, it was advanced into the intra-articular space through the tibial tunnel, and one end of the strand was retrieved out of the tunnel.
+ROCO_87936	 The endoscopic view demonstrated progressive dusky and discolored esophageal mucosa.
+ROCO_87952	 A 7 Fr Kimny guiding catheter (Boston Scientific, Grove, MN, USA) was loaded by a 5 Fr 125 cm VTK catheter (VTK, Cook Inc., Bloomington, IN, USA) in order to taper down the distal tip.
