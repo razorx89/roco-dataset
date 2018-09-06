@@ -5,7 +5,11 @@ This repository contains the *Radiology Objects in COntext (ROCO)* dataset, a la
 
 Get started
 -----------
-_TBD_
+To download the images, clone the repository and run
+
+```bash
+python scripts/fetch.py
+```
 
 Citation
 --------
