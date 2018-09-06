@@ -1,10 +1,6 @@
-""" Download packages and extract images based on dlinks.txt files.
+""" Download packages and extract images based on dlinks.txt files. """
 
-Check the configuration below, then run this script. Compatible with python 2
-and 3.
-
-"""
-
+import argparse
 import multiprocessing
 import os
 import subprocess
@@ -15,12 +11,6 @@ import tempfile
 
 tempfile.gettempdir()
 
-# Configuration
-
-# Extracted images will be copied to this dir relative to the dlinks.txt
-# file location
-IMAGE_SUBDIR = 'images'
-
 DLINKS_FOLDERS = [
     'data/test/radiology',
     'data/test/non-radiology',
@@ -29,23 +19,6 @@ DLINKS_FOLDERS = [
     'data/validation/radiology',
     'data/validation/non-radiology',
 ]
-
-# Change this if you want to store the extracted files somewhere persistently
-EXTRACTION_DIR = os.path.join(tempfile.tempdir, 'roco-dataset')
-# Change to True to keep archives after extraction (you should change
-# EXTRACTION_DIR as well)
-KEEP_ARCHIVES = False
-
-# Number of images to fetch in parallel; setting this too high may get you
-# temporarily banned from accessing the PMC FTP service
-NUM_PROCESSES = 4
-
-# Configuration end
-
-
-def init(args):
-    global counter
-    counter = args
 
 
 def log_status(index, target_filename, num_images):
@@ -66,12 +39,12 @@ def extract_image_info(line, image_dir):
 
 
 def provide_extraction_dir():
-    if not os.path.exists(EXTRACTION_DIR):
-        os.makedirs(EXTRACTION_DIR, 0o755)
+    if not os.path.exists(args.extraction_dir):
+        os.makedirs(args.extraction_dir, 0o755)
 
 
 def remove_extraction_dir():
-    shutil.rmtree(EXTRACTION_DIR, True)
+    shutil.rmtree(args.extraction_dir, True)
 
 
 def determine_number_of_images(dlinks_folder):
@@ -84,7 +57,7 @@ def collect_dlinks_lines():
     lines = []
     for folder in DLINKS_FOLDERS:
         filename = os.path.join(dataset_dir, folder, 'dlinks.txt')
-        image_dir = os.path.join(os.path.dirname(filename), IMAGE_SUBDIR)
+        image_dir = os.path.join(os.path.dirname(filename), args.subdir)
         if not os.path.exists(image_dir):
             os.mkdir(image_dir, 0o755)
 
@@ -118,26 +91,62 @@ def download_and_extract_archive(archive_url, pmc_id, extraction_dir_name,
 
     # remove image and archive from extraction dir
     shutil.rmtree(os.path.join(extraction_dir_name, pmc_id), True)
-    if not KEEP_ARCHIVES:
+    if not args.keep_archives:
         os.remove(archive_filename)
 
 
 def process_line(line_and_folder):
-    image_dir = os.path.join(dataset_dir, line_and_folder[1], IMAGE_SUBDIR)
+    image_dir = os.path.join(dataset_dir, line_and_folder[1], args.subdir)
     archive_url, image_name, pmc_id, target_filename \
         = extract_image_info(line_and_folder[0], image_dir)
-    with counter.get_lock():
-        counter.value += 1
-        log_status(counter.value, target_filename, num_images)
+
     if not os.path.exists(target_filename):
         download_and_extract_archive(
-            archive_url, pmc_id, EXTRACTION_DIR,
+            archive_url, pmc_id, args.extraction_dir,
             image_name, os.path.join(image_dir, target_filename))
 
+    return target_filename
 
-counter = None
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description=__doc__.strip(),
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+
+    parser.add_argument(
+        '-s', '--subdir',
+        help='name of image subdirectory, relative to dlinks.txt location',
+        default='images'
+    )
+
+    parser.add_argument(
+        '-e', '--extraction-dir',
+        help='path to the extraction directory where downloaded archives and '
+             + 'images are stored',
+        default=os.path.join(tempfile.tempdir, 'roco-dataset'),
+    )
+
+    parser.add_argument(
+        '-k', '--keep-archives',
+        help='keep downloaded archives after extraction. Ensure sufficient '
+             + 'available disk space at the extraction directory location',
+        action='store_true',
+    )
+
+    parser.add_argument(
+        '-n', '--num-processes',
+        help='Number of parallel processes, reduce this if you are being '
+             + 'locked out of the PMC FTP service',
+        default=multiprocessing.cpu_count()
+    )
+
+    return parser.parse_args()
+
 
 if __name__ == '__main__':
+    args = parse_args()
+
     print('\rFetching ROCO dataset images...')
     dataset_dir = os.path.dirname(os.path.abspath(os.path.realpath(sys.argv[0])
                                                   + '/..'))
@@ -145,12 +154,13 @@ if __name__ == '__main__':
     num_images = len(lines)
     provide_extraction_dir()
 
-    counter = multiprocessing.Value('i', 0)
-    pool = multiprocessing.Pool(processes=NUM_PROCESSES, maxtasksperchild=10,
-                                initializer=init, initargs=(counter, ))
-    pool.map(process_line, lines, chunksize=1)
+    pool = multiprocessing.Pool(processes=int(args.num_processes),
+                                maxtasksperchild=10)
+    for i, file in enumerate(pool.imap_unordered(process_line, lines)):
+        log_status(i, file, num_images)
+
     pool.close()
     pool.join()
 
-    if not KEEP_ARCHIVES:
+    if not args.keep_archives:
         remove_extraction_dir()
