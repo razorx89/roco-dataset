@@ -21,6 +21,11 @@ DLINKS_FOLDERS = [
 ]
 
 
+def init(argsp):
+    global args
+    args = argsp
+
+
 def log_status(index, target_filename, num_images):
     print("{:.3%}".format(1. * index / num_images) + ' | '
           + str(index) + '/' + str(num_images) + ' | '
@@ -138,7 +143,8 @@ def parse_args():
         '-n', '--num-processes',
         help='Number of parallel processes, reduce this if you are being '
              + 'locked out of the PMC FTP service',
-        default=multiprocessing.cpu_count()
+        default=multiprocessing.cpu_count(),
+        type=int,
     )
 
     return parser.parse_args()
@@ -154,8 +160,9 @@ if __name__ == '__main__':
     num_images = len(lines)
     provide_extraction_dir()
 
-    pool = multiprocessing.Pool(processes=int(args.num_processes),
-                                maxtasksperchild=10)
+    pool = multiprocessing.Pool(processes=args.num_processes,
+                                maxtasksperchild=10, initializer=init,
+                                initargs=(args, ))
     for i, file in enumerate(pool.imap_unordered(process_line, lines)):
         log_status(i, file, num_images)
 
