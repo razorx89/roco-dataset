@@ -8,6 +8,8 @@ import shutil
 import sys
 import tarfile
 import tempfile
+import urllib.request
+import xml.etree.ElementTree as ET
 
 tempfile.gettempdir()
 
@@ -19,6 +21,8 @@ DLINKS_FOLDERS = [
     'data/validation/radiology',
     'data/validation/non-radiology',
 ]
+
+PMCID_INFORMATION_API = 'https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id='
 
 
 def init(argsp):
@@ -78,11 +82,23 @@ def download_and_extract_archive(archive_url, pmc_id, extraction_dir_name,
                                  target_filename):
     # download archive if it doesn't exist
     archive_filename = os.path.join(extraction_dir_name,
-                                    archive_url.split(os.sep)[-1])
+                                    archive_url.split('/')[-1])
+
+    result = 0
 
     if not os.path.exists(archive_filename):
-        subprocess.call(
-            ['wget', '-nd', '-q', '-P', extraction_dir_name, archive_url])
+        result = download_archive(extraction_dir_name, archive_url)
+
+    # if wget returned an error, archive was moved; we try to find the new URL
+    if result > 0:
+        new_archive_url = determine_new_archive_url(archive_url)
+
+        if new_archive_url != archive_url:
+            download_archive(extraction_dir_name, new_archive_url)
+
+    if not os.path.exists(archive_filename):
+        print('Error: failed to download archive ' + archive_filename)
+        return
 
     archive_tarfile = tarfile.open(archive_filename)
 
@@ -98,6 +114,25 @@ def download_and_extract_archive(archive_url, pmc_id, extraction_dir_name,
     shutil.rmtree(os.path.join(extraction_dir_name, pmc_id), True)
     if not args.keep_archives:
         os.remove(archive_filename)
+
+
+def download_archive(extraction_dir, archive_url):
+    return subprocess.call(['wget', '-nd', '-q', '-P', extraction_dir,
+                            archive_url])
+
+
+def determine_new_archive_url(current_archive_url):
+    pmcid = current_archive_url.split('/')[-1][:-7]
+    request_url = PMCID_INFORMATION_API + pmcid
+    print('Trying to get new archive URL: ' + request_url)
+    contents = urllib.request.urlopen(request_url).read()
+    root = ET.fromstring(contents)
+
+    for link in root.iter('link'):
+        if link.get('format') == 'tgz':
+            return link.get('href')
+
+    return current_archive_url
 
 
 def process_line(line_and_folder):
@@ -162,7 +197,7 @@ if __name__ == '__main__':
 
     pool = multiprocessing.Pool(processes=args.num_processes,
                                 maxtasksperchild=10, initializer=init,
-                                initargs=(args, ))
+                                initargs=(args,))
     for i, file in enumerate(pool.imap_unordered(process_line, lines)):
         log_status(i, file, num_images)
 
