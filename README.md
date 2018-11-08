@@ -14,4 +14,7 @@ python scripts/fetch.py
 Citation
 --------
 If you use this dataset for your own research, please cite the following paper:
-> O. Pelka, S. Koitka, J. Rückert, F. Nensa, C.M. Friedrich, "__Radiology Objects in COntext (ROCO): A Multimodal Image Dataset__". MICCAI Workshop on Large-scale Annotation of Biomedical Data and Expert Label Synthesis (LABELS) 2018, September 16, 2018, Granada, Spain. Lecture Notes on Computer Science (LNCS), vol. ??, no. ??, pp. ??-??, Springer. doi: ...
+> O. Pelka, S. Koitka, J. Rückert, F. Nensa, C.M. Friedrich,  
+> "__Radiology Objects in COntext (ROCO): A Multimodal Image Dataset__".  
+> MICCAI Workshop on Large-scale Annotation of Biomedical Data and Expert Label Synthesis (LABELS) 2018, September 16, 2018, Granada, Spain. Lecture Notes on Computer Science (LNCS), vol. 11043, pp. 180-189, Springer Cham, 2018.  
+> doi: [10.1007/978-3-030-01364-6_20](https://doi.org/10.1007/978-3-030-01364-6_20)
