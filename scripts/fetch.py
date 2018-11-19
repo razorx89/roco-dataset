@@ -1,6 +1,7 @@
 """ Download packages and extract images based on dlinks.txt files. """
 
 import argparse
+import glob
 import multiprocessing
 import os
 import subprocess
@@ -22,7 +23,7 @@ DLINKS_FOLDERS = [
     'data/validation/non-radiology',
 ]
 
-PMCID_INFORMATION_API = 'https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id='
+PMCID_INFORMATION_API = 'https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?tool=roco-fetch&email=johannes.rueckert@fh-dortmund.de&id='
 
 
 def init(argsp):
@@ -30,10 +31,10 @@ def init(argsp):
     args = argsp
 
 
-def log_status(index, target_filename, num_images):
-    print("{:.3%}".format(1. * index / num_images) + ' | '
-          + str(index) + '/' + str(num_images) + ' | '
-          + os.path.basename(target_filename))
+def log_status(index, pmc_id, num_groups):
+    print("{:.3%}".format(1. * index / num_groups) + ' | '
+          + str(index) + '/' + str(num_groups) + ' | '
+          + os.path.basename(pmc_id))
 
 
 def extract_image_info(line, image_dir):
@@ -44,12 +45,25 @@ def extract_image_info(line, image_dir):
     target_filename = pmc_id + '_' + image_name
 
     return archive_url, image_name, pmc_id, \
-           os.path.join(image_dir, target_filename)
+           os.path.join(image_dir, args.subdir, target_filename)
 
 
 def provide_extraction_dir():
     if not os.path.exists(args.extraction_dir):
         os.makedirs(args.extraction_dir, 0o755)
+
+    # Delete extraction directory contents if it's not empty
+    elif len(os.listdir(args.extraction_dir)) > 0 and not args.keep_archives:
+        if not args.delete_extraction_dir:
+            raise Exception('The extraction directory {0} is not empty, ' +
+                            'please pass -d if confirm deletion of its contents')
+
+        files = glob.glob(os.path.join(args.extraction_dir, '*'))
+        for f in files:
+            if os.path.isdir(f):
+                shutil.rmtree(f, True)
+            else:
+                os.remove(f)
 
 
 def remove_extraction_dir():
@@ -59,7 +73,7 @@ def remove_extraction_dir():
 def determine_number_of_images(dlinks_folder):
     with open(os.path.join(dataset_dir, dlinks_folder, 'dlinks.txt')) as \
             dlinks_file:
-        return sum(1 for line in dlinks_file)
+        return sum(1 for _ in dlinks_file)
 
 
 def collect_dlinks_lines():
@@ -70,60 +84,133 @@ def collect_dlinks_lines():
         if not os.path.exists(image_dir):
             os.mkdir(image_dir, 0o755)
 
-        with open(filename) as \
-                dlinks_file:
+        with open(filename) as dlinks_file:
             lines.extend([[line.rstrip('\n'), folder] for line in dlinks_file])
 
     return lines
 
 
-def download_and_extract_archive(archive_url, pmc_id, extraction_dir_name,
-                                 image_name,
-                                 target_filename):
-    # download archive if it doesn't exist
+def group_lines_by_archive(lines):
+    groups = {}
+    for line, folder in lines:
+        image_info = extract_image_info(line, folder)
+
+        if groups.get(image_info[0]) is None:
+            groups[image_info[0]] = []
+
+        groups[image_info[0]].append(image_info)
+
+    return groups
+
+
+def process_group(group):
+    archive_url = group[0][0]
+    pmc_id = group[0][2]
+    extraction_dir_name = args.extraction_dir
+
     archive_filename = os.path.join(extraction_dir_name,
                                     archive_url.split('/')[-1])
 
-    result = 0
+    # Skip if all images have already been extracted
+    extraction_needed = False
+    for _, _, _, target_filename in group:
+        if not os.path.exists(os.path.join(dataset_dir, target_filename)):
+            extraction_needed = True
+            break
 
-    if not os.path.exists(archive_filename):
-        result = download_archive(extraction_dir_name, archive_url)
+    if not extraction_needed:
+        return pmc_id + ' (not needed)'
+
+    # delete archive if it exists to avoid problems with aborted downloads
+    shutil.rmtree(archive_filename, True)
+
+    num_download_retries = 1
+
+    result = download_archive(extraction_dir_name, archive_url,
+                              num_download_retries)
 
     # if wget returned an error, archive was moved; we try to find the new URL
-    if result > 0:
-        new_archive_url = determine_new_archive_url(archive_url)
+    while result > 0 \
+            or not os.path.exists(archive_filename):
 
-        if new_archive_url != archive_url:
-            download_archive(extraction_dir_name, new_archive_url)
+        print('Error: download failed, retrying')
 
-    if not os.path.exists(archive_filename):
-        print('Error: failed to download archive ' + archive_filename)
-        return
+        if num_download_retries == 1:
+            new_archive_url = determine_new_archive_url(archive_url)
 
-    archive_tarfile = tarfile.open(archive_filename)
+            # abort if archive no longer on FTP
+            if new_archive_url is None:
+                return pmc_id + ' (FAILED)'
 
-    image_name_in_archive = pmc_id + os.sep + image_name
-    image_tarinfo = archive_tarfile.getmember(image_name_in_archive)
+            if new_archive_url != archive_url:
+                archive_url = new_archive_url
 
-    # extract image to extraction dir, then copy to target file name
-    archive_tarfile.extractall(extraction_dir_name, [image_tarinfo])
-    image_filename = os.path.join(extraction_dir_name, image_name_in_archive)
-    shutil.copy(image_filename, target_filename)
+        num_download_retries += 1
+        result = download_archive(extraction_dir_name, archive_url,
+                                  num_download_retries)
 
-    # remove image and archive from extraction dir
+    # collect and extract images from archive
+    for _, image_name, pmc_id, target_filename in group:
+        # do not extract if the image already exists
+        if os.path.exists(os.path.join(dataset_dir, target_filename)):
+            continue
+
+        image_name_in_archive = pmc_id + os.sep + image_name
+
+        extracted = False
+
+        while not extracted:
+            try:
+                archive_tarfile = tarfile.open(archive_filename)
+                member = archive_tarfile.getmember(image_name_in_archive)
+                # extract image to extraction dir
+                archive_tarfile.extractall(extraction_dir_name, [member])
+            # TODO does this ever happen if the initial download did not fail?
+            except (EOFError, tarfile.ReadError) as e:
+                print('Error: failed to extract {0} ({1}), retrying...'
+                      .format(archive_filename, e))
+                num_download_retries += 1
+                shutil.rmtree(archive_filename, True)
+                download_archive(extraction_dir_name, archive_url,
+                                 num_download_retries)
+                archive_tarfile = tarfile.open(archive_filename)
+            except KeyError as e:
+                print('Error: failed to extract image {0} from archive {1}'
+                      .format(image_name_in_archive, archive_url))
+                break
+            else:
+                extracted = True
+
+        # download was successful, but image does not exist in archive, skip
+        if not extracted:
+            continue
+
+        # copy extracted images to target folder
+        image_filename = os.path.join(extraction_dir_name,
+                                      image_name_in_archive)
+        shutil.copy(image_filename, target_filename)
+
+    # remove group directory from extraction dir
     shutil.rmtree(os.path.join(extraction_dir_name, pmc_id), True)
+
+    # remove archive from extraction dir
     if not args.keep_archives:
         os.remove(archive_filename)
 
+    return pmc_id
 
-def download_archive(extraction_dir, archive_url):
+
+def download_archive(extraction_dir, archive_url, num_retries):
+    if num_retries > args.num_retries:
+        raise Exception("Giving up download of archive {0} after {0} tries")
+
     return subprocess.call(['wget', '-nd', '-q', '-P', extraction_dir,
                             archive_url])
 
 
 def determine_new_archive_url(current_archive_url):
-    pmcid = current_archive_url.split('/')[-1][:-7]
-    request_url = PMCID_INFORMATION_API + pmcid
+    pmc_id = current_archive_url.split('/')[-1][:-7]
+    request_url = PMCID_INFORMATION_API + pmc_id
     print('Trying to get new archive URL: ' + request_url)
     contents = urllib.request.urlopen(request_url).read()
     root = ET.fromstring(contents)
@@ -132,26 +219,32 @@ def determine_new_archive_url(current_archive_url):
         if link.get('format') == 'tgz':
             return link.get('href')
 
-    return current_archive_url
+    # check if archive is available
+    for error in root.iter('error'):
+        code = error.get('code')
+        if code == 'idIsNotOpenAccess':
+            print('Archive {0} no longer open access'
+                  .format(current_archive_url))
+        elif code == 'idDoesNotExist':
+            print('Archive {0} no longer exists'
+                  .format(current_archive_url))
+        else:
+            print('API returned error code {0} for archive {1}'
+                  .format(code, current_archive_url))
 
-
-def process_line(line_and_folder):
-    image_dir = os.path.join(dataset_dir, line_and_folder[1], args.subdir)
-    archive_url, image_name, pmc_id, target_filename \
-        = extract_image_info(line_and_folder[0], image_dir)
-
-    if not os.path.exists(target_filename):
-        download_and_extract_archive(
-            archive_url, pmc_id, args.extraction_dir,
-            image_name, os.path.join(image_dir, target_filename))
-
-    return target_filename
+    return None
 
 
 def parse_args():
     parser = argparse.ArgumentParser(
         description=__doc__.strip(),
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+
+    parser.add_argument(
+        '-c', '--print-config',
+        help='print configuration and exit',
+        action='store_true'
     )
 
     parser.add_argument(
@@ -168,6 +261,13 @@ def parse_args():
     )
 
     parser.add_argument(
+        '-d', '--delete-extraction-dir',
+        help='to avoid loss of data, this must be passed to confirm that all'
+             + 'data in the extraction directory will be deleted',
+        action='store_true',
+    )
+
+    parser.add_argument(
         '-k', '--keep-archives',
         help='keep downloaded archives after extraction. Ensure sufficient '
              + 'available disk space at the extraction directory location',
@@ -176,30 +276,55 @@ def parse_args():
 
     parser.add_argument(
         '-n', '--num-processes',
-        help='Number of parallel processes, reduce this if you are being '
+        help='number of parallel processes, reduce this if you are being '
              + 'locked out of the PMC FTP service',
         default=multiprocessing.cpu_count(),
+        type=int,
+    )
+
+    parser.add_argument(
+        '-r', '--num-retries',
+        help='number of retries for failed downloads before giving up',
+        default=10,
         type=int,
     )
 
     return parser.parse_args()
 
 
+def print_config(args):
+    print('Configuration:')
+    print('Subdirectory: {0}'.format(args.subdir))
+    print('Extraction directory: {0}'.format(args.extraction_dir))
+    print('Keep archives: {0}'.format(args.keep_archives))
+    print('Delete contents of extraction directory: {0}'
+          .format(args.delete_extraction_dir))
+    print('Number of processes: {0}'.format(args.num_processes))
+    print('Number of download retries: {0}'.format(args.num_retries))
+
+
 if __name__ == '__main__':
     args = parse_args()
 
-    print('\rFetching ROCO dataset images...')
+    print_config(args)
+
+    if args.print_config:
+        exit(0)
+
+    print('Fetching ROCO dataset images...')
     dataset_dir = os.path.dirname(os.path.abspath(os.path.realpath(sys.argv[0])
                                                   + '/..'))
     lines = collect_dlinks_lines()
-    num_images = len(lines)
+    groups = group_lines_by_archive(lines)
+    num_groups = len(groups)
     provide_extraction_dir()
 
     pool = multiprocessing.Pool(processes=args.num_processes,
-                                maxtasksperchild=10, initializer=init,
+                                maxtasksperchild=100, initializer=init,
                                 initargs=(args,))
-    for i, file in enumerate(pool.imap_unordered(process_line, lines)):
-        log_status(i, file, num_images)
+    for i, pmc_id in enumerate(pool.imap_unordered(process_group,
+                                                   groups.values())):
+        log_status(i, pmc_id, num_groups)
 
     pool.close()
     pool.join()
