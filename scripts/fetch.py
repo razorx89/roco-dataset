@@ -41,7 +41,7 @@ def extract_image_info(line, image_dir):
     line_parts_tab = line.split("\t")
     image_name = line_parts_tab[-1].strip()
     archive_url = line_parts_tab[1].split(' ')[2]
-    pmc_id = archive_url.split(os.sep)[-1][:-7]
+    pmc_id = archive_url.split("/")[-1][:-7]
     target_filename = pmc_id + '_' + image_name
 
     return archive_url, image_name, pmc_id, \
@@ -71,15 +71,15 @@ def remove_extraction_dir():
 
 
 def determine_number_of_images(dlinks_folder):
-    with open(os.path.join(dataset_dir, dlinks_folder, 'dlinks.txt')) as \
+    with open(os.path.join(args.repository_dir, dlinks_folder, 'dlinks.txt')) as \
             dlinks_file:
         return sum(1 for _ in dlinks_file)
 
 
 def collect_dlinks_lines():
     lines = []
-    for folder in DLINKS_FOLDERS:
-        filename = os.path.join(dataset_dir, folder, 'dlinks.txt')
+    for folder in args.dlinks_folders:
+        filename = os.path.join(args.repository_dir, folder, 'dlinks.txt')
         image_dir = os.path.join(os.path.dirname(filename), args.subdir)
         if not os.path.exists(image_dir):
             os.mkdir(image_dir, 0o755)
@@ -114,7 +114,7 @@ def process_group(group):
     # Skip if all images have already been extracted
     extraction_needed = False
     for _, _, _, target_filename in group:
-        if not os.path.exists(os.path.join(dataset_dir, target_filename)):
+        if not os.path.exists(os.path.join(args.repository_dir, target_filename)):
             extraction_needed = True
             break
 
@@ -152,10 +152,10 @@ def process_group(group):
     # collect and extract images from archive
     for _, image_name, pmc_id, target_filename in group:
         # do not extract if the image already exists
-        if os.path.exists(os.path.join(dataset_dir, target_filename)):
+        if os.path.exists(os.path.join(args.repository_dir, target_filename)):
             continue
 
-        image_name_in_archive = pmc_id + os.sep + image_name
+        image_name_in_archive = pmc_id + "/" + image_name
 
         extracted = False
 
@@ -165,6 +165,7 @@ def process_group(group):
                 member = archive_tarfile.getmember(image_name_in_archive)
                 # extract image to extraction dir
                 archive_tarfile.extractall(extraction_dir_name, [member])
+                archive_tarfile.close()
             # TODO does this ever happen if the initial download did not fail?
             except (EOFError, tarfile.ReadError) as e:
                 print('Error: failed to extract {0} ({1}), retrying...'
@@ -173,10 +174,9 @@ def process_group(group):
                 shutil.rmtree(archive_filename, True)
                 download_archive(extraction_dir_name, archive_url,
                                  num_download_retries)
-                archive_tarfile = tarfile.open(archive_filename)
             except KeyError as e:
-                print('Error: failed to extract image {0} from archive {1}'
-                      .format(image_name_in_archive, archive_url))
+                print('Error: failed to extract image {0} from archive {1}: {2}'
+                      .format(image_name_in_archive, archive_url, e))
                 break
             else:
                 extracted = True
@@ -186,8 +186,7 @@ def process_group(group):
             continue
 
         # copy extracted images to target folder
-        image_filename = os.path.join(extraction_dir_name,
-                                      image_name_in_archive)
+        image_filename = os.path.join(extraction_dir_name, pmc_id, image_name)
         shutil.copy(image_filename, target_filename)
 
     # remove group directory from extraction dir
@@ -305,6 +304,10 @@ def print_config(args):
 
 if __name__ == '__main__':
     args = parse_args()
+    args.repository_dir = os.path.dirname(
+        os.path.abspath(os.path.realpath(sys.argv[0])
+                        + '/..'))
+    args.dlinks_folders = DLINKS_FOLDERS
 
     print_config(args)
 
@@ -312,8 +315,7 @@ if __name__ == '__main__':
         exit(0)
 
     print('Fetching ROCO dataset images...')
-    dataset_dir = os.path.dirname(os.path.abspath(os.path.realpath(sys.argv[0])
-                                                  + '/..'))
+
     lines = collect_dlinks_lines()
     groups = group_lines_by_archive(lines)
     num_groups = len(groups)
