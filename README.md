@@ -13,6 +13,15 @@ To download the images, clone the repository and run
 python scripts/fetch.py
 ```
 
+Troubleshooting
+---------------
+
+If you see many download errors and/or you have a slow internet connection, try to reduce the number of processes to one:
+
+```bash
+python scripts/fetch.py -n 1
+```
+
 Citation
 --------
 If you use this dataset for your own research, please cite the following paper:

@@ -11,6 +11,8 @@ import tarfile
 import tempfile
 import urllib.request
 import xml.etree.ElementTree as ET
+import zlib
+import gzip
 
 tempfile.gettempdir()
 
@@ -166,18 +168,18 @@ def process_group(group):
                 # extract image to extraction dir
                 archive_tarfile.extractall(extraction_dir_name, [member])
                 archive_tarfile.close()
-            # TODO does this ever happen if the initial download did not fail?
-            except (EOFError, tarfile.ReadError) as e:
-                print('Error: failed to extract {0} ({1}), retrying...'
-                      .format(archive_filename, e))
-                num_download_retries += 1
-                shutil.rmtree(archive_filename, True)
-                download_archive(extraction_dir_name, archive_url,
-                                 num_download_retries)
             except KeyError as e:
                 print('Error: failed to extract image {0} from archive {1}: {2}'
                       .format(image_name_in_archive, archive_url, e))
                 break
+            # TODO does this ever happen if the initial download did not fail?
+            except (EOFError, tarfile.ReadError, zlib.error, gzip.BadGzipFile) as e:
+                print('Error: failed to extract {0} ({1}), retrying...'
+                      .format(archive_filename, e))
+                num_download_retries += 1
+                os.remove(archive_filename)
+                download_archive(extraction_dir_name, archive_url,
+                                 num_download_retries)
             else:
                 extracted = True
 
@@ -201,10 +203,11 @@ def process_group(group):
 
 def download_archive(extraction_dir, archive_url, num_retries):
     if num_retries > args.num_retries:
-        raise Exception("Giving up download of archive {0} after {0} tries")
+        raise Exception("Giving up download of archive {0} after {1} tries"
+                        .format(archive_url, num_retries))
 
-    return subprocess.call(['wget', '-nd', '-q', '-P', extraction_dir,
-                            archive_url])
+    return subprocess.call(['wget', '-nc', '-nd', '-c', '-q', '-P',
+                            extraction_dir, archive_url])
 
 
 def determine_new_archive_url(current_archive_url):
