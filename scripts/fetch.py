@@ -162,29 +162,36 @@ def process_group(group):
         extracted = False
 
         while not extracted:
+            archive_tarfile = None
+            download_again = False
             try:
                 archive_tarfile = tarfile.open(archive_filename)
                 member = archive_tarfile.getmember(image_name_in_archive)
-                # extract image to extraction dir
                 archive_tarfile.extractall(extraction_dir_name, [member])
-                archive_tarfile.close()
             except KeyError as e:
                 print('Error: failed to extract image {0} from archive {1}: {2}'
                       .format(image_name_in_archive, archive_url, e))
                 break
-            # TODO does this ever happen if the initial download did not fail?
             except (EOFError, tarfile.ReadError, zlib.error, gzip.BadGzipFile) as e:
                 print('Error: failed to extract {0} ({1}), retrying...'
                       .format(archive_filename, e))
                 num_download_retries += 1
-                os.remove(archive_filename)
-                download_archive(extraction_dir_name, archive_url,
-                                 num_download_retries)
+                download_again = True
             else:
                 extracted = True
+            finally:
+                if isinstance(archive_tarfile, tarfile.TarFile):
+                    archive_tarfile.close()
+
+                if download_again:
+                    os.remove(archive_filename)
+                    download_archive(extraction_dir_name, archive_url,
+                                     num_download_retries)
 
         # download was successful, but image does not exist in archive, skip
         if not extracted:
+            print('Image {0} not found in archive {1}, skipping'
+                  .format(image_name_in_archive, archive_url))
             continue
 
         # copy extracted images to target folder
@@ -194,7 +201,6 @@ def process_group(group):
     # remove group directory from extraction dir
     shutil.rmtree(os.path.join(extraction_dir_name, pmc_id), True)
 
-    # remove archive from extraction dir
     if not args.keep_archives:
         os.remove(archive_filename)
 
@@ -306,6 +312,10 @@ def print_config(args):
 
 
 if __name__ == '__main__':
+    # Make sure that wget is available
+    if not shutil.which("wget"):
+        print("wget not found, please install wget and put it on your PATH")
+        exit(-1)
     args = parse_args()
     args.repository_dir = os.path.dirname(
         os.path.abspath(os.path.realpath(sys.argv[0])

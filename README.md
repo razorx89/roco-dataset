@@ -22,6 +22,8 @@ If you see many download errors and/or you have a slow internet connection, try 
 python scripts/fetch.py -n 1
 ```
 
+If on Windows, make sure `wget` is installed and its location (e.g. `C:\Program Files (x86)\GnuWin32\bin`) is added to the `Path` environment variable.
+
 Citation
 --------
 If you use this dataset for your own research, please cite the following paper:
