@@ -44,7 +44,7 @@ def extract_image_info(line, image_dir):
     image_name = line_parts_tab[-1].strip()
     archive_url = line_parts_tab[1].split(' ')[2]
     pmc_id = archive_url.split("/")[-1][:-7]
-    target_filename = pmc_id + '_' + image_name
+    target_filename = line_parts_tab[0] + ".jpg"
 
     return archive_url, image_name, pmc_id, \
            os.path.join(image_dir, args.subdir, target_filename)
@@ -173,7 +173,7 @@ def process_group(group):
                       .format(image_name_in_archive, archive_url, e))
                 break
             except (EOFError, tarfile.ReadError, zlib.error, gzip.BadGzipFile) as e:
-                print('Error: failed to extract {0} ({1}), retrying...'
+                print('Error: failed to extract {0} ({1}), re-downloading...'
                       .format(archive_filename, e))
                 num_download_retries += 1
                 download_again = True
@@ -263,14 +263,14 @@ def parse_args():
 
     parser.add_argument(
         '-e', '--extraction-dir',
-        help='path to the extraction directory where downloaded archives and '
-             + 'images are stored',
+        help='path to the directory where downloaded archives and '
+             + 'images are extracted before being moved to the data subdirectory',
         default=os.path.join(tempfile.tempdir, 'roco-dataset'),
     )
 
     parser.add_argument(
         '-d', '--delete-extraction-dir',
-        help='to avoid loss of data, this must be passed to confirm that all'
+        help='to avoid loss of data, this must be passed to confirm that all '
              + 'data in the extraction directory will be deleted',
         action='store_true',
     )

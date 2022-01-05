@@ -22,7 +22,7 @@ If you see many download errors and/or you have a slow internet connection, try 
 python scripts/fetch.py -n 1
 ```
 
-If on Windows, make sure `wget` is installed and its location (e.g. `C:\Program Files (x86)\GnuWin32\bin`) is added to the `Path` environment variable.
+If on Windows, make sure `wget` is installed and its location (e.g. `C:\Program Files (x86)\GnuWin32\bin`) is added to the `Path` environment variable. Or install [Ubuntu on WSL](https://ubuntu.com/wsl).
 
 Citation
 --------
