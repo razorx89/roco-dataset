@@ -196,7 +196,7 @@ def process_group(group):
 
         # copy extracted images to target folder
         image_filename = os.path.join(extraction_dir_name, pmc_id, image_name)
-        shutil.copy(image_filename, target_filename)
+        shutil.copy(image_filename, os.path.join(args.repository_dir, target_filename))
 
     # remove group directory from extraction dir
     shutil.rmtree(os.path.join(extraction_dir_name, pmc_id), True)
@@ -317,9 +317,7 @@ if __name__ == '__main__':
         print("wget not found, please install wget and put it on your PATH")
         exit(-1)
     args = parse_args()
-    args.repository_dir = os.path.dirname(
-        os.path.abspath(os.path.realpath(sys.argv[0])
-                        + '/..'))
+    args.repository_dir = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
     args.dlinks_folders = DLINKS_FOLDERS
 
     print_config(args)
